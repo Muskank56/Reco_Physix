@@ -1,12 +1,20 @@
+<<<<<<< HEAD
 question,option_1,option_2,option_3,option_4,Subject,topic,correct_answer,Correct_Option_Number
 Two wires carrying,parallel current repel each other,antiparallel current attract each other.,antiparallel current repel each other.,equal magnitudes of antiparallel current attract each other.,Physics,Mixed Questions,parallel current repel each other,1
 Fill the most suitable option. Mosquitoes and some snakes find their food using vision in the \( _{---} \) range,infrared,ultraviolet,radio,"microwave
 E. visible light",Physics,Mixed Questions,infrared,1
+=======
+question,option_1,option_2,option_3,option_4,Subject,topic,correct_answer,Correct_Option_Number
+Two wires carrying,parallel current repel each other,antiparallel current attract each other.,antiparallel current repel each other.,equal magnitudes of antiparallel current attract each other.,Physics,Mixed Questions,parallel current repel each other,1
+Fill the most suitable option. Mosquitoes and some snakes find their food using vision in the \( _{---} \) range,infrared,ultraviolet,radio,"microwave
+E. visible light",Physics,Mixed Questions,infrared,1
+>>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
 "Assertion
 100 years make 10 decades.
 Reason
 Every century is divided into 10 decades.","Both Assertion and Reason are correct and Reason is
 the correct explanation for Assertion",Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Mixed Questions,"Both Assertion and Reason are correct and Reason is
+<<<<<<< HEAD
 the correct explanation for Assertion",1
 "Why skin feels dry in an air-conditioned
 room?",Because the rate of evaporation decreases with lower humidity.,Because the rate of evaporation increases with lower humidity.,Because the rate of evaporation remains same with lower humidity.,Because the rate of evaporation increases with higher humidity.,Physics,Mixed Questions,Because the rate of evaporation decreases with lower humidity.,1
@@ -36,10 +44,42 @@ of thermodynamics?",Heat can flow spontaneously from a cold object to a hot obje
 "A person cannot see objects clearly
 which are nearer than \( 75 \mathrm{cms} \) from his
 eyes, the disease he is suffering from is:",Astigmatism,Myopia,Hypermetopia,Presbyopia,Physics,Mixed Questions,Astigmatism,1
+=======
+the correct explanation for Assertion",1
+"Why skin feels dry in an air-conditioned
+room?",Because the rate of evaporation decreases with lower humidity.,Because the rate of evaporation increases with lower humidity.,Because the rate of evaporation remains same with lower humidity.,Because the rate of evaporation increases with higher humidity.,Physics,Mixed Questions,Because the rate of evaporation decreases with lower humidity.,1
+"When a bomb explodes into two pieces, they move in opposite directions. This motion in opposite direction can be explained by",Law of conservation of energy,Law of conservation of momentum,Law of conservation of mass,Law of conservation of charge,Physics,Mixed Questions,Law of conservation of energy,1
+"Which of the following statement is
+correct?",AC generator generates a higher voltage,DC generator generates a higher voltage,AC generator has a permanent magnet whereas a DC generator has an electromagnet,There is a split-ring commutator in a DC generator but not in an AC generator,Physics,Mixed Questions,AC generator generates a higher voltage,1
+"The electric volt is a measure of
+electrical potential. Identify which of the following can be defined as a volt.",Opposition to electrical motion,Number of particles in motion,work per unit charge,"Field strength per unit of force
+E. Electrostatic discharge",Physics,Mixed Questions,Opposition to electrical motion,1
+"Which moon is after the waxing
+crescent?",Third Quater,First Quarter,waxing Gibbous,New moon,Physics,Mixed Questions,Third Quater,1
+Periscope is used for:,observation beyond the obstruction,watching TV more clearly,viewing nearby objects by persons suffering from visual deformities,all of these,Physics,Mixed Questions,observation beyond the obstruction,1
+"Two identical plates of different metals are joined to form a single plate whose thickness is double the thickness of
+each plate. If the coefficients of conductivity of each plate are 2 and 3 respectively, then the conductivity of the composite plate will be",5,2.4,1.5,1.2,Physics,Mixed Questions,1.5,3
+"The mud houses are cooler in summer
+and warmer in winter. It happen due to
+the reason that.",Mud is a good conductor of heat,Mud is a bad conductor of heat,Mud work as an isothermal layer between ground and air,Mud is a superconductor of heat,Physics,Mixed Questions,Mud is a good conductor of heat,1
+Longitudinal strain is possible in,Liquid,Gases,Solid,All of these,Physics,Mixed Questions,Liquid,1
+"Dry ice is an example of
+process.",Evaporation,Crystallization,Sublimation,Purification,Physics,Mixed Questions,Evaporation,1
+"In a transistor, forward bias is always
+smaller than the reverse bias. This is
+done to :",Maintain constant current supply,get good output,Avoid excessive heating of transistor,Maintain flow of majority charge carriers,Physics,Mixed Questions,Maintain constant current supply,1
+It is better to use a sharp tipped nail than a blunt nail because:,the tip with the smallest area will produce a higher pressure when a small force is applied,a sharp tipped nail needs a larger force to drive it into wooden surface,the sharp tip saves cost as less raw materials are required to make such nails,the sharp tip has a spiralling effect when the nail is hit on the head,Physics,Mixed Questions,the tip with the smallest area will produce a higher pressure when a small force is applied,1
+"Which statement is true for second law
+of thermodynamics?",Heat can flow spontaneously from a cold object to a hot object.,You can not create a heat engine which extracts heat and converts it all to useful work,According to Plank-Kelvin's law under some circumstances a perfect heat engine is possible.,None of these.,Physics,Mixed Questions,Heat can flow spontaneously from a cold object to a hot object.,1
+"A person cannot see objects clearly
+which are nearer than \( 75 \mathrm{cms} \) from his
+eyes, the disease he is suffering from is:",Astigmatism,Myopia,Hypermetopia,Presbyopia,Physics,Mixed Questions,Astigmatism,1
+>>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
 "Calculate the rate at which the tank is
 filled in gallons per second. (in gal/s)
 A .0 .0729","(in gal/s)
 A .0 .0729",0.07,0.072,0.029,Physics,Mixed Questions,"(in gal/s)
+<<<<<<< HEAD
 A .0 .0729",1
 "Well known formula one racing car has
 a body with",laminated design,turbulent design,flat design,streamlined design,Physics,Mixed Questions,laminated design,1
@@ -71,6 +111,39 @@ Which of the following possesses potential energy?,Moving vehicle on the road,A 
 Fossils are,Fovea in the retina of vertebrate eye,Remains of organisms present in the rocks,The fossa present in the bones,Foramen through which nerves pass,Physics,Mixed Questions,Fovea in the retina of vertebrate eye,1
 A vector \( \vec{A} \) points vertically upward and \( \vec{B} \) points towards north. The vector product \( \overrightarrow{\boldsymbol{A}} \times \overrightarrow{\boldsymbol{B}} \) is:,null vector,along west,along east,vertically downward,Physics,Mixed Questions,along west,2
 Hysteresis is shown by which of the following materials,paramagnetic only,ferromagnetic only,diamagnetic only,both B and C,Physics,Mixed Questions,paramagnetic only,1
+=======
+A .0 .0729",1
+"Well known formula one racing car has
+a body with",laminated design,turbulent design,flat design,streamlined design,Physics,Mixed Questions,laminated design,1
+The material for making permanent magnets should have,"high retentivity, high coercivity","high retentivity, low coercivity","low retentivity, high coercivity","low retentivity, low coercivity",Physics,Mixed Questions,"high retentivity, high coercivity",1
+"Write a wave function describing the
+wave","\( y=0.075 \cos (1.05 x-4 \pi t) \)
+\( t \)",\( y=0.075 \cos (1.05 x-2 t) \),\( y=0.075 \sin (1.05 x-4 \pi t) \),,Physics,Mixed Questions,"\( y=0.075 \cos (1.05 x-4 \pi t) \)
+\( t \)",1
+"If the density of earth increases by \( 20 \% \) and radius decreases by \( 20 \% \) then the new value of ""g"" on the surface of earth will be:",\( 0.8 \mathrm{g} \),\( 0.90 \mathrm{g} \),\( 0.96 \mathrm{g} \),,Physics,Mixed Questions,\( 0.8 \mathrm{g} \),1
+The full moon night is called:,Purnima,Amavasya,Both (A) and (B),None of them,Physics,Mixed Questions,Purnima,1
+"A wooden spoon is dipped in a cup of ice
+cream. It's another end",Become cold by the process of conduction,Become cold by the process of convection,Become cold by the process of radiation,Does not become cold,Physics,Mixed Questions,Become cold by the process of conduction,1
+SONAR is based on the principle of,echo,resonance,reverberation,anyone of the above,Physics,Mixed Questions,echo,1
+Which of the following is correct?,Wavelength of light used can change the angle of deviation of a prism,Wavelength of light used can not change the angle of deviation of a prism,"Blue light, the angle of deviation of a prism, changes the most.",None of the above,Physics,Mixed Questions,Wavelength of light used can change the angle of deviation of a prism,1
+"In which of the following cases of rolling body, translatory and rotational kinetic energies are equal",Circular ring,Circular plate,Solid sphere,solid cylinder,Physics,Mixed Questions,Circular ring,1
+"In the figure shown, the plastic region
+occurs",Before point \( A \),Beyond point A,Between points A and,Between points D and E,Physics,Mixed Questions,Before point \( A \),1
+"The diagram above shows the pattern of
+the oil dripping on the road, at a
+constant rate from a moving car. What information(s) do you get from it about
+the motion of car?",Initially it is moving with a constant speed and then it speeds up.,Initially it is moving with a constant speed and then it slows down,It is moving with a constant speed.,None of the above.,Physics,Mixed Questions,Initially it is moving with a constant speed and then it speeds up.,1
+A fuse wire is always connected to the,earth wire,neutral wire,live wire,none of these,Physics,Mixed Questions,earth wire,1
+"In translatory motion, The axis of frame
+of object remains always parallel to the corresponding axis of ?",Mover's frame of reference,observer's frame of reference,Rotator's frame of reference,None of the above,Physics,Mixed Questions,Mover's frame of reference,1
+"According to Maxwell's hypothesis,
+changing of electric filed give rise to",magnetic field,pressure gradient,charge,voltage,Physics,Mixed Questions,magnetic field,1
+Density is a physical quantity.,fundamental,derived,semi-derived,semi-fundamental,Physics,Mixed Questions,fundamental,1
+Which of the following possesses potential energy?,Moving vehicle on the road,A running athlete,Stone on the road,A stretched rubber band,Physics,Mixed Questions,Moving vehicle on the road,1
+Fossils are,Fovea in the retina of vertebrate eye,Remains of organisms present in the rocks,The fossa present in the bones,Foramen through which nerves pass,Physics,Mixed Questions,Fovea in the retina of vertebrate eye,1
+A vector \( \vec{A} \) points vertically upward and \( \vec{B} \) points towards north. The vector product \( \overrightarrow{\boldsymbol{A}} \times \overrightarrow{\boldsymbol{B}} \) is:,null vector,along west,along east,vertically downward,Physics,Mixed Questions,along west,2
+Hysteresis is shown by which of the following materials,paramagnetic only,ferromagnetic only,diamagnetic only,both B and C,Physics,Mixed Questions,paramagnetic only,1
+>>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
 "bricks each. Aswin arranged his four
 bricks as shown in figure A. Anwar arranged his bricks as shown in figure
 B, in order to be a taller one.
@@ -89,6 +162,7 @@ B, in order to be a taller one.
 Now let us complete the following
 sentences by choosing the right option
 below
+<<<<<<< HEAD
 (equal to, less than, more than)",1
 "Which of the particles would move to
 the right?",I and II only,I and III only,II and III only,"II only
@@ -114,6 +188,33 @@ rest collides with it. It is possible that:
 This question has multiple correct options",both the bodies come to rest,both the bodies moves after collision,the moving body comes to rest and the stationary body starts moving,"the stationary body remains stationary, the moving body changes its velocity",Physics,Mixed Questions,"the stationary body remains stationary, the moving body changes its velocity",4
 The curved surface of a shining spoon could be considered as a,Curved mirror,Plane mirror,concave mirror only,,Physics,Mixed Questions,Curved mirror,1
 The Wavelength of a LASER beam can be used as a standard of,time,temperature,angle,length,Physics,Mixed Questions,time,1
+=======
+(equal to, less than, more than)",1
+"Which of the particles would move to
+the right?",I and II only,I and III only,II and III only,"II only
+E. I only",Physics,Mixed Questions,I and II only,1
+"What does Newton's colour disc
+possess?",7 segments in rainbow colours,5 segments in rainbow colours,4 segments in rainbow colours,9 segments in rainbow colours,Physics,Mixed Questions,7 segments in rainbow colours,1
+"Two south poles each of pole strength 16 A m are placed at corners \( P, R \) of a square PQRS. The pole that should
+placed at 'Q' to make S as null point is :",South pole of pole strength 32 A m,South pole of pole strength \( 32 \sqrt{2} \) A \( m \),North pole of pole strength 32 A m,North pole of pole strength \( 32 \sqrt{2} \) A \( m \),Physics,Mixed Questions,South pole of pole strength 32 A m,1
+"stated that Sun was the
+centre of our universe and not Earth.",Albert Einstein,Isaac Newton,Nicolaus coppernicus,Galileo Galilei,Physics,Mixed Questions,Albert Einstein,1
+A myopia person cannot see distinctly objects that are :,near,far,Neither,horizontal and vertical signs,Physics,Mixed Questions,near,1
+"Which one of the following best describes the horizontal part of a
+projectile's motion?",It moves at a constant horizontal velocity,It moves at a continually changing horizontal velocity,It always has zero horizontal velocity,The answer to this question depends on whether it is fired horizontally or at an angle,Physics,Mixed Questions,It always has zero horizontal velocity,3
+Sound is produced in a bamboo flute because:,air starts vibrating,bamboo starts vibrating,airhits the bamboo,direction of air is changed,Physics,Mixed Questions,air starts vibrating,1
+The average kinetic energy of the particles of a gas is most closely associated with which of the following quantity?,heat capacity.,temperature,specific heat,"absolute zero.
+E. potential enemy.",Physics,Mixed Questions,heat capacity.,1
+"A plane progressive wave travelling in \( -Y \) direction is represented by the equation \( 2 \cos (2 \pi t+\pi y) . \) If this wave was
+travelling in \( X \) direction, the frequency of the wave would have been",doubled,remains same,tripled,halved,Physics,Mixed Questions,halved,4
+"Potential difference of \( 220-250 \mathrm{V} \) is
+present between",Earth wire and neutral wire,Live wire and earth wire,Live wire and neutral wire,B and c both,Physics,Mixed Questions,Earth wire and neutral wire,1
+"A body moving towards a finite body at
+rest collides with it. It is possible that:
+This question has multiple correct options",both the bodies come to rest,both the bodies moves after collision,the moving body comes to rest and the stationary body starts moving,"the stationary body remains stationary, the moving body changes its velocity",Physics,Mixed Questions,"the stationary body remains stationary, the moving body changes its velocity",4
+The curved surface of a shining spoon could be considered as a,Curved mirror,Plane mirror,concave mirror only,,Physics,Mixed Questions,Curved mirror,1
+The Wavelength of a LASER beam can be used as a standard of,time,temperature,angle,length,Physics,Mixed Questions,time,1
+>>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
 "Assertion
 It takes more fuel for a spacecraft to
 travel from the earth to the Moon than
@@ -126,16 +227,26 @@ diagram shown, for \( r<r_{0} . E_{g} \) is
 towards the earth's centre and for \( r> \)
 \( r_{0}, E_{g} \) is towards the Moon's centre, and
 \( \operatorname{at} r=r_{0}, E_{g} \) is zero.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,"Both Assertion and Reason are correct but Reason is
+<<<<<<< HEAD
 not the correct explanation for Assertion",Assertion is correct but Reason is incorrect,Assertion is incorrect and Reason is correct,Physics,Mixed Questions,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
 "Sounds having frequency more than \( 20,000 \mathrm{Hz} \) are called -",sonic sound,ultrasonic sound,infrasonic sound,none of these,Physics,Mixed Questions,sonic sound,1
 Choose the wrong statement:,the accelerated motion may be due to change in magnitude of velocity or direction of velocity or both.,the velocity and acceleration ofa body may not necessarily be in the same direction,the velocity and acceleration of body may not be zero simultaneously,"when a body falls freely under the action of gravity, its acceleration is zero",Physics,Mixed Questions,the accelerated motion may be due to change in magnitude of velocity or direction of velocity or both.,1
 "Ratio of the size of the image to the size
 of the object is known as:",Focal plane,Transformation ratio,Efficiency,None of these,Physics,Mixed Questions,Focal plane,1
 All oscillatory motions are,periodic,linear,rotatory,curvilinear,Physics,Mixed Questions,periodic,1
+=======
+not the correct explanation for Assertion",Assertion is correct but Reason is incorrect,Assertion is incorrect and Reason is correct,Physics,Mixed Questions,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"Sounds having frequency more than \( 20,000 \mathrm{Hz} \) are called -",sonic sound,ultrasonic sound,infrasonic sound,none of these,Physics,Mixed Questions,sonic sound,1
+Choose the wrong statement:,the accelerated motion may be due to change in magnitude of velocity or direction of velocity or both.,the velocity and acceleration ofa body may not necessarily be in the same direction,the velocity and acceleration of body may not be zero simultaneously,"when a body falls freely under the action of gravity, its acceleration is zero",Physics,Mixed Questions,the accelerated motion may be due to change in magnitude of velocity or direction of velocity or both.,1
+"Ratio of the size of the image to the size
+of the object is known as:",Focal plane,Transformation ratio,Efficiency,None of these,Physics,Mixed Questions,Focal plane,1
+All oscillatory motions are,periodic,linear,rotatory,curvilinear,Physics,Mixed Questions,periodic,1
+>>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
 "In YDSE, let \( A \) and \( B \) be two slits. Films
 of thicknesses \( t_{A} \) and \( t_{B} \) and refractive
 indices \( \mu_{A} \) and \( \mu_{B} \) are placed in front of
 \( A \) and \( B, \) respectively. If \( \mu_{A} t_{A}=\mu_{B} t_{B} \)
+<<<<<<< HEAD
 then the central maxima will :",Not shift,Shift toward \( A \),shift toward \( B \),(b) if \( t_{B}>t_{A} \) and (c) if \( t_{B}<t_{A} \),Physics,Mixed Questions,Not shift,1
 "In a stationary wave,",Energy is carried away throughout the infinite medium,Energy is confined to a limited region of the medium.,Different particles in a loop have different amplitudes,Both (2) and (3),Physics,Mixed Questions,Energy is carried away throughout the infinite medium,1
 "If there is a circular coil having n turns,
@@ -185,11 +296,63 @@ states that :",energy cannot be destroyed but can be created and transformed fro
 amplitude.",Gradually increasing,Suddenly increasing,suddenly decreasing,Gradually decreasing,Physics,Mixed Questions,Gradually increasing,1
 "The core of a transformer is laminated
 to reduce",flux leakage,hysteresis,copper loss,eddy current,Physics,Mixed Questions,flux leakage,1
+=======
+then the central maxima will :",Not shift,Shift toward \( A \),shift toward \( B \),(b) if \( t_{B}>t_{A} \) and (c) if \( t_{B}<t_{A} \),Physics,Mixed Questions,Not shift,1
+"In a stationary wave,",Energy is carried away throughout the infinite medium,Energy is confined to a limited region of the medium.,Different particles in a loop have different amplitudes,Both (2) and (3),Physics,Mixed Questions,Energy is carried away throughout the infinite medium,1
+"If there is a circular coil having n turns,
+the field produced is",\( 1 / n \) times as that produced by single turn.,\( n \) times as large as that produced by a single turn.,\( 2 / n \) times as large as that produced by a single turn.,all,Physics,Mixed Questions,\( 1 / n \) times as that produced by single turn.,1
+"Two particles \( A \) and \( B \) are released
+from the top of incline. If \( \boldsymbol{m}_{\boldsymbol{A}}>\boldsymbol{m}_{\boldsymbol{B}} \)
+then",Both will reach simultaneously if \( A \) released before \( B \),Both will reach simultaneously if \( A \) released after \( B \),Both will reach simultaneously if both are released together,Both will reach simultaneously if both are released together and \( A \) is given some initial velocity,Physics,Mixed Questions,Both will reach simultaneously if \( A \) released before \( B \),1
+"What is common to the following? Motion of the propeller of a flying helicopter, the minute hand of a watch,
+the tape of cassette recorder.",All are example of translatory motion,All are examples of oscillatory motion,All are examples of rotatory motion,All are examples of periodic motion,Physics,Mixed Questions,All are example of translatory motion,1
+Rocket works on the principle of conservation of:,Mass,Energy,Momentum,Velocity,Physics,Mixed Questions,Mass,1
+"The helical structures of nucleic acids
+can be studied by using:",Interference phenomenon,Diffraction pattern,Polarised light,Photoelectric effect,Physics,Mixed Questions,Interference phenomenon,1
+"Which of the following are defects of
+vision?
+This question has multiple correct options",Myopia,Hypermetropia,colour blindness,Night blindness,Physics,Mixed Questions,Myopia,1
+"When we hear a sound, we can identify
+it source from",The frequency of the sound,The amplitude of the soundd,The wavelength of the sound,The overtones present in the sound,Physics,Mixed Questions,The frequency of the sound,1
+Which of the following quantities is scalar?,Dipole moment,Electric force,Electric field,Electric potential,Physics,Mixed Questions,Dipole moment,1
+"Which of the statements given below are applicable for an object to move in a
+circle?",The object must continuously slow down.,The object must accelerate,The object must be acted on by external balanced forces,The object must move with uniform velocity.,Physics,Mixed Questions,The object must continuously slow down.,1
+"Identify the statement which best
+define the uncertainty principle?",We cannot know for certain when any given radioactive particle will undergo decay,We cannot know both the momentum and the position of a particle at the same time,The laws of physics are the same in all intertial reference frames,"Light exhibits both wave and particle properties
+E. An unobserved particle can be in two places at the same time",Physics,Mixed Questions,We cannot know both the momentum and the position of a particle at the same time,2
+"Which of the following statements
+is/are false?","Mass, speed and energy are scalar quantities","Momentum, force and torque are vector quantities",Distance is a scalar quantity but displacement is a vector quantity,"A vector has only magnitude, whereas a scalar has both magnitude and direction",Physics,Mixed Questions,"Mass, speed and energy are scalar quantities",1
+The final image formed by a compound microscope is :,Real and erect,Virtual and erect,Real and inverted,Virtual and inverted,Physics,Mixed Questions,Real and erect,1
+"Exposed Electric doorbell can be
+damaged by",Mechanical damage,High Electric currents,Humidity,All of the above,Physics,Mixed Questions,Mechanical damage,1
+"A wave is associated with matter when
+it is:",stationary,in motion with a velocity,in motion with velocity of light,in motion with velocity greater than that of light,Physics,Mixed Questions,stationary,1
+"By which instrument we collect the
+space information:",Convex lens,Microscope,Hubble Telescope,None of these,Physics,Mixed Questions,Convex lens,1
+Which of the following are examples of periodic motion?,Oscillations of a pendulum.,The motion of a swing,Motion of the earth around the sun,All of the above,Physics,Mixed Questions,Oscillations of a pendulum.,1
+Ray optics is valid when characteristic dimension are,much smaller than wavelength of light.,of same order as wavelength of light,much larger than wavelength of light,none of the above,Physics,Mixed Questions,of same order as wavelength of light,2
+An electricity generating machine consists of a turbine and a,Dynamo,core,Heat,sun,Physics,Mixed Questions,Dynamo,1
+"Write the correct option by observing
+the figures.",Magnetic field in \( A \) stronger.,Magnetic field in \( B \) stronger.,Magnetic field in \( A \) and \( B \) are same,Magnetic field in \( A \) and \( B \) are weaker.,Physics,Mixed Questions,Magnetic field in \( A \) stronger.,1
+"Choose the correct statement from the
+following This question has multiple correct options",Electric current is a scalar quantity,Charge carriers in metals are ions,The area of current - time graph gives charge,A charge in motion produces both electric and magnetic field,Physics,Mixed Questions,Electric current is a scalar quantity,1
+"On a stationary sail boat, air is blown at
+the sails from a fan attached to the
+boat. The boat will",remain at rest,spin round,move in the direction in which air is blown,move in a direction opposite to that in which air is blown,Physics,Mixed Questions,remain at rest,1
+Choose the correct statement:,A nucleus is relatively more stable for which total binding energy is more.,A nucleus is relatively more stable for which binding energy per nucleon is more.,A nucleus is relatively more stable for which total binding energy is low.,None of these,Physics,Mixed Questions,A nucleus is relatively more stable for which total binding energy is more.,1
+"Law of conservation of energy
+states that :",energy cannot be destroyed but can be created and transformed from one form to another,enerry exists in only one form,energy exists in many forms but it cannot be transformed,energy can neither be created nor be destroyed but can be transformed from one form to another,Physics,Mixed Questions,energy cannot be destroyed but can be created and transformed from one form to another,1
+"In a damped harmonic oscillator, periodic oscillations have
+amplitude.",Gradually increasing,Suddenly increasing,suddenly decreasing,Gradually decreasing,Physics,Mixed Questions,Gradually increasing,1
+"The core of a transformer is laminated
+to reduce",flux leakage,hysteresis,copper loss,eddy current,Physics,Mixed Questions,flux leakage,1
+>>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
 "A sample of hydrogen atoms gas contains 100 atoms \( A \| \) the atoms are
 excited to the seventh state. The total
 energy released by all the atoms is \( \frac{4800}{49} \) Ry( Where Ry \( =13 \) eV) then discuss the following things","Maximum energy of the emitted
 photon will be less then \( \frac{4800}{49} R y \)","Maximum energy of the emitted
 photon may be grater than \( \frac{48}{49} R y \)",The value of \( n=6 \),total number of photon that can be emitted this sample may be less than 600,Physics,Mixed Questions,"Maximum energy of the emitted
+<<<<<<< HEAD
 photon will be less then \( \frac{4800}{49} R y \)",1
 Which of the following is not a unit of time?,Mean solar day,Lunar Month,Calendar year,Light year,Physics,Mixed Questions,Mean solar day,1
 "What occurs 15 days after the full moon
@@ -216,10 +379,44 @@ What is the name given to India's Meteorological Research Satellite launched in 
 "In fig., a cone lies in a uniform electric
 field E. Determine the electric flux
 entering the cone",Flux \( \phi=E A=2 E R h \),Flux \( \phi=E A=7 E R h \),Flux \( \phi=E A=9 E R h \),Flux \( \phi=E A=E R h \),Physics,Mixed Questions,Flux \( \phi=E A=2 E R h \),1
+=======
+photon will be less then \( \frac{4800}{49} R y \)",1
+Which of the following is not a unit of time?,Mean solar day,Lunar Month,Calendar year,Light year,Physics,Mixed Questions,Mean solar day,1
+"What occurs 15 days after the full moon
+day?",Half moon day,Crescent moon day,New moon day,None of the above,Physics,Mixed Questions,Half moon day,1
+"At what phase are the earth, moon and
+sun are in approximate alignment? This question has multiple correct options",Full Moon,New Moon,waning crescent,waxing crescent,Physics,Mixed Questions,Full Moon,1
+"Fill in the blank:
+A group of a few stars, whose arrangement can be compared to the figure of some kind of animal or any other known thing, is called a",Nabula,constellation,Pluto,Stellar,Physics,Mixed Questions,Nabula,1
+"What will not be obtained in the
+sublimate when a mixture of sand,
+sulphur, common salt and iodine is
+sublimed?",sand,lodine,sulphur,common salt,Physics,Mixed Questions,sand,1
+"The \( \beta \) - particles emitted by the
+radioactive substances are",positively charged,negatively charged,charge less,positively charged in some substances and negatively charged in others,Physics,Mixed Questions,charge less,3
+"Identify which of the following is NOT a characteristic of electromagnetic
+waves?",contain electrical properties,have crests and troughs,contain magnetic properties,"travel through space
+E. have crests but no troughs",Physics,Mixed Questions,contain electrical properties,1
+Hertz is the unit of,wavelength,amplitude,frequency,None of these,Physics,Mixed Questions,wavelength,1
+"If earth's radius were to hypothetically shrink by \( 1 \% \), the value of \( G \) would",shrink by \( 1 \% \),expand by \( 1 \% \),remain the same,shrink by \( 0.01 \% \),Physics,Mixed Questions,shrink by \( 0.01 \% \),4
+"A sound wave is travelling from East to West. In which direction do the
+molecules in the air move?",East to west,West to East,North to South,South to North,Physics,Mixed Questions,East to west,1
+Lenz's law is a consequence of the law of conservation of,charge,mass,energy,momentum,Physics,Mixed Questions,charge,1
+What is the name given to India's Meteorological Research Satellite launched in \( 2003 ? \),Vikram-1,Bhaskara-,Kalpana-1,Arya Bhatta- -,Physics,Mixed Questions,Vikram-1,1
+"In fig., a cone lies in a uniform electric
+field E. Determine the electric flux
+entering the cone",Flux \( \phi=E A=2 E R h \),Flux \( \phi=E A=7 E R h \),Flux \( \phi=E A=9 E R h \),Flux \( \phi=E A=E R h \),Physics,Mixed Questions,Flux \( \phi=E A=2 E R h \),1
+>>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
 "A particle with total mechanical energy, which is small and negative, is under the influence of a one dimensional
 potential \( U(x)=x^{4} / 4-x^{2} / 2 \) Jwhere \( x \)
 is in meters. At time \( t=0 \) s, it is at \( x= \)
 \( -0.5 \mathrm{m} . \) Then at a later time it can be
+<<<<<<< HEAD
 found.",A. anywhere on the x axis.,between \( x=-1.0 \mathrm{m} \) to \( x=1.0 \mathrm{m} \),between \( x=-1.0 \mathrm{m} \) to \( x=0.0 \mathrm{m} \),between \( x=0.0 \mathrm{m} \) to \( x=1.0 \mathrm{m} \),Physics,Mixed Questions,A. anywhere on the x axis.,1
 Branch of study involving rearrangement of atoms and making nano-materials is known as?,Mechanical engg.,Chemical engg.,Electrical engg.,Nanotechnology,Physics,Mixed Questions,Mechanical engg.,1
 Why do coastal areas experience less contrasts in temparature conditions?,Due to moderating effect of the seas,Due to land mass,Due to heat conditions,Due to rotation of the earth,Physics,Mixed Questions,Due to rotation of the earth,4
+=======
+found.",A. anywhere on the x axis.,between \( x=-1.0 \mathrm{m} \) to \( x=1.0 \mathrm{m} \),between \( x=-1.0 \mathrm{m} \) to \( x=0.0 \mathrm{m} \),between \( x=0.0 \mathrm{m} \) to \( x=1.0 \mathrm{m} \),Physics,Mixed Questions,A. anywhere on the x axis.,1
+Branch of study involving rearrangement of atoms and making nano-materials is known as?,Mechanical engg.,Chemical engg.,Electrical engg.,Nanotechnology,Physics,Mixed Questions,Mechanical engg.,1
+Why do coastal areas experience less contrasts in temparature conditions?,Due to moderating effect of the seas,Due to land mass,Due to heat conditions,Due to rotation of the earth,Physics,Mixed Questions,Due to rotation of the earth,4
+>>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4

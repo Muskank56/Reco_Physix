@@ -1,0 +1,418 @@
+question,option_1,option_2,option_3,option_4,Subject,topic,correct_answer,Correct_Option_Number
+"In a one-dimensional collision between
+two particles, their relative velocity is \( \overrightarrow{v_{1}} \) before the collision and \( \overrightarrow{v_{2}} \) after
+collision:",\( \overrightarrow{v_{1}}=\overrightarrow{v_{2}} \) if the collision is elastic,\( \overrightarrow{v_{1}}=-\overrightarrow{v_{2}} \) if the collision is elastic,\( |\overrightarrow{v_{2}}|=|\overrightarrow{v_{1}}| \) in all cases,"\( \overrightarrow{v_{1}}=-k \overrightarrow{v_{2}} \) in all cases, where \( k \geq 1 \)",Physics,Kinematics,\( \overrightarrow{v_{1}}=\overrightarrow{v_{2}} \) if the collision is elastic,1
+"The displacement of a particle varies with time as \( \boldsymbol{x}=\boldsymbol{a} e^{-\boldsymbol{\alpha} \boldsymbol{t}}+\boldsymbol{b} \boldsymbol{e}^{\boldsymbol{\beta} \boldsymbol{t}} \) where
+\( a, \alpha, b, \beta \) are positive constants. The
+velocity of the particle will",be independent of \( \alpha \) and \( \beta \),drop to zero when \( \alpha=\beta \),go on decreasing with time,go on increasing with time,Physics,Kinematics,be independent of \( \alpha \) and \( \beta \),1
+Given the velocity-time graph. How can it be used to find the displacement of the body in a given time:,"The net area of the colored region, under velocity-time \( \operatorname{graph} \)",The total area under velocity-time graph,Slope of velocity-time graph,None of the above,Physics,Kinematics,"The net area of the colored region, under velocity-time \( \operatorname{graph} \)",1
+"Statement 1: There can be
+displacement of an object even in the absence of any force acting on it. Statement 2: An object in uniform motion in a straight line shows
+displacement even when the net force acting on it is zero.",Both statement 1 and statement 2 are true and statement 2 is correct explanation of statement,"Both statement 1 and statement 2 are true, but statement 2 is not correct explanation of statement",statement 1 is true but statement 2 is false,Statement 1 is false but statement 2 is true,Physics,Kinematics,Both statement 1 and statement 2 are true and statement 2 is correct explanation of statement,1
+"The density of a rod gradually decreases from one end to the other. It is pivoted at
+an end so that it can move about a
+vertical axis through the pivot. A horizontal force \( \boldsymbol{F} \) is applied on the free end in a direction perpendiclar to the
+rod. The quantities, that do not depend on which end of the rod is pivoted, are :
+A . angular acceleration","The quantities, that do not depend on which end of the rod is pivoted, are :
+A . angular acceleration",angular velocity when the rod completes one rotation,angular momentum when the rod completes one rotation,torque of the applied force.,Physics,Kinematics,"The quantities, that do not depend on which end of the rod is pivoted, are :
+A . angular acceleration",1
+"Identify which of the following
+statement is correct for acceleration
+due to gravity on earth:",It is abbreviated with the letter \( R \),It has a magnitude of \( 9.8 \mathrm{cm} / \mathrm{sec}^{2} \) away from the center of earth,It has a magnitude of \( 9.8 \mathrm{m} / \mathrm{sec}^{2} \) toward the center of earth,"Acceleration tends to increase with a greater mass
+E. Acceleration tends to decrease with force",Physics,Kinematics,It is abbreviated with the letter \( R \),1
+"A hammer weighing \( 3 \mathrm{kg}, \) moving with a velocity of \( 10 \mathrm{m} / \mathrm{s} \), strikes against the head of a spike and drives it into a block of wood. If the hammer comes to rest in
+\( 0.025 s, \) the average (retarding) force acting on the spike will be
+A . 600 N","If the hammer comes to rest in
+\( 0.025 s, \) the average (retarding) force acting on the spike will be
+A . 600 N",-600 N,\( 1200 \mathrm{N} \),-1200 N,Physics,Kinematics,"If the hammer comes to rest in
+\( 0.025 s, \) the average (retarding) force acting on the spike will be
+A . 600 N",1
+"A mass at the end of a spring executes harmonic motion about an equilibrium position with an amplitude A.lts speed as it passes through the equilibrium position is V.If extended 2A and released, the speed of the mass passing through the equilibrium position will be
+A \( .2 v \)","lts speed as it passes through the equilibrium position is V.If extended 2A and released, the speed of the mass passing through the equilibrium position will be
+A \( .2 v \)",4V,v/2,V/4,Physics,Kinematics,4V,2
+"When a body is projected from a level
+ground, the ratio of it's speed in the
+vertical and horizontal direction is 4: 3
+If the velocity of projection is \( u, \) the time
+after which the ratio of the velocities
+in the vertical and horizontal directions
+is reversed is",\( \frac{7 u}{20 g} \),\( \frac{35 u}{10 g} \),\( \frac{9 u}{g} \),\( \frac{10 u}{g} \),Physics,Kinematics,\( \frac{7 u}{20 g} \),1
+"Assertion
+An object may fall with a constant
+velocity.
+Reason
+This happens when acceleration of the
+object is equal to acceleration due to
+gravity","Both Assertion and Reason are correct and Reason is
+the correct explanation for Assertion","Both Assertion and Reason are correct but Reason is
+not the correct explanation for Assertion",Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Kinematics,"Both Assertion and Reason are correct and Reason is
+the correct explanation for Assertion",1
+"A conducting loop rotates with constant
+angular velocity about its fixed
+diameter in a uniform magnetic field,
+whose direction is perpendicular to that
+fixed diameter
+This question has multiple correct options","The emf will be maximum at the moment when flux is
+zero",The emf will be 0 at the moment when flux is maximum,The emf will be maximum at the moment when plane of the loop is parallel to the magnetic field,"The phase difference between the flux and the emf is \( \pi / 2 \)
+E . answer required",Physics,Kinematics,"The emf will be maximum at the moment when flux is
+zero",1
+"Assertion
+Two different planets can have same escape velocity when their masses and
+diameter are same.
+Reason
+Escape velocity is given as \( \sqrt{2 g R} \)",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Kinematics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"Assertion
+Smaller the orbit of the planet around
+the sun, shorter is the time it takes to
+complete one revolution.
+Reason
+According to Kepler's third law of
+planetary motion, square of the time period is proportional to the cube of the mean distance from the sun.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Kinematics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"A short bar magnet is placed with its south pole pointing geographic North at a
+place where \( B_{H}=0.4 \) gauss. The length
+of the magnet is \( 10 \mathrm{cm} \) and pole strength
+is \( 16 A-m \). The distance of each null
+point from the centre will be",\( 0.2 m \) on axial line,\( 0.8 \mathrm{cm} \) on axial line,\( 0.4 \mathrm{cm} \) on axial line,\( 0.2 \mathrm{cm} \) on equitorial line,Physics,Kinematics,\( 0.2 m \) on axial line,1
+"Total area under velocity-time graph
+give us the :",acceleration,velocity,time,distance,Physics,Kinematics,time,3
+A particle moves with uniform velocity. Which of the following statements about the motion of the particle is true?,Its speed is zero.,Its acceleration is zero,Its acceleration is opposite to the velocity,Its speed may be variable,Physics,Kinematics,Its speed is zero.,1
+A ball is thrown vertically downwards with velocity \( \sqrt{2 g h} \) from a height \( h \) After colliding with the ground it just reaches the starting point. Coefficient of restitution is :,\( 1 / \sqrt{2} \),\( 1 / 2 \),1,\( \sqrt{2} \),Physics,Kinematics,1,3
+If to a stationary observer the apparent frequency appear to be \( 6 / 5 \) times the actual frequency of the moving source then the speed and direction of the sound source is : (velocity of sound = \( 360 \mathrm{m} / \mathrm{sec}) \),\( 60 \mathrm{m} / \mathrm{s} \) towards the observer,60 m/s away from the observer,\( 55 \mathrm{m} / \mathrm{s} \) towards the observer,55 m/s away from the observer,Physics,Kinematics,\( 60 \mathrm{m} / \mathrm{s} \) towards the observer,1
+"In a situation, a board is moving with a
+velocity \( v \) with respect to earth, while a
+man A and man B are running with a
+velocity \( 2 v \) with respect to earth and
+both men are running from the opposite
+ends of the board at the same time, as
+shown. Length of the board is \( L \). If they
+meet after time \( \boldsymbol{T}, \) then
+This question has multiple correct options",value of \( \mathrm{T} \) is \( \mathrm{L} / 4 \mathrm{v} \),value of \( T \) is \( L / 2 v \),Displacement of man B with respect to board in time \( T \) is \( 3 L / 4 \),Displacement of man A with respect to board in time \( T \) is L/4,Physics,Kinematics,value of \( \mathrm{T} \) is \( \mathrm{L} / 4 \mathrm{v} \),1
+"The maximum acceleration of a particle
+in SHM is made two times keeping the
+maximum speed to be constant. It is possible when",amplitude of oscillation is doubled while frequency remains constant,amplitude is doubled while frequency is halved,frequency is doubled while amplitude is halved,frequency is doubled while amplitude remains constant,Physics,Kinematics,amplitude of oscillation is doubled while frequency remains constant,1
+"A solid sphere falls with a terminal velocity v in air. If it is allowed to fall in
+vacuum,",terminal velocity of sphere = v,terminal velocity of sphere \( < \) v,terminal velocity of sphere \( >v \),sphere never attains terminal velocity,Physics,Kinematics,terminal velocity of sphere = v,1
+"If a displacement-time graph of an object is a straight line parallel to the time axis, the object is",stationary,moving away from the reference point,moving towards the reference point,moving with an infinite velocity,Physics,Kinematics,stationary,1
+"A block of mass \( m \) is pushed against a
+spring of spring constant \( k, \) fixed to one
+end of the wall. The natural length of the
+spring is / and it is compressed to half
+its natural length when the block is
+released. The velocity of the block as a
+function of its distance \( x \) from the wall
+is
+\( \sqrt[A \cdot]{\frac{k}{m}\left(\frac{l^{2}}{4}-(l-x)^{2}\right)} \)","The velocity of the block as a
+function of its distance \( x \) from the wall
+is
+\( \sqrt[A \cdot]{\frac{k}{m}\left(\frac{l^{2}}{4}-(l-x)^{2}\right)} \)",\( \sqrt{\frac{k}{m}(l-x)^{2}} \),\( \sqrt{\frac{k}{m}\left(\frac{l^{2}}{4}+(l+2 x)^{2}\right.}) \),\( \sqrt{\frac{k}{m}(l+x)^{2}} \),Physics,Kinematics,"The velocity of the block as a
+function of its distance \( x \) from the wall
+is
+\( \sqrt[A \cdot]{\frac{k}{m}\left(\frac{l^{2}}{4}-(l-x)^{2}\right)} \)",1
+"The gravitational potential at height \( h \) above the earth's surface is \( -5.12 \times \)
+\( 10^{7} \mathrm{J} / \mathrm{kg} \) and acceleration due to gravity
+at this point is \( 6.4 m s^{-2} . \) If radius of the
+earth is \( 6400 \mathrm{km} \), the value of h is :",\( 1200 \mathrm{km} \),1600 km,\( 1800 \mathrm{km} \),2400 km,Physics,Kinematics,\( 1200 \mathrm{km} \),1
+Displacement current is continuous:,when electric field is changing in the circuit,when magnetic field is changing in the circuit,in both types of fields,through wires and resistance only,Physics,Kinematics,when electric field is changing in the circuit,1
+"An object is thrown horizontally from a
+point ' \( \boldsymbol{A}^{\prime} \) from a tower and hits the
+ground \( 3 s \) later at \( B \). The line from ' \( A \) ' to
+\( B^{\prime} \) makes an angle of \( 30^{\circ} \) with the
+horizontal. The intial velocity of the
+object is :
+(take \( \left.\mathfrak{g}=10 m / s^{2}\right) \)",\( 15 \sqrt{3} \mathrm{m} / \mathrm{s} \),\( 15 \mathrm{m} / \mathrm{s} \),\( 10 \sqrt{3} \mathrm{m} / \mathrm{s} \),\( \frac{25}{\sqrt{3}} m / s \),Physics,Kinematics,\( 15 \sqrt{3} \mathrm{m} / \mathrm{s} \),1
+"Two vehicles, each moving with speed \( \mathbf{u} \)
+on the same horizontal straight road,
+are approaching each other. Wind blows
+along the road with velocity w. One of these vehicles blows a whistle of
+frequency \( \mathbf{f}_{1} . \) An observer in the other
+vehicle hears the frequency of the
+whistle to be \( f_{2} . \) The speed of sound in
+still air is \( \mathrm{V} \). The correct statement(s) is
+\( (\operatorname{are}) \)
+This question has multiple correct options","If the wind blows from the observer to the source, \( f_{2}> \)
+\( f_{1} \)","If the wind blows from the source to the observer, \( f_{2}> \)
+\( f_{1} \)","If the wind blows from observer to the source, \( f_{2}<f_{1} \)","If the wind blows from the source to the observer \( f_{2}< \)
+\( f_{1} \)",Physics,Kinematics,"If the wind blows from the observer to the source, \( f_{2}> \)
+\( f_{1} \)",1
+"A particle is acted upon by a force of
+constant magnitude which is always perpendicular to the velocity of the
+particle. The motion of the particle takes place in a plane. It follows",its velocity is constant,its K.E. is constant,its acceleration is constant,it moves in a straight line,Physics,Kinematics,its velocity is constant,1
+"Distinction between speed and velocity
+is :",speed is vector while velocity is scalar,speed is scalar while velocity is vector,speed and velocity are scalars.,speed and velocity are vectors.,Physics,Kinematics,speed is vector while velocity is scalar,1
+"A particle is acted upon by a force of
+constant magnitude which is always perpendicular to the velocity of the
+particle The motion of he particle takes place in a plane It follows that",Its velocity is constant,Its acceleration is constant,Its kinetic energy is conserved,None of these,Physics,Kinematics,Its velocity is constant,1
+"A car moves on a circular road
+describing equal angles about the centre in equal intervals of time. Which of following statements about the velocity of car are not true? This question has multiple correct options",Velocity is constant,Magnitude of velocity is constant but the direction changes,Both magnitude and direction of velocity change,Velocity is directed towards the center of circle,Physics,Kinematics,Velocity is constant,1
+"When you lower a book of mass \( \mathrm{m} \) down
+slowly through a distance h from yourself, the work done by you on the book is :",mgh,#NAME?,zero,\( > \) mgh,Physics,Kinematics,mgh,1
+"It is difficult for a fireman to hold a
+hose pipe which ejects large amounts of water at high velocity due to :",Newton's first law,Newton's second law,Newton's third law,Newton's gravitation law,Physics,Kinematics,Newton's first law,1
+"When the distance covered by a moving object is directly proportional to the time duration, it is said to travel with:",Zero velocity,Constant speed,Constant acceleration,Uniform velocity,Physics,Kinematics,Zero velocity,1
+"toppr
+Q Type your question
+height 1 m above the ground. The
+particle is thrown from some point in
+such a way that it strikes the ground
+(perfectly inelastic) with velocity \( v_{0} \) at
+an angle \( 37^{\circ} \) with vertical just below \( O \)
+List
+(P) Radius of curvature of particle just before striking the ground
+(Q) Minimum value of \( v_{0} \) such that at highest point in vertical circle tension in the string \( T=0 \)
+(R) Negative of work done by gravity after it strikes the ground to the topmost point in frame moving with constant acceleration on ground is (assume that after collision the particle complete the vertical loop)
+(S) Power delivered by the gravity at highest point is (assume that after
+\[
+\frac{5}{3} \frac{v_{0}^{2}}{g}
+\]
+collision the particle complete the vertical loop)","The
+particle is thrown from some point in
+such a way that it strikes the ground
+(perfectly inelastic) with velocity \( v_{0} \) at
+an angle \( 37^{\circ} \) with vertical just below \( O \)
+List
+(P) Radius of curvature of particle just before striking the ground
+(Q) Minimum value of \( v_{0} \) such that at highest point in vertical circle tension in the string \( T=0 \)
+(R) Negative of work done by gravity after it strikes the ground to the topmost point in frame moving with constant acceleration on ground is (assume that after collision the particle complete the vertical loop)
+(S) Power delivered by the gravity at highest point is (assume that after
+\[
+\frac{5}{3} \frac{v_{0}^{2}}{g}
+\]
+collision the particle complete the vertical loop)",P- \( 2 ; Q-3 ; R-1 ; S-4 \),"P- 3; Q- 2; R- 4; S-1
+\( \mathrm{C} \cdot \cdot \mathrm{Q}-1 ; \mathrm{R}-2 ; \mathrm{S}-3 \)",P- 2; Q- 3; R-4; S-1,Physics,Kinematics,"The
+particle is thrown from some point in
+such a way that it strikes the ground
+(perfectly inelastic) with velocity \( v_{0} \) at
+an angle \( 37^{\circ} \) with vertical just below \( O \)
+List
+(P) Radius of curvature of particle just before striking the ground
+(Q) Minimum value of \( v_{0} \) such that at highest point in vertical circle tension in the string \( T=0 \)
+(R) Negative of work done by gravity after it strikes the ground to the topmost point in frame moving with constant acceleration on ground is (assume that after collision the particle complete the vertical loop)
+(S) Power delivered by the gravity at highest point is (assume that after
+\[
+\frac{5}{3} \frac{v_{0}^{2}}{g}
+\]
+collision the particle complete the vertical loop)",1
+"Capacity of a parallel plate condenser is \( 10 \mu F \) when the distance between the plates is \( 8 \mathrm{cm} . \) If the distance between the plates is reduced to \( 4 \mathrm{cm}, \) its capacity will be:",\( 10 \mu F \),\( 15 \mu F \),\( 20 \mu F \),\( 40 \mu F \),Physics,Kinematics,\( 10 \mu F \),1
+"In the figure shown, plank is
+being pulled to the right with a constant
+speed v. If the cylinder does not slip then
+This question has multiple correct options",the speed of the centre of mass of the cylinder is \( 2 v \),the speed of the centre of mass of the cylinder is zero,the angular velocity of the cylinder is \( v / R \),the angular velocity of the cylinder is zero,Physics,Kinematics,the speed of the centre of mass of the cylinder is \( 2 v \),1
+"The position vector of a particle is \( \vec{r}= \) \( (a \cos \omega t) \hat{i}+(a \sin \omega t) \hat{j} . \) The velocity of
+the particle is",Parallel to position vector,Perpendicular to position vector,Directed towards the origin,Directed from away from the origin,Physics,Kinematics,Parallel to position vector,1
+"A car is traveling at a high speed when it banks into a sharp left turn. Which of the following statements best describes the reason a passenger in the vehicle is pressed outwards against the
+right side of the vehicle?",The centrifugal force of the circular turn pushes them outwards,The centripetal force of the circular turn pushes them outwards,The passenger's inertia maintains their velocity through the circular path since objects in motion tend to stay in motion,"The force of friction between the seat and the passenger does not generates sufficient force
+E. The force exerted by the door on the passenger does not exert sufficient force",Physics,Kinematics,The centrifugal force of the circular turn pushes them outwards,1
+"Which of the following examples exhibits zero displacement with non-
+zero distance?",A runner running one round on a circular track,A cyclist riding on a straight road,A aeroplane cruising in air,None of these,Physics,Kinematics,A runner running one round on a circular track,1
+"A vehicle moving with a constant acceleration from \( A \) to \( B \) in a straight
+line \( A B, \) has velocities \( u \) and \( v \) at \( A \) and
+B respectively. C is the mid point of AB. If time taken to travel from A to C is
+twice the time to travel from \( C \) to \( B \) then
+the velocity of the vehicle \( v \) at \( B \) is:
+A . \( 5 u \)","If time taken to travel from A to C is
+twice the time to travel from \( C \) to \( B \) then
+the velocity of the vehicle \( v \) at \( B \) is:
+A . \( 5 u \)",\( 6 u \),\( 7 u \),\( 8 u \),Physics,Kinematics,"If time taken to travel from A to C is
+twice the time to travel from \( C \) to \( B \) then
+the velocity of the vehicle \( v \) at \( B \) is:
+A . \( 5 u \)",1
+"In the given figure, velocity of the body
+at \( A \) is",Zero,Unity,Maximum,Infinite,Physics,Kinematics,Zero,1
+"A man walks \( 30 m \) towards north, then
+\( 20 m, \) towards east and in the last
+\( 30 \sqrt{2} m, \) towards south-west. The
+displacement from origin is:",\( 10 m \) towards west,\( 10 m \) towards east,\( 60 \sqrt{2} \mathrm{m} \) towards northwest,\( 60 \sqrt{2} m \) towards east north,Physics,Kinematics,\( 10 m \) towards west,1
+"The statement 'Acceleration is zero if
+and only if the net force is zero' is valid
+in",Non-inertial frames,Inertial frames,Both in an inertial frames and non-inertial frames,Neither inertial frames nor non-inertial frames,Physics,Kinematics,Non-inertial frames,1
+"Assertion
+The decrease in speed of sound at high altitudes is due of fall in pressure at
+this altitude.
+Reason
+The speed of sound is the same at all pressures and varies with temperature only.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is incorrect but Reason is correct,Both Assertion and Reason are incorrect,Physics,Kinematics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"Distinguish between uniform velocity
+and variable velocity.","Uniform velocity changes with time, while variable velocity doesn't changes with respect to time.","Uniform velocity is scalar, while variable velocity is vector","Uniform velocity doesn't change with time, while variable velocity changes with respect to time.","Uniform velocity is vector, while variable velocity is scalar.",Physics,Kinematics,"Uniform velocity changes with time, while variable velocity doesn't changes with respect to time.",1
+"Acceleration-time graph of a particle
+executing SHM is as shown in the
+figure. Select the correct alternative(s)
+This question has multiple correct options",Displacement of particle at 1 is negative,Velocity of particle at 2 is positive,Potential energy of particle at 3 is maximum,Speed of particle at 4 is decreasing,Physics,Kinematics,Displacement of particle at 1 is negative,1
+"A closed iron ring is held horizontally and a bar magnet is dropped through the ring with its length along the axis of the ring. The acceleration of the falling
+magnet is:",equal to g,less thang,more than g,depends on the diameter of the ring and length of magnet,Physics,Kinematics,equal to g,1
+"A ball of mass m moves towards a
+moving wall of infinite mass with a speed 'v' along the normal to the wall. The speed of the wall is 'u' toward the ball. The speed of the ball after elastic
+collision with wall is",\( u+v \) away from the wall,\( 2 u+v \) away from the wall,\( |u-v| \) away from the wall,\( |v-2 u| \) away from the wall,Physics,Kinematics,\( u+v \) away from the wall,1
+"A solid sphere, solid cylinder, hollow sphere, hollow cylinder of same mass and same radii are rolling down freely on an inclined plane. The body with maximum acceleration is:",Solid sphere,Solid cylinder,Hollow sphere,Hollow cylinder,Physics,Kinematics,Solid sphere,1
+"A block performs simple harmonic
+motion with equilibrium point \( \boldsymbol{x}=\mathbf{0} \)
+Graph of acceleration of the block as a
+function of time is shown. Which of the
+following statement is correct about the
+block?",Displacement from equilibrium is maximum at \( t=4 s \),Speed is maximum at \( t=4 s \),Speed is maximum at \( t=2 s \),Speed is maximum at \( t=3 s \),Physics,Kinematics,Displacement from equilibrium is maximum at \( t=4 s \),1
+"Identify in which of the following medium, a sound wave would travel with fastest speed.",A. solid,liquid,gas,"vacuum
+E. plasma",Physics,Kinematics,liquid,2
+"Two identical carts constrained to move
+on a straight line, on which sit two twins of same mass, are moving with equal
+velocity. At some time snow begins to
+drop uniformly. Ram, sitting on one of
+the carts, picks the snow from cart and
+throws off the falling snow sideways and in the second cart Shyam is asleep:",cart carrying Ram will have more speed finally than that carrying Shyam.,cart carrying Ram will have less speed finally than that carrying Shyam.,cart carrying Ram will have same speed finally than that carrying Shyam.,The velocity of cart depends on the amount of snow thrown,Physics,Kinematics,cart carrying Ram will have more speed finally than that carrying Shyam.,1
+The electromagnetic wave travel in free space with the velocity of,Sound,Light,Greater than that of light,Greater than that of sound,Physics,Kinematics,Sound,1
+"Assertion
+Projectile motion is called a two dimensional motion, although it takes
+place in space.
+Reason
+In space it takes place in a plane.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion is incorrect but Reason is correct.,Physics,Kinematics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"The speed of transverse wave on a
+stretched string is:",directly proportional to the tension in the string,directly proportional to the square root of the tension,inversely proportional to tension,inversely proportional to square root of tension,Physics,Kinematics,directly proportional to the tension in the string,1
+"An Earth's satellite is moving in a circular orbit with a uniform speed \( \boldsymbol{v} \). If
+the gravitational force of the Earth suddenly disappears, the satellite will",vanish into outer space,continue to move with velocity \( v \) in original orbit,fall down with increasing velocity.,fly off tangentially from the orbit with velocity \( v \),Physics,Kinematics,vanish into outer space,1
+"A sphere of mass \( \mathrm{M} \) and radius \( \mathrm{R} \) is falling in a viscous fluid. The terminal velocity attained by the falling object will be proportional to
+\( \mathbf{A} \cdot M R^{2} \)","The terminal velocity attained by the falling object will be proportional to
+\( \mathbf{A} \cdot M R^{2} \)",M/R,мк,\( M / R^{2} \),Physics,Kinematics,M/R,2
+The velocity distribution curve of the stream line flow of a liquid advancing through a capillary tube is:,Circular,eliptical,parabolic,a straight line,Physics,Kinematics,Circular,1
+"An object is thrown vertically upward with a non zero velocity. If gravity is turned off at the instant the object
+reaches the maximum height, what will happen?",The object continues to move in a straight line,The object will be at rest,The object falls back with uniform velocity,The object falls back with uniform acceleration,Physics,Kinematics,The object continues to move in a straight line,1
+"STATEMENT-1: At two different points on
+the same stream line in streamline flow
+velocity of a particle may be different. STATEMENT-2: Pressure and height may be different at two different points on a
+streamline.","Statement-1 is True, Statement-2 is True; Statementis a correct explanation for Statement-","Statement-1 is True, Statement-2 is True; Statementis NOT a correct explanation for Statement-","Statement- 1 is True, Statement- 2 is False","Statement-1 is False, Statement-2 is True",Physics,Kinematics,"Statement-1 is True, Statement-2 is True; Statementis a correct explanation for Statement-",1
+"the velocity of the CM of the rod.
+A \( \cdot \frac{5}{7} v_{0} \) at \( \tan ^{-1} \frac{4}{3} \) below horizontal",A \( \cdot \frac{5}{7} v_{0} \) at \( \tan ^{-1} \frac{4}{3} \) below horizontal,\( \frac{5}{7} v_{0} \) at \( \tan ^{-1} \frac{3}{4} \) below horizontal,\( \frac{5}{6} v_{0} \) at \( \tan ^{-1} \frac{3}{4} \) below horizontal,\( \frac{5}{6} v_{0} \) at \( \tan ^{-1} \frac{4}{3} \) below horizontal,Physics,Kinematics,A \( \cdot \frac{5}{7} v_{0} \) at \( \tan ^{-1} \frac{4}{3} \) below horizontal,1
+"A large cylindrical tank has a hole of area \( A \) at its bottom and water is
+poured into the tank through a tube of cross-sectional area \( \boldsymbol{A} \) ejecting water at
+the speed \( v \). Which of the following is
+true?",Water level in tank keeps on rising.,No water can be stored in the tank,water level will rise to a height \( \frac{v^{2}}{2 g} \) and then stop.,The water level will be oscillating.,Physics,Kinematics,Water level in tank keeps on rising.,1
+"With usual notation, the following equation, said to give the distance
+covered in the \( n^{t h} \) second i.e., \( S_{n}=u+ \)
+\( a \frac{(2 n-1)}{2} \) is :",numerically correct,dimensionally correct,both dimensionally and numerically correct,neither numerically nor dimensionally correct,Physics,Kinematics,numerically correct,1
+"Assertion
+It is hotter over the top of a fire than at
+the same distance on the sides.
+Reason
+Air surrounding the fire conducts more heat upwards.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Kinematics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+A body of mass \( 2 k g \) is thrown upward with initial velocity \( 20 m / s . \) After \( 2 s \) find its kinetic energy will be: \( (\boldsymbol{g}= \) \( \left.10 m / s^{2}\right) \),\( 400 J \),200 J,\( 100 J \),zero,Physics,Kinematics,zero,4
+"\( \mathrm{m} / \mathrm{s} \) at an angle of \( 60^{\circ}, \) with
+the positive \( x \) direction taken along
+horizontal. At that instant, an
+observer moves past the football in a
+car that moves with a constant speed
+of \( 11 \mathrm{m} / \mathrm{s} \) in the positive \( \mathrm{x} \) direction. Take
++ve y direction vertically upwards. \( (\boldsymbol{g}= \)
+\( \left.10 m / s^{2}\right) \)
+ball
+Observer
+This question has multiple correct options",The initial velocity of the ball relative to the observer in the car is \( 11 \sqrt{3} \mathrm{m} / \mathrm{s} \) in the \( +\mathrm{y} \) direction,The initial velocity of the ball relative to the observer in the car is \( 17 \mathrm{m} / \mathrm{s} \) at 60 to the \( +x \) direction,"According to the observer in the car, the ball will follow a path that is straight up and down in the y direction.","According to the observer in the car, the ball will follow straight line that is angled (less than 90 ) with respect to the observer.",Physics,Kinematics,The initial velocity of the ball relative to the observer in the car is \( 11 \sqrt{3} \mathrm{m} / \mathrm{s} \) in the \( +\mathrm{y} \) direction,1
+"Read the given statements and mark
+the correct option
+Statement 1: If an earth satellite is on a
+lower orbit, the speed of satellite increases
+Statement 2: The speed of satelite is a constant quantity for all orbits of earth",Both statements 1 and 2 are true and statement 2 is the correct explanation of statement 1.,both statements 1 and 2 are true but statement 2 is not correct explanation of statement,statement 1 is true but statement 2 is false,Both statements 1 and 2 are false,Physics,Kinematics,Both statements 1 and 2 are true and statement 2 is the correct explanation of statement 1.,1
+A hockey player is moving northward and suddenly turns westward with the same speed to avoid an opponent The force that acts on the player is,Frictional force along westward,Muscle force along southward,Frictional force along south-west,Muscle force along south-west,Physics,Kinematics,Frictional force along westward,1
+Positive slope of displacement time graph implies,that the body is moving away from the reference point,that the body is moving towards the reference point,that the body is at rest,nothing as particular,Physics,Kinematics,that the body is moving away from the reference point,1
+"Find the moments of time when the
+particle is at the distance \( 10.0 \mathrm{cm} \) from the origin.","\( 1.1,9, \) and \( 11 s \)","\( 1,10, \) and \( 11 s \)","\( 1.1,10, \) and \( 11 s \)","\( 1.1,9, \) and \( 13 s \)",Physics,Kinematics,"\( 1.1,9, \) and \( 11 s \)",1
+"Assertion
+A planet moves faster, when it is closer
+to the sun in its orbit and vice versa
+Reason
+Orbital velocity for an orbiting planet is
+constant",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Kinematics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"The motion of a particle is described by the equation \( \boldsymbol{x}=\boldsymbol{a}+\boldsymbol{b} \boldsymbol{t}^{2} \) where \( \boldsymbol{a}= \)
+\( 15 \mathrm{cm} \) and \( b=3 \mathrm{cm} / \mathrm{sec}^{2} . \) Its
+instantaneous velocity at time 3 sec
+will be:",\( 36 \mathrm{cm} / \mathrm{sec} \),\( 1 \mathrm{cm} / \mathrm{sec} \),\( 18 \mathrm{cm} / \mathrm{sec} \),\( 32 \mathrm{cm} / \mathrm{sec} \),Physics,Kinematics,\( 36 \mathrm{cm} / \mathrm{sec} \),1
+"A body initially at rest is moving with uniform acceleration a. Its velocity after
+n seconds is v. The displacement of the body in last 2 s is :
+A \( \cdot \frac{2 v(n-1)}{u} \)","Its velocity after
+n seconds is v. The displacement of the body in last 2 s is :
+A \( \cdot \frac{2 v(n-1)}{u} \)",\( \frac{v(n-1)}{n} \),\( \frac{v(n+1)}{n} \),\( \frac{2 v(n+1)}{n} \),Physics,Kinematics,"Its velocity after
+n seconds is v. The displacement of the body in last 2 s is :
+A \( \cdot \frac{2 v(n-1)}{u} \)",1
+The formula for the velocity of electromagnetic waves in vacuum is given by,\( c=\sqrt{\mu_{0} \varepsilon} \),\( c=\frac{1}{\sqrt{\mu_{0} \varepsilon_{0}}} \),\( _{c}=\sqrt{\frac{\mu_{0}}{\varepsilon_{0}}} \),\( c=\sqrt{\frac{\varepsilon_{0}}{\mu_{0}}} \),Physics,Kinematics,\( c=\sqrt{\mu_{0} \varepsilon} \),1
+"The distance versus time graph of a
+particle moving is shown below.
+What does the graph indicate?",The particle starts with certain velocity with retardation and finally comes to restt,The velocity of the particle is constant.,The acceleration of the particle is uniform throughout,The particle starts with a certain velocity and finally becomes uniform after certain time,Physics,Kinematics,The particle starts with certain velocity with retardation and finally comes to restt,1
+"A small sphere starts falling from a very large height and after falling a distance
+of \( 100 m \) it attains the terminal velocity
+and continues to fall with this velocity. The work done by the atmosphere during the first fall of \( 100 m \) is:",Greater than the work done for next fall of 100 m,Less than the work done for next fall of 100 m,Equal to \( 100 \mathrm{mg} \),Greater than \( 100 \mathrm{mg} \),Physics,Kinematics,Greater than the work done for next fall of 100 m,1
+"A particle performs S.H.M of amplitude A along a straight line. When it is at a
+distance \( \frac{\sqrt{3}}{2} A \) from mean position, its kinetic energy gets increased by an amount \( \frac{1}{2} m \omega^{2} A^{2} \) due to an impulsive force. Then its new amplitude becomes.",\( \frac{\sqrt{5}}{2} \),\( \frac{\sqrt{3}}{2} \) A,\( \sqrt{2} \mathrm{A} \),\( \sqrt{5} \mathrm{A} \),Physics,Kinematics,\( \frac{\sqrt{5}}{2} \),1
+"Final speed of the platform in situation
+(ii), i.e.just after \( B \) have jumped will be
+nearly",\( 7.5 m / s \),\( 5.5 m / s \),\( 4.5 m / s \),\( 2.5 m / s \),Physics,Kinematics,\( 7.5 m / s \),1
+"What is the momentum of an object of
+mass \( m, \) moving with a velocity \( v ? \)
+A \( \cdot(m v)^{2} \)",\( ^{\infty} \),\( m v^{2} \),\( 1 / 2 m v^{2} \),\( m v \),Physics,Kinematics,\( ^{\infty} \),1
+"There is a regular bus service between towns \( A \) and \( B \), with a bus leaving towns A and B every \( T \) minutes. A cyclist
+moving with a speed of \( 20 \mathrm{kmh}^{-1} \) in the direction \( A \) to \( B \) notices that a bus goes
+past him every 18 mins in his direction
+and every 6 mins in the opposite direction. What is the period \( \boldsymbol{T} \)
+of bus service?",9 minutes,12 minutes,15 minutes,18 minutes,Physics,Kinematics,9 minutes,1
+"Assertion
+The frequency of a sound wave changes
+as it travels from one medium to
+another medium.
+Reason
+The velocity of the wave changes as well
+as the wavelength if the medium
+changes.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Kinematics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"Statement-1: When a travelling wave is sent along a particular string by
+oscillating one end, the speed of the
+wave will increase if we increase the
+frequency of oscillations. Statement-2: If a travelling wave sent
+along a particular string by oscillating
+its one end, it is the wavelength of the
+wave that decreases.",If both the statements are true and statement- 2 is the correct explanation of statement-,If both the statements are true but statement-2 is not the correct explanation of statement-,If statement-1 is true and statement-2 is false,If statement-1 is false and statement-2 is true,Physics,Kinematics,If both the statements are true and statement- 2 is the correct explanation of statement-,1
+"What information about the motion of a
+body can be obtained from its
+displacement-time graph?",Velocity of the body,Acceleration of the body,Force on the body,Retardation of the body,Physics,Kinematics,Velocity of the body,1
+"Two objects have the same mass and are located near each other at a
+distance (r). If the mass of one of the
+objects is doubled and the mass of the other object is tripled, Find out the
+change in gravitational attraction between them?",Decrease by \( 1 / 6 \),Decrease by \( 2 / 3 \),Increase by \( 3 / 2 \),"Increase by 5
+E. Increase by 6",Physics,Kinematics,Decrease by \( 1 / 6 \),1
+"An astronaut is approaching the moon.
+He sends a radio wave of frequency \( 5 \times \) \( 10^{9} H z \) towards the moon. The
+frequency of the radio echo received by him has a frequency \( 9 \times 10^{4} H z \) more
+than that of the real frequency. The velocity of the astronaut relative to the
+moon is",\( 5.40 \mathrm{m} / \mathrm{s} \),\( 4.05 k m / s \),\( 2.70 k m / s \),\( 1.35 k m / s \),Physics,Kinematics,\( 5.40 \mathrm{m} / \mathrm{s} \),1
+"If a body executes motion with uniform acceleration, the velocity-time graph",is a straight line inclined to the time axis,is a straight line parallel to the time axis,is a straight line perpendicular to the time axis,cannot be plotted,Physics,Kinematics,is a straight line inclined to the time axis,1
+"A steamer moves with velocity \( 3 \mathrm{km} / \mathrm{h} \) in and against the direction of river water whose velocity is \( 2 \mathrm{km} / \mathrm{h} \). Calculate the total time for the total journey if the boat travels \( 2 \mathrm{km} \) in the direction of a stream
+and then back to its place:",2 hrs,2.5 hrs,2.4 hrs,3 hrs,Physics,Kinematics,2 hrs,1
+"A car covers \( 30 \mathrm{km} \) at a uniform speed
+of \( 60 k m h^{-1} \) and the next \( 30 \mathrm{km} \) at a
+uniform speed of \( 40 k m h^{-1} \). Find the
+total time taken.",30 min,45 min,75 min,\( 120 \mathrm{min} \),Physics,Kinematics,30 min,1
+The fields due to a bar magnet at equal distance on its axial and equatorial lines are,Equal to each other,The field on the axial line is double that on the equatorial line,The field on the equatorial line is double that on the axial line,There is no relationship between the two fields,Physics,Kinematics,Equal to each other,1
+"The mass of a gas molecules is \( 4 \times 10^{-30} \mathrm{kg} \)
+If \( 10^{23} \) molecules strike per second at \( 4 \mathrm{m}^{2} \)
+area with a velocity \( 10^{7} \mathrm{m} / \mathrm{s} \), then the
+pressure exerted on the surface will be",1 Pascal,3 Pascal,2 Pascal,4 Pascal,Physics,Kinematics,1 Pascal,1
+"Assertion: An object falling through a viscous medium eventually attains terminal velocity Reason: All the rain drops hit the
+surface of the earth with the same
+constant velocity",Both assertion and reason are true and reason is correct explanation of assertion.,Both assertion and reason are true but reason is not the correct explanation of assertion.,Assertion is true but reason is false.,Both assertion and reason are false,Physics,Kinematics,Both assertion and reason are true and reason is correct explanation of assertion.,1
+"A small metal ball of diameter 4 mm
+and density \( 10.5 g / c m^{3} \) in dropped in glycerine of density \( 1.5 g / c m^{3} . \) The ball attains a terminal velocity of \( 8 \mathrm{cm} / \mathrm{sec} \)
+The coefficient of viscosity of glycerine
+is",4.9 poise,9.8 poise,98 poise,980 poise,Physics,Kinematics,4.9 poise,1
+"A particle is projected at an angle \( \boldsymbol{\theta}= \)
+\( 30^{\circ} \) with the horizontal, with a velocity
+of \( 10 m s^{-1} . \) Then
+This question has multiple correct options","After \( 2 s \), the velocity of particle makes an angle of \( 60^{\circ} \) with initial velocity vector.","After \( 1 s \), the velocity of particle makes an angle of \( 60^{\circ} \) with initial velocity vector",The magnitude of velocity of particle after 1 s is \( 10 \mathrm{ms}^{-1} \),The magnitude of velocity of particle after 1 s is \( 5 m s^{-1} \),Physics,Kinematics,"After \( 2 s \), the velocity of particle makes an angle of \( 60^{\circ} \) with initial velocity vector.",1
+"The average value of acceleration due to gravity on the surface of the earth is
+equal to:",\( 9.8 \mathrm{ms}^{-2} \),\( 9.8 \mathrm{ms}^{-1} \),\( 19.6 \mathrm{ms}^{-2} \),\( 9.8 s^{-2} \),Physics,Kinematics,\( 9.8 \mathrm{ms}^{-2} \),1
+"Two identical spherical masses are kept at some distance. Potential energy when a mass \( m \) is taken from the
+surface of one sphere to the other",increases continuously,decreases continuously,"first increases, then decreases","first decreases, then increases",Physics,Kinematics,increases continuously,1
+"In the context of accuracy to
+measurement and significant figures in expressing results of experiment, which of the following is/are correct?
+(1) Out of the measurements \( 50.14 \mathrm{cm} \) and 0.00025 ampere, the first one has greater accuracy.
+(2) If one travels \( 478 \mathrm{km} \) by rail and 397
+m. by road, the total distance traveled is
+\( 478 \mathrm{km} \)",Only (1) is correct,only (2) is correct,Both are correct,None of these is correct,Physics,Kinematics,Only (1) is correct,1
+"A metal ball does not rebound when
+struck on a wall, whereas a rubber ball
+of same mass when thrown with the
+same velocity on the wall rebounds. From this it is inferred that:",change in momentum is same in both.,change in momentum in rubber ball is more.,change in momentum in metal ball is more,initial momentum of metal ball is more than that of rubber ball,Physics,Kinematics,change in momentum is same in both.,1
+Gradient of line of velocity time graph is tells us the,velocity,acceleration,distance,time,Physics,Kinematics,time,4
+"The distance of a particle as a function of time is shown below. The graph
+indicates that",The particle starts with certain velocity but the motion is retarded and finally the particle stops,The velocity of the particle is constant throughout,The acceleration of the particle is constant throughout.,The particle starts with another constant velocity then the motion is in acceleration for some time then finally the particle moves with another constant velocity.,Physics,Kinematics,The particle starts with certain velocity but the motion is retarded and finally the particle stops,1

@@ -1,0 +1,376 @@
+question,option_1,option_2,option_3,option_4,Subject,topic,correct_answer,Correct_Option_Number
+"A positively charged particle in a uniform magnetic field moves in a circular path in the clockwise direction,
+parallel to the plane of the page. In what direction do the magnetic field lines point?",Out of the page,Into the page,To the left,"To the right
+E. In a clockwise pattern parallel to the plane of the page",Physics,Electricity,Out of the page,1
+Electric current flows through:,a conductor,an insulator,free space,none of these,Physics,Electricity,a conductor,1
+Which color band in the color coding of a resistor has the multiplier \( 10^{-1} \) ?,Silver,Gold,Yellow,orange,Physics,Electricity,Silver,1
+"Paper snippets attracted by a charged
+CD is an example of",charging by induction,charging by conduction,charging by ionisation,charging by transmission,Physics,Electricity,charging by induction,1
+"Which of the following best describe the
+current?",the rate of flow of charged particles through a conducting medium,only present when there is no voltage,the flow of a conductor through charged particles,"faster than the speed of light
+E. the random movement of electrons from atom to
+atom",Physics,Electricity,the rate of flow of charged particles through a conducting medium,1
+The resistivity of a semiconductor,Increases as the temperature increases,Decreases as the temperature increases,Remains constant even when temperature varies,None of the above,Physics,Electricity,Increases as the temperature increases,1
+"A electric dipole moment \( \overrightarrow{\boldsymbol{p}}= \) \( (2.0 \hat{i}+3.0 \hat{j}) \mu C . m \) is placed in a
+uniform electric field \( \overrightarrow{\boldsymbol{E}}= \) \( (3.0 \hat{i}+2.0 \hat{k}) \times 10^{5} N C^{-1} \)
+This question has multiple correct options",The torque that \( \vec{E} \) exerts on \( \vec{p} \) is \( (0.6 \hat{i}-0.4 \hat{j}-0.9 \hat{k}) N m \),The potential energy of the dipole is -0.65,The potential energy of the dipole is \( 0.6 J \),"If the dipole is free to rotate in the electric field, the maximum magnitude of potential energy of the dipole during the rotation is 1.3 .5",Physics,Electricity,The torque that \( \vec{E} \) exerts on \( \vec{p} \) is \( (0.6 \hat{i}-0.4 \hat{j}-0.9 \hat{k}) N m \),1
+"An \( L-C-R \) series circuit has a
+maximum current of \( 5 A . \) If \( L=0.5 H \)
+and \( C=8 \mu F, \) then the angular
+frequency of \( \boldsymbol{A} \boldsymbol{C} \) voltage is :",500 rad/s,5000 rad/s,400 rad/s,\( 250 \mathrm{rad} / \mathrm{s} \),Physics,Electricity,500 rad/s,1
+"In an a.c., circuit with phase voltage \( \boldsymbol{V} \)
+and current \( I \), the power dissipated is
+\( ^{A} \cdot \frac{V I}{2} \)","c., circuit with phase voltage \( \boldsymbol{V} \)
+and current \( I \), the power dissipated is
+\( ^{A} \cdot \frac{V I}{2} \)",\( \frac{V I}{\sqrt{2}} \),\( V I \),VIcos\theta,Physics,Electricity,"c., circuit with phase voltage \( \boldsymbol{V} \)
+and current \( I \), the power dissipated is
+\( ^{A} \cdot \frac{V I}{2} \)",1
+"n mutual induction
+A: when current in one coil increases, induced current in neighbouring coil flows in the opposite direction
+B: When current in one coil decreases,
+induced current in neighbouring coil flows in the opposite direction","A is true, B is false",A and B are false,A and B are true,"A is false, B is true",Physics,Electricity,"A is true, B is false",1
+"Lis a circular ring made of a uniform
+wire. Current enters and leaves the rind
+through straight conductors which, if
+produced, would have passed through
+the centre \( C \) of the ring. The magnetic
+field at \( C: \)
+This question has multiple correct options",due to the straight conductors is zero,due to the loop is zero,due to the loop is proportional to \( \theta \),due to the loop is proportional to \( (\pi-\theta) \),Physics,Electricity,due to the straight conductors is zero,1
+"When connected to the \( 220 \mathrm{V} \) mains
+supply, the current in a toaster, a kettle, a lamp and a fan is \( 5.2 \mathrm{A}, 9.4 \mathrm{A}, 0.5 \mathrm{A} \) and 2.6A respectively. Which appliance has the greatest electrical resistance?",toaster,kettlein,lamp,fan,Physics,Electricity,toaster,1
+Few common pins are placed on a table with a glass top. A powerful bar magnet is moved under the glass top. Describe the movement of common pins.,move opposite to the direction of magnet,move in the direction of magnet,not move,be thrown up in air.,Physics,Electricity,move opposite to the direction of magnet,1
+"Assertion
+A stationary charged particle in a magnetic field does not experience a force.
+Reason
+The force acting on a charged particle does not depend on velocity of the
+particle",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Electricity,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"An infinite large plate has a net positive charge. When referring to the electric
+field just as it is coming out of the
+plate:",Some of the electric field is perpendicular to the plate,All of the electric field is perpendicular to the plate,None of the electric field is perpendicular to the plate,There is no electric field coming out of the plate,Physics,Electricity,Some of the electric field is perpendicular to the plate,1
+"A full wave p-n diode rectifier uses a
+load resistance of \( 1300 \Omega \). No filter is
+used. If the internal resistance of each
+diode is \( 9 \Omega \), then the efficiency of this full wave rectifier is","If the internal resistance of each
+diode is \( 9 \Omega \), then the efficiency of this full wave rectifier is","\( 80.64 \% \)
+B . \( 40.6 \% \)",\( 13.9 \% \),\( 100 \% \),Physics,Electricity,"If the internal resistance of each
+diode is \( 9 \Omega \), then the efficiency of this full wave rectifier is",1
+"Ordinary tap water conducts electric
+current due to :",the dissolved salts in it it,higher purity of the water,the bacteria present in it it,none of these,Physics,Electricity,the dissolved salts in it it,1
+"Whenever current is changed in a coil an induced e.m.f. is produced in the same coil, This property of the coil is due to",mutual induction,self induction,eddy currents,hysteresis,Physics,Electricity,hysteresis,4
+"Two points charges \( 4 \mu C \) and \( -2 \mu C \) are separated by a distance of \( 1 \mathrm{m} \) in air. \( \mathrm{At} \) what point in between the charges and on the line joining the charges, is the electric potential zero?",In the middle of the two charges,\( 1 / 3 m \) from \( 4 \mu C \),\( 1 / 3 m \) from \( -2 \mu C \),Nowhere the potential is zero,Physics,Electricity,In the middle of the two charges,1
+"If we double the radius of a coil keeping the current through it unchanged, then the magnetic field at any point at a large distance from the centre becomes
+approximately",double,three times,four times,one-fourth,Physics,Electricity,double,1
+"At resonant frequency the current
+amplitude in series LCR circuit is:",maximum,minimum,zero,infinity,Physics,Electricity,maximum,1
+"Open circuit voltage of a source is 7.86 V and its short circuit current is 9.25 A. Find the current when an external
+resistance of \( 2.4 \Omega \) is connected
+A . \( 1.4 \mathrm{A} \)","Find the current when an external
+resistance of \( 2.4 \Omega \) is connected
+A . \( 1.4 \mathrm{A} \)",1.82A,2.01A,2.4A,Physics,Electricity,1.82A,2
+"The power (P) of a wave, whose amplitude (A) and area of cross section
+of the medium is \( \mathrm{S} \), is related to its time period (T) by:
+A \( \cdot P / T^{2}= \) constant","and area of cross section
+of the medium is \( \mathrm{S} \), is related to its time period (T) by:
+A \( \cdot P / T^{2}= \) constant",\( P T^{2}= \) constant,\( P T= \) constant,\( P / T= \) constant,Physics,Electricity,"and area of cross section
+of the medium is \( \mathrm{S} \), is related to its time period (T) by:
+A \( \cdot P / T^{2}= \) constant",1
+"Consider a neutral conducting sphere. A positive point charge is placed outside the sphere. The net charge on the sphere is then,",negative and distributed uniformly over the surface of the sphere,negative and appears only at the point on the sphere closest to the point charge,negative and distributed non-uniformly over the entire surface of the sphere,zero,Physics,Electricity,zero,4
+"toppr
+Q Type your question
+secondary coil, current through the primary coil and input power are given.
+(a) Let the given data be taken as \( \frac{N_{1}}{N_{2}} \)
+(turn-ratio), \( i_{1}, \) (input current) and \( P \)
+(input power).
+(b) Substitute the given values of \( \frac{N_{1}}{N_{2}} \)
+and \( i_{1}, \) in the above formula and get the
+value of \( i_{2} \)
+(c) Write the relation between turn-ratio
+and the currents as \( \frac{N_{1}}{N_{2}}=\frac{i_{2}}{i_{1}}, \) where \( i_{2} \) is the current in the secondary coil.
+(d) Write the relation between input
+power and output power in terms of
+\( V_{1}, i_{1}, V_{2}, i_{2} \) i.e. \( V_{1} i_{1}=V_{2} i_{2}=P, \) where
+\( V_{1} \) and \( V_{2} \) are the voltage in the primary and secondary coils respectively.
+(e) Substitute the values of \( i_{2} \) and \( P \) in
+the above relation to get the value of \( V_{2} \)
+A \( . \) abdce","Let the given data be taken as \( \frac{N_{1}}{N_{2}} \)
+(turn-ratio), \( i_{1}, \) (input current) and \( P \)
+(input power).
+(b) Substitute the given values of \( \frac{N_{1}}{N_{2}} \)
+and \( i_{1}, \) in the above formula and get the
+value of \( i_{2} \)
+(c) Write the relation between turn-ratio
+and the currents as \( \frac{N_{1}}{N_{2}}=\frac{i_{2}}{i_{1}}, \) where \( i_{2} \) is the current in the secondary coil.
+(d) Write the relation between input
+power and output power in terms of
+\( V_{1}, i_{1}, V_{2}, i_{2} \) i.e. \( V_{1} i_{1}=V_{2} i_{2}=P, \) where
+\( V_{1} \) and \( V_{2} \) are the voltage in the primary and secondary coils respectively.
+(e) Substitute the values of \( i_{2} \) and \( P \) in
+the above relation to get the value of \( V_{2} \)
+A \( . \) abdce",bcade,acbde,\( d b c a e \),Physics,Electricity,bcade,2
+"If radius of long solenoid is doubled, then its self inductance will be :",same,doubled,trippled,quadrupled,Physics,Electricity,doubled,2
+"The magnifying power of a simple microscope can be increased if we use
+eye piece of :",higher focal length,smaller focal length,higher diameter,smaller diameter,Physics,Electricity,higher focal length,1
+"Assertion
+Each of the plates of a parallel-plate
+capacitor is given equal positive charge
+Q. The charges on the facing surfaces
+will be same.
+Reason
+A negative charge \( (-Q) \) will be induced
+on each of the facing surfaces.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Electricity,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"In a battery five dry cells each of 1.5 volt
+have internal resistance of
+0.2,0.3,0.4,0.5 and \( 0.6 \Omega \) are present in
+series. The battery is connected to a \( 1 \Omega \) resistance. Identify the correct statement \( (s) \)",Current in the circuit will be \( 2.5 A \),Current in the circuit will be \( 1.5 A \),on short circuiting the battery 3.75 d current will flow,Both \( (A) \) and \( (C) \),Physics,Electricity,Current in the circuit will be \( 2.5 A \),1
+"An \( A C \) source rated \( 100 \vee(r m s) \)
+supplies a current of \( 10 \mathrm{A}(\mathrm{rm} s) \) to a circiut. The average power delivered by the source. This question has multiple correct options",must be \( 1000 \mathrm{w} \),may be \( 1000 \mathrm{w} \),may be greater than 1000 w,may be less than 1000 w,Physics,Electricity,must be \( 1000 \mathrm{w} \),1
+"Assertion
+Sometime, a crackling sound is heard
+while taking off sweater during winters.
+Reason
+This is due to static electric charges.","Both Assertion and Reason are correct and Reason is
+the correct explanation for Assertion","Both Assertion and Reason are correct but Reason is
+not the correct explanation for Assertion",Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Electricity,"Both Assertion and Reason are correct and Reason is
+the correct explanation for Assertion",1
+Alternative current generator is basically based upon:,Amperes law,Lenz's law,Faradays law,coulombs law,Physics,Electricity,Amperes law,1
+"Udxidı Canıt ILyplicaliy ustu IUI CdNIE
+and satellite tv) has its signal run on a
+copper wire surrounded by an insulator which is surrounded by the ground wire,
+as opposed to the typical side by side
+configuration.
+What is the most logical reason for
+this?",The energy held in the electric field between the inside wire and the outside allow for a clearer signal.,The outside wire prevents any magnetic field from the inside wire from leaking out of the wire,The outside wire prevents electric fields from interfering with the signal in the inside wire,The overall resistance of the wire is reduced using this configuration.,Physics,Electricity,The energy held in the electric field between the inside wire and the outside allow for a clearer signal.,1
+"A rectangular loop carrying a current
+is situated near a long straight wire
+such that the wire is parallel to one of
+the sides of the loop and is in the plane of the loop. If a steady current lis established in the wire as shown in the
+figure, the loop will:",rotate about an axis parallel to the wire,move away from the wire,remain stationary,move towards the wire,Physics,Electricity,rotate about an axis parallel to the wire,1
+From below which is the example of insulators.,Metallic elements,Non Metallic elements,graphite,acqueous solution of salt,Physics,Electricity,graphite,3
+"Coulomb's law is a confirmation
+of",inverse cube law,product law,inverse square law,None of the above,Physics,Electricity,inverse cube law,1
+"Assertion
+The coil in the resistance boxes are
+made by doubling the wire.
+Reason
+Thick wire is required in resistance box.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Electricity,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"Assertion
+An \( n- \) type semiconductor has a large
+number of electrons but still it is
+electrically neutral
+Reason
+An \( n- \) type semicondutor is obtained
+by doping an intrinsic semiconductor with a pentavalent impurity.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Electricity,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"Which source of energy uses the
+production of steam to generate electrical energy?",Hydroelectric,Nuclear,Tides,waves,Physics,Electricity,Hydroelectric,1
+"The natural frequency of an LC - circuit
+is 1,25,000 cycles per second. Then the capacitor \( C \) is replaced by another capacitor with a dielectric medium of dielectric constant k. In this case, the
+frequency decreases by \( 25 k H z . \) The
+value of k is:
+A . 3.0","Then the capacitor \( C \) is replaced by another capacitor with a dielectric medium of dielectric constant k. In this case, the
+frequency decreases by \( 25 k H z . \) The
+value of k is:
+A . 3.0",2,1.56,1.7,Physics,Electricity,2,2
+Which of following can induce the maximum induced voltage?,1 amp dc.,1 amp 1 Н \( z \).,1 amp 100 н \( z \),20 amp dc.,Physics,Electricity,1 amp dc.,1
+"The current which does not contribute
+to the power consumed in an AC circuit is called:",Non-ideal current,Wattless current,convectional current,Inductance current,Physics,Electricity,Non-ideal current,1
+"Two fixed charges \( -2 Q \) and \( +Q \) are located at points \( (-3 a, 0) \) and \( (+3 a, 0) \) respectively, Then which of the following statement is correct?","Points where the electric potential due to the two charges is zero in \( x \) -y plane, lie on a circle of radius 42 and centre (5a, 0)",Potential is zero at \( x=a \) and \( x=9 a \),"Both (a) and
+(b) are wrong",Both (a) and (b) are correct,Physics,Electricity,"Points where the electric potential due to the two charges is zero in \( x \) -y plane, lie on a circle of radius 42 and centre (5a, 0)",1
+"A cell of negligible resistance and emf 2 volt is connected to a series
+combination of 2,3 and 5 ohm. The
+potential difference in volts between the terminals of 3 -ohm resistance will be:",\( 0.6 v o l t \),\( \frac{2}{3} \) volt,\( 3 v o l t s \),\( 6 v o l t s \),Physics,Electricity,\( 0.6 v o l t \),1
+"Two identical \( +v e \) charges are at the ends of a straight line AB. Another identical \( +v e \) charge is placed at 'C' such that
+\( A B=B C . \) (A, B and C being on the same
+line). Now the force on 'A' will :
+\( A \). increase","Another identical \( +v e \) charge is placed at 'C' such that
+\( A B=B C . \) (A, B and C being on the same
+line). Now the force on 'A' will :
+\( A \). increase",decrease,remain same,cannot be predicted,Physics,Electricity,decrease,2
+"1)
+\( I, \) is placed in a horizontal plane near a
+long straight conductor carrying steady
+current \( I_{1} \) at a distance \( d \) from the
+conductor as shown in figure. The loop
+will experience",A net repulsive force away from the conductor,A net torque acting upward perpendicular to the horizontal plane,A net torque acting downward normal to the horizontal plane,A net attractive force towards the conductor,Physics,Electricity,A net repulsive force away from the conductor,1
+What is called the rate of doing work in an electric circuit?,Power,Energy,current,voltage,Physics,Electricity,Power,1
+"A metre bridge is balanced with known
+resistance in the right gap and a metal
+wire in the left gap. If the metal wire is heated the balance point",shifts towards left,shifts towards right,does not change,may shift towards left or right depending on the nature of the metal,Physics,Electricity,shifts towards left,1
+"An elastic circular wire of length \( \ell \)
+carries a current \( I_{0} . \) It is placed in a
+uniform magnetic field \( \vec{B} \) (out of paper)
+such that its plane is perpendicular to the direction of \( \vec{B} \). The wire will
+experience:",No force,A stretching force,A compressive force,A touque,Physics,Electricity,No force,1
+"If the temperature of the Sun were to increase from \( T \) to \( 2 T \) and its radius
+from \( R \) to \( 2 R \). The ratio of power
+radiated by it would become:",64 times,16 times,32 times,4 times,Physics,Electricity,64 times,1
+Which of the following devices is used to detect the presences of a charge on a body?,Multimeter,Electroscope,Angiogram,Microscope,Physics,Electricity,Multimeter,1
+In which of the following doped semiconductors majority of charge carriers are holes?,Antimony doped with germanium,Boron doped with silicon,Arsenic doped with silicon,Phosphorus doped with germanium,Physics,Electricity,Antimony doped with germanium,1
+"A steady current I flows along an infinitely long hollow cylindrical
+conductor of radius R. This cylinder is placed coaxially inside an infinite
+solenoid of radius \( 2 R \). The solenoid has
+n turns per unit length and carries a
+steady current I. Consider a point \( P \) at a distance r from the common axis. The
+correct statement(s) is(are)?","In the region \( 0<r<R \), the magnetic field is non-zero","In the region \( R<r<2 R \), the magnetic field is along
+the common axis","In the region \( R<r<2 R \), the magnetic field is tangential to the circle of radius \( r, \) centered on the axis","In the region \( r>2 R \), the magnetic field is non-zero",Physics,Electricity,"In the region \( 0<r<R \), the magnetic field is non-zero",1
+The terminal voltage of a cell in open circuit condition is \( _{-}-_{-}-_{-} \) its emf.,more than,less than,equal to,square of,Physics,Electricity,more than,1
+"Which of the following quantities do not change when an ohmic resistor connected to a battery is heated due to
+the current?",drift speedd,resistivity,resistance,number of free electrons,Physics,Electricity,resistivity,2
+"An electric dipole moment \( \vec{p}=(2.0 \hat{i}+ \) \( \mathbf{3} .0 \hat{\boldsymbol{j}}) \mu C . \mathrm{m} \) is placed in a uniform
+electric field \( \overrightarrow{\boldsymbol{E}}=(\boldsymbol{3} \cdot \boldsymbol{0} \hat{\boldsymbol{i}}+\boldsymbol{2} \cdot \boldsymbol{0} \widehat{\boldsymbol{k}}) \times \)
+\( \mathbf{1 0}^{\mathbf{5}} \mathbf{N} \boldsymbol{C}^{-\mathbf{1}} \)
+This question has multiple correct options",The torque that \( \vec{E} \) exerts on \( \vec{p} \) is \( (0.6 \vec{i}-0.4 \vec{j}- \) \( 0.9 \vec{k}) N m \),The potential energy of the dipole is \( -0.6 J \),The potential energy of the dipole is \( 0.6 J \).,"If the dipole is rotated in the electric field, the maximum potential energy of the dipole is \( 1.3 J \)",Physics,Electricity,The torque that \( \vec{E} \) exerts on \( \vec{p} \) is \( (0.6 \vec{i}-0.4 \vec{j}- \) \( 0.9 \vec{k}) N m \),1
+"Two long thin conductors \( 10 \mathrm{cm} \) apart
+carry currents in the ratio 1: 2 in the
+same direction. The magnetic field
+midway between them is \( 2 \times 10^{-3} \)
+Tesla. The force on 1 metre length of any conductor will be :
+\( \mathbf{A} \cdot 2 \pi \times 10^{-3} \) Newton","The force on 1 metre length of any conductor will be :
+\( \mathbf{A} \cdot 2 \pi \times 10^{-3} \) Newton",\( 2 \times 10^{-3} \) Newton,\( \pi \) Newton,1 Newton,Physics,Electricity,"The force on 1 metre length of any conductor will be :
+\( \mathbf{A} \cdot 2 \pi \times 10^{-3} \) Newton",1
+"If a body is charged by rubbing it, its weight :",Remains precisely constant,Increase slightly,Decrease slightly,May increase slightly or may decrease slightly,Physics,Electricity,Remains precisely constant,1
+"The circuit below shows three identical
+resistors labeled \( 1,2, \) and \( 3 . \) The reading on the ammeter is 12.0 A. How much
+current flows in each resistors?","How much
+current flows in each resistors?","4.0 A
+в. 12.0 А",36.0 А,"we cannot determine the current values without knowing the resistor va
+E. we cannot determine the current values without knowing the batter",Physics,Electricity,"How much
+current flows in each resistors?",1
+"Q Type your question-
+speed of \( 2 \mathrm{cms}^{-1} \) on a \( \mathrm{V} \) -shaped
+conductor each prong of which is \( 50 \mathrm{cm} \) in length immersed in a uniform
+magnetic field \( \mathbf{B}=\mathbf{0 . 4 T}, \) perpendicular
+and into the \( V \) -plane shown in the
+
+Figure. To start with, at time \( \mathbf{t}=\mathbf{0} s, \) the
+mid-point \( C \) of the rod is at \( 0 . \) Then [both conductor and rod have resistance of 10
+\( ^2 \) per meter",the current in the circuit increases from zero to \( 300 \mathrm{mA} \) during \( 20 s \),the current in the circuit is \( 300 \mathrm{mA} \) fort \( \leq 20 \) s and zero fort \( >20 \) s.,"the current in the circuit is \( 150 \mathrm{mA} \), till the rod is in contact with \( V \) -conductor",the current in the circuit is \( 150 \mathrm{mA} \) for \( \mathrm{t} \leq 10 \mathrm{s} \) and is \( 300 m A \) for \( 10 s<t \leq 20 s \),Physics,Electricity,the current in the circuit increases from zero to \( 300 \mathrm{mA} \) during \( 20 s \),1
+"Assertion
+\( \mathbf{A} \)
+\( 60 W \) bulb is connected in parallel with a room heater and this combination is connected across the
+mains. If the \( 60 W \) bulb is replaced by a
+\( 100 W \) bulb, the heat produced by the
+heater will be more.BECAUSE
+Reason
+When resistances are connected in parallel across the mains, the heat produced is inversely proportional to the resistance",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Electricity,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"Four point charges \( -\mathrm{Q},-\mathrm{q}, 2 \mathrm{q} \) and \( 2 \mathrm{Q} \) are placed, one at each corner of the square The relation between \( Q \) and \( q \) fo which
+the potential at the centre of the square is zero, is",\( Q=q \),\( Q=\frac{1}{q} \),\( Q=-q \),\( Q=-\frac{1}{q} \),Physics,Electricity,\( Q=q \),1
+"The impurity atoms, with which pure silicon should be doped to make a ptype semiconductor, are those of This question has multiple correct options",phosphorous,boron,antimony,aluminium,Physics,Electricity,phosphorous,1
+"The charge on a body is +1 C. Find the number of electrons in excess or deficit
+on the body.
+A \( \cdot 6.25 \times 10^{1} \) coulomb","Find the number of electrons in excess or deficit
+on the body.
+A \( \cdot 6.25 \times 10^{1} \) coulomb",\( 6.25 \times 10^{-18} \) coulomb,\( 6.25 \times 10^{-1} \) coulomb,\( 6.25 \times 10^{18} \) coulomb,Physics,Electricity,"Find the number of electrons in excess or deficit
+on the body.
+A \( \cdot 6.25 \times 10^{1} \) coulomb",1
+"When the number of turns in a coll is
+doubled without any change in the length of the coll, its self-inductance
+becomes",four times,Double,Halved,Not change,Physics,Electricity,Double,2
+The circuit shown below acts as:,Tuned filter,Low pass filter,High pass filter,Rectifier,Physics,Electricity,Rectifier,4
+The total charge induced in a conducting loop when it is moved in magnetic field depends on,The rate of change of magnetic flux,Initial magnetic flux only,The total change in magnetic flux,Final magnetic flux only,Physics,Electricity,The rate of change of magnetic flux,1
+"toppr OG
+Q Type your question_
+is \( 50^{\circ} \mathrm{C} \) and \( 15 \Omega \) respectively The rate of
+change of resistance \( R \) with temperature \( \frac{1}{2} \Omega /^{\circ} C \) and rate of decrease of temperature of \( R \) is \( \frac{(e n 3)}{100} \)
+times the temperature difference from
+surrounding Assume the resistance \( R \)
+loses heat only in accordance with
+newton's law of cooling If key k is closed
+at \( t=0 \) then choose the incorrect option",The value of R for which power dissipation in it is maximum is \( 5 \Omega \),Temperature of R when power dissipation in it is maximum is \( 30^{\circ} \mathrm{C} \),Time after which power dissipation in it is maximum is 100 sec,Current throughout 10 v battery when power dissipation in \( R \) is maximum is 2.5 A,Physics,Electricity,The value of R for which power dissipation in it is maximum is \( 5 \Omega \),1
+"A charged particle, initially at rest at 0 when released follows a trajectory as
+shown. Such a trajectory is possible in
+the presence of.",Electric field of constant magnitude and varying direction,Magnetic field of constant magnitude and varying direction,Electric filed of constant magnitude and constant direction,Electric and magnetic fields of constant magnitudes and constant directions which are parallel to each other,Physics,Electricity,Electric field of constant magnitude and varying direction,1
+"Figure shows some equipotential lines distributed in space. A charged object
+is moved from point \( A \) to point \( B \)",The work done in figure (i) is the greatest.,The work done in figure (ii) is the least.,"The work done is the same in figure (i), (ii) and (iii)","The work done is the same in figure (iii) is greater than figure
+(ii) but equal to that in figure (i).",Physics,Electricity,The work done in figure (i) is the greatest.,1
+The output power in step-up transformer used in practice is,Greater than the input power,Equal to the input power,Less than the input power,None of the above,Physics,Electricity,Greater than the input power,1
+"Across the surface of a charged
+conductor, the electric:
+
+This question has multiple correct options",field id continuous,potential is continuous,field is discontinuous,potential is discontinuous,Physics,Electricity,field id continuous,1
+A balloon gets negatively charged by rubbing ceilings of a wall.,The balloon sticks to the ceiling forever.,The balloon eventually fall off the ceiling,The balloon does not stick to the ceiling at all,The balloon charges the ceiling negatively,Physics,Electricity,The balloon sticks to the ceiling forever.,1
+"A planar coil of area \( 7 \mathrm{m}^{2} \) carrying an anti-clockwise current 2 A is placed in an extemal magnetic field \( \vec{B}=(0.2 \hat{i}+ \) \( 0.2 \hat{j}-0.3 \hat{k}), \) such that the normal to the plane is along the \( \operatorname{line}(3 \hat{i}-5 \hat{j}+ \)
+4 \( \hat{k} \) ). Select correct statements from the
+following. ( Consider Normal of the coil and Magnetic moment vectors to be in the same direction
+This question has multiple correct options",The potential energy of the coil in the given orientation is 6.4,The angle between the normal (positive) to the coil and the external magnetic field is \( \cos ^{-1}(0.57) \),The potential energy of the coil in the given orientation is 3.2,The magnitude of magnetic moment of the coil is about \( 14 A m^{2} \),Physics,Electricity,The potential energy of the coil in the given orientation is 6.4,1
+"At a point in space, the electric field points toward north. In the region surrounding this point, the rate of change of potential will be zero along",north,south,north-south,east-west,Physics,Electricity,north,1
+"Assertion
+STATEMENT-1: In a region where uniform electric field exists, the net
+charge within volume of any size is zero.
+Reason
+
+STATEMENT-2: The electric flux within
+any closed surface in a region of uniform electric field is zero.","Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-","Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-","statement- - is True, Statement-2 is False","Statement-1 is False, Statement-2 is True",Physics,Electricity,"Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-",1
+"In the Millikan's oil drop experiment the oil drop is subjected to a horizontal electric field of \( 4 \mathrm{N} / \mathrm{C} \) and the drop moves with a constant velocity
+making an angle \( 45^{0} \) to the horizontal. If
+the weight of the drop is W. The charge on the drop is (neglect buoyancy)",w,W/4,w/2,3W/4,Physics,Electricity,w,1
+"The variation of the instantaneous
+current (I) and the instantaneous emf(E) in a circuit is as shown in figure.
+Which of the following statements is
+correct?",The voltage lags behind the current by \( \pi / 2 \),The voltage leads the current by \( \pi / 2 \),The voltage and the current are in phase,The voltage leads the current by \( \pi \),Physics,Electricity,The voltage lags behind the current by \( \pi / 2 \),1
+"In the case of linearly polarized light, the magnitude of the electric field
+vector",is parallel to the direction of propagation,does not change with time,increases linearly with time,varies periodically with time,Physics,Electricity,is parallel to the direction of propagation,1
+Resistors are generally colour coded to:,Indicate the type of the circuit in which they are to be used,Identify whether they are ohmic or non-ohmic,Determine their values in ohm,Determine whether they are wire wound or composition resistors,Physics,Electricity,Indicate the type of the circuit in which they are to be used,1
+"A wire of resistance 10.0 ohm is
+stretched so as to increase its length by \( 20 \% \). Its resistance then would be:",10.0 ohm,12.0 ohm,14.4 ohm,10.2 ohm,Physics,Electricity,10.0 ohm,1
+"The two plate \( X \) and \( Y \) of a parallel-
+plates capacitor of capacitance \( \mathbf{C} \) are
+given a charge of amount Q each. \( X \) is
+now joined to the positive terminal and
+y to the negative terminal of a cell of
+emf \( \varepsilon=Q / C \)
+This question has multiple correct options",Charge of amount Q will flow from the positive terminal to the negative terminal of the cell through the capacitor.,The total charge on the plate \( X \) will be \( 2 Q \),The total charge on the plate Y will be zero.,The cell will supply \( C \varepsilon^{2} \) amount of energy.,Physics,Electricity,Charge of amount Q will flow from the positive terminal to the negative terminal of the cell through the capacitor.,1
+"In an L-C-R a.c. circuit at resonance, the
+current:","c. circuit at resonance, the
+current:",is always in phase with the voltage,"always leads the voltage
+C . always lags behind the voltage",may lead or lag behind the voltage,Physics,Electricity,"c. circuit at resonance, the
+current:",1
+The device that can act as a complete electronic circuit is -,Junction diode,Integrated circuitt,Junction transistor,zener diode,Physics,Electricity,Junction diode,1
+"In graphs of the electronic band
+structure of solids, the band gap
+generally refers to the
+between the top of the valence band and
+the bottom of the conduction band in
+insulators and semiconductors.",current difference,energy difference (in electron volts),hole difference,none of the above,Physics,Electricity,current difference,1
+What kind energy change takes place when a magnet is moved towards a coil having a galvanometer at its ends?,Mechanical energy changes to the magnetic energy.,Mechanical energy changes to the electric energy,electric energy changes to the magnetic energy.,None of these.,Physics,Electricity,Mechanical energy changes to the magnetic energy.,1
+"Which is a better method to find out if a
+body possesses charge?",Attraction test,Repulsion test,Either A or B,None of the above,Physics,Electricity,Attraction test,1
+"In the case of p-njunction diode at a high value of reverse bias, the current rises sharply. The value of reverse bias is known as",cut off voltage,zener voltage,inverse voltage,critical voltage,Physics,Electricity,cut off voltage,1
+"A closed coil with a resistance R is
+placed in a magnetic field. The flux linked with the coil is \( \phi \). If the magnetic
+field is suddenly reversed in direction, the charge that flows through the coil will be:","The flux linked with the coil is \( \phi \). If the magnetic
+field is suddenly reversed in direction, the charge that flows through the coil will be:","\( \frac{\phi}{2 R} \)
+в. \( \frac{\phi}{R} \)",\( _{2} \frac{\phi}{R} \),zero,Physics,Electricity,zero,4
+"Which of the following circuit type is
+based upon time or clock pulse?",Combinational circuit,Sequential circuit,Full adder,None of these,Physics,Electricity,Combinational circuit,1
+"If a long hollow copper pipe carries a direct current, the magnetic field associated with the current will be:",only inside the pipe,only outside the pipe,both inside and outside the pipe,neither inside not outside the pipe,Physics,Electricity,only inside the pipe,1
+"A step up transformer is connected on
+the primary side to a rechargeable battery which can deliver a large current. If a bulb is connected in the
+secondary, then",the bulb will glow very bright,the bulb will get fused,"the bulb will glow, but with less brightness",the bulb will not glow,Physics,Electricity,the bulb will glow very bright,1
+"If a conductor has a potential \( V \neq 0 \)
+and there are no charges anywhere else outside, then",there must be charges on the surface or inside itself,there cannot be any charge in the body of the conductor,there must be charges only on the surface,there must be charges inside the surface,Physics,Electricity,there must be charges on the surface or inside itself,1
+"A charged body is brought near a positively charged gold leaf electroscopes. The divergence of its leaves increases.What is the kind of
+charge on the body?",Positive,Negative,Neutral,Data insufficient,Physics,Electricity,Positive,1
+"A current source sends a current i \( = \)
+\( i_{0} \cos (\omega t) . \) When connected across an
+unknown load gives a voltage output of,
+\( \boldsymbol{v}=\boldsymbol{v}_{0} \sin (\omega t+\boldsymbol{\pi} / 4) \) across that load
+Then voltage across the current source
+may be brought in phase with the
+current through it by",connecting an inductor in series with the load,connecting a capacitor in series with the load,connecting an inductor in parallel with the load,connecting a capacitor in parallel with the load.,Physics,Electricity,connecting an inductor in series with the load,1
+"During an experiment with a metre bridge, the galvanometer shows a null point when the jockey is pressed at
+\( 40.0 \mathrm{cm} \) using a standard resistance of
+\( 90 \Omega, \) as shown in the figure. The least count of the scale used in the metre
+bridge is 1 mm. The unknown
+resistance is",\( 60 \pm 0.15 \Omega \),\( 135 \pm 0.56 \Omega \),\( 60 \pm 0.25 \Omega \),\( 135 \pm 0.23 \Omega \),Physics,Electricity,\( 60 \pm 0.15 \Omega \),1
+"A current is divided into two resistors
+connected in parallel according to Kirchhoff's law, then the heat produced in the combination is",zero,Cannot be predicated,Minimum,Maximum,Physics,Electricity,zero,1
+"A coil of inductance \( 0.1 \mathrm{H} \) is connected to
+\( 50 V, 100 H z \) generator and current is found to be 0.5A. The potential
+difference across resistance of the coil
+is
+A . \( 15 v \)","The potential
+difference across resistance of the coil
+is
+A . \( 15 v \)",20V,\( 25 v \),39V,Physics,Electricity,20V,2
+The bond in semiconductors is :,covalent,ionic,metallic,hydrogen,Physics,Electricity,covalent,1
+What happens when some charge is placed on a soap bubble?,Its radius decreases,Its radius increases,The bubble collapses,None of the above,Physics,Electricity,Its radius decreases,1

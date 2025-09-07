@@ -33,7 +33,7 @@ Preprocessing with OneHot/Label Encoding
 
 Trains ML model to predict the next best topic
 
-Recommends quizzes adaptively (20–30 questions per topic)
+Recommends quizzes adaptively (30 questions per topic)
 
 Students attempt quizzes via Streamlit app and get real-time recommendations
 
@@ -43,9 +43,7 @@ RecoPhysix.ipynb → Main project notebook (training & preprocessing)
 
 app.py → Streamlit UI for quiz recommendation
 
-rf_model.pkl → Trained ML model
-
-encoder.pkl → Fitted encoder for categorical features
+quiz_recommender.pkl → Trained ML model
 
 topic_quizzes/ → Folder containing topic-wise quiz files (CSV)
 

@@ -1,566 +1,305 @@
-<<<<<<< HEAD
-question,option_1,option_2,option_3,option_4,Subject,topic,correct_answer,Correct_Option_Number
-"When the angle of incidence of a ray is
-greater than the critical angle, the refracted ray is in the same medium,
-i.e., the light is totally reflected in the same medium. This is known as",Total internal reflection,Critical reflection,Mirage,Optical illusion,Physics,Optics,Total internal reflection,1
-Very fine particles mainly scatter light.,Blue,White,Red,Violet,Physics,Optics,Red,3
-"a diverging lens of focal length - 10 \( \mathrm{cm} \) is moving towards right with a velocity \( 5 \mathrm{m} / \mathrm{s} \). An object, placed on Principal axis is moving towards left with a velocity \( 3 \mathrm{m} / \mathrm{s} \). The velocity of the image at the instant when the lateral magnification produced is \( 1 / 2 \) is: \( (\mathrm{All} \) velocities are with respect to ground)",A. \( 3 \mathrm{m} / \mathrm{s} \) towards right,\( 3 \mathrm{m} / \mathrm{s} \) towards left,\( 7 \mathrm{m} / \mathrm{s} \) towards right,\( 7 \mathrm{m} / \mathrm{s} \) towards left,Physics,Optics,A. \( 3 \mathrm{m} / \mathrm{s} \) towards right,1
-"If one of the two slits of a Young's double slit experiment is painted over so that it transmits half the light intensity of the
-other, then:",the fringe system would disappear,the bright fringes would be brighter \& dark fringes would be darker,the dark fringes would be brighter and bright fringes would be darker,bright as well as dark fringes would be darker,Physics,Optics,the fringe system would disappear,1
-The constant ratio of the sine of angle of incidence to the sine of angle of refraction is also known as:,Snell's law,Optical density,Relative density,None of these,Physics,Optics,Snell's law,1
-"A convex glass lens is immersed in
-water. Compared to the power in air, its power in water will :",increase,decrease,not change,decrease for red light and increase for violet light,Physics,Optics,increase,1
-=======
-question,option_1,option_2,option_3,option_4,Subject,topic,correct_answer,Correct_Option_Number
-"When the angle of incidence of a ray is
-greater than the critical angle, the refracted ray is in the same medium,
-i.e., the light is totally reflected in the same medium. This is known as",Total internal reflection,Critical reflection,Mirage,Optical illusion,Physics,Optics,Total internal reflection,1
-Very fine particles mainly scatter light.,Blue,White,Red,Violet,Physics,Optics,Red,3
-"a diverging lens of focal length - 10 \( \mathrm{cm} \) is moving towards right with a velocity \( 5 \mathrm{m} / \mathrm{s} \). An object, placed on Principal axis is moving towards left with a velocity \( 3 \mathrm{m} / \mathrm{s} \). The velocity of the image at the instant when the lateral magnification produced is \( 1 / 2 \) is: \( (\mathrm{All} \) velocities are with respect to ground)",A. \( 3 \mathrm{m} / \mathrm{s} \) towards right,\( 3 \mathrm{m} / \mathrm{s} \) towards left,\( 7 \mathrm{m} / \mathrm{s} \) towards right,\( 7 \mathrm{m} / \mathrm{s} \) towards left,Physics,Optics,A. \( 3 \mathrm{m} / \mathrm{s} \) towards right,1
-"If one of the two slits of a Young's double slit experiment is painted over so that it transmits half the light intensity of the
-other, then:",the fringe system would disappear,the bright fringes would be brighter \& dark fringes would be darker,the dark fringes would be brighter and bright fringes would be darker,bright as well as dark fringes would be darker,Physics,Optics,the fringe system would disappear,1
-The constant ratio of the sine of angle of incidence to the sine of angle of refraction is also known as:,Snell's law,Optical density,Relative density,None of these,Physics,Optics,Snell's law,1
-"A convex glass lens is immersed in
-water. Compared to the power in air, its power in water will :",increase,decrease,not change,decrease for red light and increase for violet light,Physics,Optics,increase,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
+question,option_1,option_2,option_3,option_4,correct_option,Subject,topic,correct_answer,Correct_Option_Number
+"The angle between polariser and
+analyser is \( 30^{\circ} \) The ratio of intensity of incident light and transmitted by the analyser is",3:04,4:03,\( \sqrt{3}: 2 \),\( 2: \sqrt{3} \),,Physics,Optics,3:04,1
+"A sharp image of a distant object is obtained on a screen by using a convex lens. In order to determine the focal
+length of the lens. you need to measure the distance between the",lens and the object,lens and the screen,object and the screen,lens and the screen and also object and the screen,,Physics,Optics,lens and the object,1
+"If two mirrors are kept at \( 60^{0} \) to each other and a body is placed in the middle, then total number of images
+formed is",Three,Four,Five,six,,Physics,Optics,Three,1
+"The angle of reflection is given by the
+angle :",NOQ,QOB,PON,AOP,,Physics,Optics,NOQ,1
+Making a light wave vibrate in only one plane is known as:,refraction,reflection,Interference,"diffraction
+E. polarization.",,Physics,Optics,refraction,1
 "Assertion
-In interference, all the fringes are of
-same width.
+The images formed by total internal reflections are much brighter than those formed by mirrors or lenses
 Reason
-<<<<<<< HEAD
-In interference, fringe width is independent of the position of fringe.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Optics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-"A: The corpuscular theory fails in explaining the velocities of light in air and water.
-B: According to corpuscular theory, the light should travel faster in a 'denser medium than in a rarer medium.",If both A and B are true but the B is the correct explanation of A,If both A and B are true but the B is not the correct explanation of A,If A is true but B is false,"If both the A and B are false
-E. If B is true but A is false",Physics,Optics,If both A and B are true but the B is the correct explanation of A,1
-Light waves can be polarised because they,have high frequencies,have short wavelength,are transverse,can be reflected,Physics,Optics,have high frequencies,1
-"When light passing through rotating nicol is observed, no change in intensity
-is seen. What inference can be drawn?",The incident light is unpolarized.,The incident light is circularly polarized.,The incident light is unpolarized or circularly polarized.,The incident light is unpolarized or circularly polarizedd or combination of both,Physics,Optics,The incident light is unpolarized.,1
-=======
-In interference, fringe width is independent of the position of fringe.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Optics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-"A: The corpuscular theory fails in explaining the velocities of light in air and water.
-B: According to corpuscular theory, the light should travel faster in a 'denser medium than in a rarer medium.",If both A and B are true but the B is the correct explanation of A,If both A and B are true but the B is not the correct explanation of A,If A is true but B is false,"If both the A and B are false
-E. If B is true but A is false",Physics,Optics,If both A and B are true but the B is the correct explanation of A,1
-Light waves can be polarised because they,have high frequencies,have short wavelength,are transverse,can be reflected,Physics,Optics,have high frequencies,1
-"When light passing through rotating nicol is observed, no change in intensity
-is seen. What inference can be drawn?",The incident light is unpolarized.,The incident light is circularly polarized.,The incident light is unpolarized or circularly polarized.,The incident light is unpolarized or circularly polarizedd or combination of both,Physics,Optics,The incident light is unpolarized.,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Consider a light beam incident from air to a glass slab at Brewster's angle as
-shown in figure. A polaroid is placed in the path of the emergent ray at point \( \mathrm{P} \)
-and rotated about an axis passing
-through the centre and perpendicular to
-<<<<<<< HEAD
-the plane of the polaroid.",A. For a particular orientation there shall be darkness as observed through the polaroid,The intensity of light as seen through the polaroid shall be independent of the rotation,The intensity of light as seen through the polaroid shall go through a minimum but not zero for two orientations of the polaroid,The intensity of light as seen through the polaroid shall go through a minimum for four orientations of the polaroid.,Physics,Optics,A. For a particular orientation there shall be darkness as observed through the polaroid,1
-"A disease, in which eye lens become cloudy and the opaque lens is removed and a new artificial lens is inserted, is :",hypermetropia,astigmatism,cataract,near-sightedness,Physics,Optics,hypermetropia,1
-Which of the following is a consequence of total internal reflection?,Optical fibre,Mirage,Looming,All,Physics,Optics,Optical fibre,1
+
+There is no loss of intensity in total
+internal reflection.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,,Physics,Optics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+80YATU in plane mirror appears as:,80YATU,80Yatu,UTAYO8,8оYАТบ,,Physics,Optics,80YATU,1
+Which of the following colors of light has the lowest frequency?,Yellow,Violet,orange,"Blue
+E. Green",,Physics,Optics,Yellow,1
 "A boy of height \( 1.5 \mathrm{m} \) with his eye level at \( 1.4 \mathrm{m} \) stands before a plane mirror of length \( 0.75 \mathrm{m} \) fixed on the wall. The
-height of the lower edge of the mirror above the floor is \( 0.8 \mathrm{m} \). Then :",the boy will see his full image,the boy can't see his hair,the boy can't see his feet,the boy can see neither his hair nor his feet,Physics,Optics,the boy will see his full image,1
-"Advantages of optical fibres over
-electrical wires is:",High band width and EM interference,Low band width and EM interference,High band width low transmission capacity and no EM interference,"High band width, high data transmission capacity and no EM interference",Physics,Optics,High band width and EM interference,1
-"When light is going from vacuum to another medium, then the value of refractive index is called:",Relative refractive index,Absolute refractive index,critical angle,,Physics,Optics,Relative refractive index,1
-"The solar heat and light reach the earth
-via",radiation,conduction,convection,all of these,Physics,Optics,radiation,1
-"Two plane wavefronts of light, one
-incident on a thin convex lens and
-another on the refracting face of a thin prism. After refraction at them, the emerging wavefronts respectively become",plane wavefront and plane wavefront,plane wavefront and spherical wavefront,spherical wavefront and plane wavefront,"spherical wavefront and spherical wavefront
-E . elliptical wavefront and spherical wavefront",Physics,Optics,plane wavefront and plane wavefront,1
-"Prismatic periscopes use the principle
-of :",refraction,reflection,transmission,total internal reflection,Physics,Optics,refraction,1
-During lightning which of the following is not a safe place?,In car,Bus stop,Inside a house,open field,Physics,Optics,In car,1
-"A prism splits white light into constituent colours(VIBGYOR). Choose
-the correct option.",White light is composed of seven colours,We cannot see other colours in wavelengths 380nm to 700nm,We cannot see other colours outside wavelengths \( 380 n m \) to \( 700 n m \),None of the above,Physics,Optics,White light is composed of seven colours,1
-=======
-the plane of the polaroid.",A. For a particular orientation there shall be darkness as observed through the polaroid,The intensity of light as seen through the polaroid shall be independent of the rotation,The intensity of light as seen through the polaroid shall go through a minimum but not zero for two orientations of the polaroid,The intensity of light as seen through the polaroid shall go through a minimum for four orientations of the polaroid.,Physics,Optics,A. For a particular orientation there shall be darkness as observed through the polaroid,1
-"A disease, in which eye lens become cloudy and the opaque lens is removed and a new artificial lens is inserted, is :",hypermetropia,astigmatism,cataract,near-sightedness,Physics,Optics,hypermetropia,1
-Which of the following is a consequence of total internal reflection?,Optical fibre,Mirage,Looming,All,Physics,Optics,Optical fibre,1
-"A boy of height \( 1.5 \mathrm{m} \) with his eye level at \( 1.4 \mathrm{m} \) stands before a plane mirror of length \( 0.75 \mathrm{m} \) fixed on the wall. The
-height of the lower edge of the mirror above the floor is \( 0.8 \mathrm{m} \). Then :",the boy will see his full image,the boy can't see his hair,the boy can't see his feet,the boy can see neither his hair nor his feet,Physics,Optics,the boy will see his full image,1
-"Advantages of optical fibres over
-electrical wires is:",High band width and EM interference,Low band width and EM interference,High band width low transmission capacity and no EM interference,"High band width, high data transmission capacity and no EM interference",Physics,Optics,High band width and EM interference,1
-"When light is going from vacuum to another medium, then the value of refractive index is called:",Relative refractive index,Absolute refractive index,critical angle,,Physics,Optics,Relative refractive index,1
-"The solar heat and light reach the earth
-via",radiation,conduction,convection,all of these,Physics,Optics,radiation,1
-"Two plane wavefronts of light, one
-incident on a thin convex lens and
-another on the refracting face of a thin prism. After refraction at them, the emerging wavefronts respectively become",plane wavefront and plane wavefront,plane wavefront and spherical wavefront,spherical wavefront and plane wavefront,"spherical wavefront and spherical wavefront
-E . elliptical wavefront and spherical wavefront",Physics,Optics,plane wavefront and plane wavefront,1
-"Prismatic periscopes use the principle
-of :",refraction,reflection,transmission,total internal reflection,Physics,Optics,refraction,1
-During lightning which of the following is not a safe place?,In car,Bus stop,Inside a house,open field,Physics,Optics,In car,1
-"A prism splits white light into constituent colours(VIBGYOR). Choose
-the correct option.",White light is composed of seven colours,We cannot see other colours in wavelengths 380nm to 700nm,We cannot see other colours outside wavelengths \( 380 n m \) to \( 700 n m \),None of the above,Physics,Optics,White light is composed of seven colours,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Assertion
-When an object is placed between two plane parallel mirrors, then all the images found are of equal intensity.
-Reason
+height of the lower edge of the mirror above the floor is \( 0.8 \mathrm{m} \). Then :",the boy will see his full image,the boy can't see his hair,the boy can't see his feet,the boy can see neither his hair nor his feet,,Physics,Optics,the boy will see his full image,1
+"When the height of the image is less than the height of the object, then magnification will be",Less than 1,Greater than 1,Equal to 1,zero,,Physics,Optics,Less than 1,1
+The laws of reflection are true for,the plane mirror only,the concave mirror and convex mirror,the convex mirror only,all reflecting surfaces,,Physics,Optics,the plane mirror only,1
+"statement 1: In Young's experiment, the fringe width for dark fingers is different from that for white fringes. statement 2: In Young's double slit experiment the fringes are performed with a source of white light, then only black and bright fringes are observed.",A. If both statement 1 and statement 2 are true but statement 2 is the correct explanation of statement,If both statement 1 and statement 2 are true but statement 2 is not the correct explanation statemen,If statement 1 is true but statement 2 is false,"If both the statement 1 and statement 2 are false
+E. If statement 2 is true but statement 1 is false",,Physics,Optics,A. If both statement 1 and statement 2 are true but statement 2 is the correct explanation of statement,1
+"If a mirror has a focal length of \( -20 \mathrm{cm} \)
+it is a :",convex mirror,concave mirror,plane mirror,lens,,Physics,Optics,lens,4
+Choose the correct option about light.,Light requires a material medium to travel from one place to another,Light does not require a material medium to propagate,Light has mass but it is negligible,Light waves are longitudinal wave,,Physics,Optics,Light requires a material medium to travel from one place to another,1
+"The danger signals installed at the top of tall buildings are red in colour. These can be easily seen from a distance
+because among all other colours, the red light:",is scattered the most by smoke or fog.,is scattered the least by smoke or fog,is absorbed the most by smoke or fog.,moves fastest in air,,Physics,Optics,is scattered the most by smoke or fog.,1
+"The mirror used in automobiles to see
+the rear field of view is",concave,convex,plane,none of these,,Physics,Optics,concave,1
+"A photoelectric cell is lightened by a light source, situated at a distance \( d \) from the cell. If distance becomes \( \boldsymbol{d} / \mathbf{2} \)
+then number of electrons emitted per sec will be:-",Remains same,Four times,Two times,One fourth,,Physics,Optics,Remains same,1
+"What happens when a ray of light is
+made to fall on a mirror along the
+normal?",The ray that comes after reflection makes \( 60^{\circ} \) with the mirror,The ray that comes after reflection will be parallel to the mirror,The ray after reflection retraces its path.,"After reflection, the ray does not come back",,Physics,Optics,The ray that comes after reflection makes \( 60^{\circ} \) with the mirror,1
+The radius of curvature for a plane mirror is,Positive,Negative,Infinite,None of these,,Physics,Optics,Positive,1
+Which of the following lens is used to minimise myopia?,Convex lens,Concave lens,Cylindrical lens,Planar lens,,Physics,Optics,Convex lens,1
+"The term refraction of light is best
+described by:",The bending of light rays when they enter from one medium to another medium,Splitting of white light into seven colours when it passes through the prism,"Bending of light round corners of obstacles and
+apertures",Coming back of light from a bright smooth surface,,Physics,Optics,The bending of light rays when they enter from one medium to another medium,1
+A concave mirror forms an erect image of an object placed at a distance of 10 \( \mathrm{cm} \) from it. The size of the image is double that of the object. Where is the image formed?,20 cm behind the mirror,20 cm in front of the mirror,\( 40 \mathrm{cm} \) behind the mirror,\( 40 \mathrm{cm} \) in front of the mirror,,Physics,Optics,20 cm behind the mirror,1
+Heavily doped p-n junction diode which emits light when it is forward biased is/are:,zener diode,photo-diode,light emitting diode,all of the above,,Physics,Optics,zener diode,1
+"The spectrum, in which the colours are separated using a narrow source of light, is called:",pure spectrum,rainbow,impure spectrum,none of these,,Physics,Optics,pure spectrum,1
+The phenomenon of scattering of light by fine particles is called,Snell's law,Dispersion effect,Law of refraction,Tyndall effect,,Physics,Optics,Snell's law,1
+"In a beaker containing colloidal solution of sodium thiosulphate and a drop of con. sulphuric acid, light observed from side of beaker is:",Blue,Red,Green,Yellow,,Physics,Optics,Blue,1
+At what angle the rectangular mirrors are set to each other in Kaleidoscope?,90 degree,30 degree,60 degree,120 degree,,Physics,Optics,90 degree,1
+Which of the following are the main categories in Spherical Mirrors?,Plane and Curved,Concave and Convex,Virtual and Real,Upright and Inverted,,Physics,Optics,Plane and Curved,1
+"Assertion: In optical fibre, the diameter of the core is kept small.
 
-<<<<<<< HEAD
-In case of plane parallel mirrors, only two images are possible.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Optics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-"Rays of light from Sun falls on a
-biconvex lens of focal length \( f \) and the
-circular image of Sun of radius \( r \) is formed on the focal plane of the lens. Then",Area of image is \( \pi r^{2} \) and area is directly proportional of \( f \),Area of image is \( \pi r^{2} \) and area is directly proportional to \( t^{2} \),Intensity of image increases if \( f \) is increased,"If lower half of the lens is covered with black paper, area will become half",Physics,Optics,Area of image is \( \pi r^{2} \) and area is directly proportional to \( t^{2} \),2
-"The process of re-emission of absorbed
-light in all directions with different intensities by the atom or molecule is called",Scattering of light,Dispersion of light,Reflection of light,Refraction of light,Physics,Optics,Refraction of light,4
-What is diffraction of light?,The process where the incident light on a surface is bounced back into the same medium,Splitting of a ray of light into its 7 constituent colours is known as diffraction,"The process by which a beam of light is spread out as a result of passing through a narrow aperture or across an edge,is known as diffraction",None of these,Physics,Optics,The process where the incident light on a surface is bounced back into the same medium,1
-"In the phenomena of diffraction of light, when blue light is used in the experiment in spite of red light, then",fringes will become narrower,fringes will become broader,no change in fringe width,None of these,Physics,Optics,fringes will become narrower,1
-Which of the following light has the combination of all frequencies of visible light?,white light,black light,ultraviolet light,"infrared light
-E. transparency",Physics,Optics,white light,1
-"How can we be safe when there is
-occurrence of lightning?",Taking shelter under building or house,"When travelling through car or bus, making sure windows and doors are shutt","If in forest, taking shelter under short trees",All of the above,Physics,Optics,Taking shelter under building or house,1
-"A mixture of light, consisting of wavelength 590nm and an unknown wavelength, illuminates Young's double slit and gives rise to two overlapping interference patterns on the screen. The
-central maximum of both lights coincide. Further, it is observed that the third bright fringe of known light coincides with the 4 th bright fringe of the unknown light. From this data, the wavelength of the unknown light is",\( 885.0 \mathrm{nm} \),442.5 nm,\( 776.8 \mathrm{nm} \),393.4 nm,Physics,Optics,\( 885.0 \mathrm{nm} \),1
-"In case of a virtual and erect image, the magnification of a mirror is :",Positive,Negative,Unity,Infinity,Physics,Optics,Negative,2
-"A horizontal beam of vertically polarized light of intensity \( 43 \mathrm{w} / \mathrm{m}^{2} \) is sent
-through two polarizing sheets. The
-polarizing direction of the first is \( 60^{0} \) to the vertical, and that of the second is
-horizontal. The intensity of the light transmitted by the pair of sheets is (nearly)",\( 8.1 \mathrm{W} / \mathrm{m}^{2} \),7.3 \( \mathrm{W} / \mathrm{m}^{2} \),\( 6.4 \mathrm{w} / \mathrm{m}^{2} \),3.8 \( \mathrm{W} / \mathrm{m}^{2} \),Physics,Optics,\( 8.1 \mathrm{W} / \mathrm{m}^{2} \),1
-The statment that is true about 'Light' is,requires a material medium to travel from one place to another,does not require a material medium,light has mass but it is negligible,light waves are longitudinal wave,Physics,Optics,requires a material medium to travel from one place to another,1
-=======
-In case of plane parallel mirrors, only two images are possible.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Optics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-"Rays of light from Sun falls on a
-biconvex lens of focal length \( f \) and the
-circular image of Sun of radius \( r \) is formed on the focal plane of the lens. Then",Area of image is \( \pi r^{2} \) and area is directly proportional of \( f \),Area of image is \( \pi r^{2} \) and area is directly proportional to \( t^{2} \),Intensity of image increases if \( f \) is increased,"If lower half of the lens is covered with black paper, area will become half",Physics,Optics,Area of image is \( \pi r^{2} \) and area is directly proportional to \( t^{2} \),2
-"The process of re-emission of absorbed
-light in all directions with different intensities by the atom or molecule is called",Scattering of light,Dispersion of light,Reflection of light,Refraction of light,Physics,Optics,Refraction of light,4
-What is diffraction of light?,The process where the incident light on a surface is bounced back into the same medium,Splitting of a ray of light into its 7 constituent colours is known as diffraction,"The process by which a beam of light is spread out as a result of passing through a narrow aperture or across an edge,is known as diffraction",None of these,Physics,Optics,The process where the incident light on a surface is bounced back into the same medium,1
-"In the phenomena of diffraction of light, when blue light is used in the experiment in spite of red light, then",fringes will become narrower,fringes will become broader,no change in fringe width,None of these,Physics,Optics,fringes will become narrower,1
-Which of the following light has the combination of all frequencies of visible light?,white light,black light,ultraviolet light,"infrared light
-E. transparency",Physics,Optics,white light,1
-"How can we be safe when there is
-occurrence of lightning?",Taking shelter under building or house,"When travelling through car or bus, making sure windows and doors are shutt","If in forest, taking shelter under short trees",All of the above,Physics,Optics,Taking shelter under building or house,1
-"A mixture of light, consisting of wavelength 590nm and an unknown wavelength, illuminates Young's double slit and gives rise to two overlapping interference patterns on the screen. The
-central maximum of both lights coincide. Further, it is observed that the third bright fringe of known light coincides with the 4 th bright fringe of the unknown light. From this data, the wavelength of the unknown light is",\( 885.0 \mathrm{nm} \),442.5 nm,\( 776.8 \mathrm{nm} \),393.4 nm,Physics,Optics,\( 885.0 \mathrm{nm} \),1
-"In case of a virtual and erect image, the magnification of a mirror is :",Positive,Negative,Unity,Infinity,Physics,Optics,Negative,2
-"A horizontal beam of vertically polarized light of intensity \( 43 \mathrm{w} / \mathrm{m}^{2} \) is sent
-through two polarizing sheets. The
-polarizing direction of the first is \( 60^{0} \) to the vertical, and that of the second is
-horizontal. The intensity of the light transmitted by the pair of sheets is (nearly)",\( 8.1 \mathrm{W} / \mathrm{m}^{2} \),7.3 \( \mathrm{W} / \mathrm{m}^{2} \),\( 6.4 \mathrm{w} / \mathrm{m}^{2} \),3.8 \( \mathrm{W} / \mathrm{m}^{2} \),Physics,Optics,\( 8.1 \mathrm{W} / \mathrm{m}^{2} \),1
-The statment that is true about 'Light' is,requires a material medium to travel from one place to another,does not require a material medium,light has mass but it is negligible,light waves are longitudinal wave,Physics,Optics,requires a material medium to travel from one place to another,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Consider the following statements \( A \) and B. Identify the correct choice in the
-given answer
-\( A: \ln a \) one - dimensional perfectly
-elastic collision between two moving
-bodies of equal masses, the bodies
-merely exchange their velocities after
-collision
-\( \mathrm{B}: \) If a lighter body at rest suffers perfectly elastic collision with a very
-heavy body moving with a certain velocity, after collision both travel with
-same velocity
-\( A \cdot A \) and \( B \) are correct","Identify the correct choice in the
-given answer
-\( A: \ln a \) one - dimensional perfectly
-elastic collision between two moving
-bodies of equal masses, the bodies
-merely exchange their velocities after
-collision
-\( \mathrm{B}: \) If a lighter body at rest suffers perfectly elastic collision with a very
-heavy body moving with a certain velocity, after collision both travel with
-same velocity
-\( A \cdot A \) and \( B \) are correct",Both A and B are wrong,A is correct B is wrong,A is wrong B is correct,Physics,Optics,"Identify the correct choice in the
-given answer
-\( A: \ln a \) one - dimensional perfectly
-elastic collision between two moving
-bodies of equal masses, the bodies
-merely exchange their velocities after
-collision
-\( \mathrm{B}: \) If a lighter body at rest suffers perfectly elastic collision with a very
-heavy body moving with a certain velocity, after collision both travel with
-same velocity
-<<<<<<< HEAD
-\( A \cdot A \) and \( B \) are correct",1
-"The deviation produced by an equilateral prism, when a ray of light is incident on it, does not depend on:",angle of incidence,colour of light,material of prism,size of prism,Physics,Optics,angle of incidence,1
-"A ray of light in a liquid of refractive
-index 1.4 approaches the boundary surface between the liquid and air at an
-angle of incidence whose sine is 0.8 Which of the following statement is correct about the behaviour of the light?",It is impossible to predict the behaviour of the light ray on the basis of the information supplied,The sine of the angle of refraction of the emergent ray will be less than 0.8,The ray will be internally reflected,The sine of the angle of refraction of the emergent ray will be greater than 0.8,Physics,Optics,It is impossible to predict the behaviour of the light ray on the basis of the information supplied,1
-"An object approaches a convergent lens from the left of the lens with a
-uniform speed \( 5 \mathrm{m} s^{-1} \) and stops at the
-focus. The image:",moves away from the lens with an uniform speed 5 m,moves away from the lens with an uniform acceleration,moves away from the lens with a non-uniform acceleration,moves towards the lens with a non-uniform acceleration.,Physics,Optics,moves away from the lens with an uniform speed 5 m,1
-"Thin film interference happens with
-This question has multiple correct options",point or spherical source,board source,"film thickness of the order of 10,000 A",very thick transparent slabs,Physics,Optics,point or spherical source,1
-A reflecting surface is curved outwards. The mirror formed will be :,Concave,Plane,convex,None of these,Physics,Optics,Concave,1
-"An object is placed at a distance of \( \boldsymbol{f} / \mathbf{2} \)
-from a convex lens. The image will be","At one of the foci, virtual and double its size","At \( 3 f / 2 \), real and inverted and erect","At \( 2 f \), virtual and inverted","At \( f \), real and inverted",Physics,Optics,"At one of the foci, virtual and double its size",1
-White light is a mixture of,seven colors,nine colors,fifteen colors,seventeen colors,Physics,Optics,seven colors,1
-How will the image formed by a convex lens be affected if the upper half of the lens is wrapped with a black paper?,the size of the image is reduced to one-half,the upper half of the image will be absent,the brightness of the image is reduced.,there will be no effect.,Physics,Optics,the size of the image is reduced to one-half,1
-The type of lens present in human eye is,Convex lens,Concave lens,Plano convex lens,Plano concave lens,Physics,Optics,Convex lens,1
-"In Young's double slit experiment, a
-glass plate is placed before a slit which
-absorbs half the intensity of light. Under
-this case:",The brightness of fringes decreases,The fringes width decrease,No fringes will be observed,The bright fringes become fainter and the dark fringes have finite light intensity,Physics,Optics,The brightness of fringes decreases,1
-"Mark the incorrect statement regarding
-mirror formula",Values of known and unknown parameters can be used with their proper signs,Sign of unknown parameter comes of its own after calculation,Mirror formula is applicable for both concave and convex mirrors,All,Physics,Optics,Values of known and unknown parameters can be used with their proper signs,1
-=======
-\( A \cdot A \) and \( B \) are correct",1
-"The deviation produced by an equilateral prism, when a ray of light is incident on it, does not depend on:",angle of incidence,colour of light,material of prism,size of prism,Physics,Optics,angle of incidence,1
-"A ray of light in a liquid of refractive
-index 1.4 approaches the boundary surface between the liquid and air at an
-angle of incidence whose sine is 0.8 Which of the following statement is correct about the behaviour of the light?",It is impossible to predict the behaviour of the light ray on the basis of the information supplied,The sine of the angle of refraction of the emergent ray will be less than 0.8,The ray will be internally reflected,The sine of the angle of refraction of the emergent ray will be greater than 0.8,Physics,Optics,It is impossible to predict the behaviour of the light ray on the basis of the information supplied,1
-"An object approaches a convergent lens from the left of the lens with a
-uniform speed \( 5 \mathrm{m} s^{-1} \) and stops at the
-focus. The image:",moves away from the lens with an uniform speed 5 m,moves away from the lens with an uniform acceleration,moves away from the lens with a non-uniform acceleration,moves towards the lens with a non-uniform acceleration.,Physics,Optics,moves away from the lens with an uniform speed 5 m,1
-"Thin film interference happens with
-This question has multiple correct options",point or spherical source,board source,"film thickness of the order of 10,000 A",very thick transparent slabs,Physics,Optics,point or spherical source,1
-A reflecting surface is curved outwards. The mirror formed will be :,Concave,Plane,convex,None of these,Physics,Optics,Concave,1
-"An object is placed at a distance of \( \boldsymbol{f} / \mathbf{2} \)
-from a convex lens. The image will be","At one of the foci, virtual and double its size","At \( 3 f / 2 \), real and inverted and erect","At \( 2 f \), virtual and inverted","At \( f \), real and inverted",Physics,Optics,"At one of the foci, virtual and double its size",1
-White light is a mixture of,seven colors,nine colors,fifteen colors,seventeen colors,Physics,Optics,seven colors,1
-How will the image formed by a convex lens be affected if the upper half of the lens is wrapped with a black paper?,the size of the image is reduced to one-half,the upper half of the image will be absent,the brightness of the image is reduced.,there will be no effect.,Physics,Optics,the size of the image is reduced to one-half,1
-The type of lens present in human eye is,Convex lens,Concave lens,Plano convex lens,Plano concave lens,Physics,Optics,Convex lens,1
-"In Young's double slit experiment, a
-glass plate is placed before a slit which
-absorbs half the intensity of light. Under
-this case:",The brightness of fringes decreases,The fringes width decrease,No fringes will be observed,The bright fringes become fainter and the dark fringes have finite light intensity,Physics,Optics,The brightness of fringes decreases,1
-"Mark the incorrect statement regarding
-mirror formula",Values of known and unknown parameters can be used with their proper signs,Sign of unknown parameter comes of its own after calculation,Mirror formula is applicable for both concave and convex mirrors,All,Physics,Optics,Values of known and unknown parameters can be used with their proper signs,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"\( \mu_{1}, \mu_{2} \) are the refractive indices of two
-media A and B. If \( \mu_{1}>\mu_{2}, \) when two
-light rays travel from air to medium \( \mathbf{A} \) and air to medium B with the same
-angle. of incidence then the angle of
-refractions are \( r_{1} \) and \( r_{1} \) respectively.
-What is the relation between \( r_{1} \) and \( r_{2} ? \)","If \( \mu_{1}>\mu_{2}, \) when two
-light rays travel from air to medium \( \mathbf{A} \) and air to medium B with the same
-angle. of incidence then the angle of
-refractions are \( r_{1} \) and \( r_{1} \) respectively.
-What is the relation between \( r_{1} \) and \( r_{2} ? \)","\( r_{1}=r_{2} \)
-B . \( r_{1}<r_{2} \)",\( r_{1}>r_{2} \),\( r_{1} \geq r_{2} \),Physics,Optics,"If \( \mu_{1}>\mu_{2}, \) when two
-light rays travel from air to medium \( \mathbf{A} \) and air to medium B with the same
-angle. of incidence then the angle of
-refractions are \( r_{1} \) and \( r_{1} \) respectively.
-<<<<<<< HEAD
-What is the relation between \( r_{1} \) and \( r_{2} ? \)",1
-In a simple slit diffraction pattern intensity and width of fringes are,Unequal width,Equal width,Equal width and equal intensity,Unequal width and unequal intensity,Physics,Optics,Unequal width,1
-The method of measuring distance to stars beyond 100 light-years is,Capheid variable stars,Heid variable stars,Lowheid variable stars,,Physics,Optics,Capheid variable stars,1
-"Choose the correct statement:
-The angle of deviation for Indigo is greater than the angle of deviation of the orange colour The angle of deviation increases with
-increase in the wave length of the incident light.",Only A is true,Only B is true,Both A and B are true,Both A and B are false,Physics,Optics,Only A is true,1
-=======
-What is the relation between \( r_{1} \) and \( r_{2} ? \)",1
-In a simple slit diffraction pattern intensity and width of fringes are,Unequal width,Equal width,Equal width and equal intensity,Unequal width and unequal intensity,Physics,Optics,Unequal width,1
-The method of measuring distance to stars beyond 100 light-years is,Capheid variable stars,Heid variable stars,Lowheid variable stars,,Physics,Optics,Capheid variable stars,1
-"Choose the correct statement:
-The angle of deviation for Indigo is greater than the angle of deviation of the orange colour The angle of deviation increases with
-increase in the wave length of the incident light.",Only A is true,Only B is true,Both A and B are true,Both A and B are false,Physics,Optics,Only A is true,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"A concave-convex glass (index \( =\mathbf{1 . 5} \) ) lens has radii of curvatures \( 60 \mathrm{cm} \) and
-\( 40 \mathrm{cm} \) respectively. Its convex surface is silvered and it is placed on a horizontal table with concave surface
-up. The concave is then filled with a
-liquid of index \( 2.0 . \) The combination is
-<<<<<<< HEAD
-like a",concave mirror,convex mirror,flat mirror,convex lens,Physics,Optics,concave mirror,1
-=======
-like a",concave mirror,convex mirror,flat mirror,convex lens,Physics,Optics,concave mirror,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Assertion
-In Young's interference experiment fringes become brighter if one of the slits is covered by cellophone paper.
-Reason
-The intensity of light emerging from the slit increases and the two interfering
-<<<<<<< HEAD
-beams have unequal intensities.",Statement I is True and Statement 2 is True and is correct explanation of Statement 1,Statementl is True and Statement 2 is True but not the correct explanation of Statement t.,statement lis False and statement 2 is False,Statement lis True and Statement 2 is False,Physics,Optics,Statement I is True and Statement 2 is True and is correct explanation of Statement 1,1
-"A: The corpuscular theory fails in explaining the velocities of light in air and water.
-B: According to corpuscular theory, the light should travel faster in a 'denser medium than in a rarer medium.",If both A and B are true but the B is the correct explanation of A,If both A and B are true but the B is not the correct explanation of A,If A is true but B is false,"If both the A and B are false
-E. If B is true but A is false",Physics,Optics,If both A and B are true but the B is the correct explanation of A,1
-=======
-beams have unequal intensities.",Statement I is True and Statement 2 is True and is correct explanation of Statement 1,Statementl is True and Statement 2 is True but not the correct explanation of Statement t.,statement lis False and statement 2 is False,Statement lis True and Statement 2 is False,Physics,Optics,Statement I is True and Statement 2 is True and is correct explanation of Statement 1,1
-"A: The corpuscular theory fails in explaining the velocities of light in air and water.
-B: According to corpuscular theory, the light should travel faster in a 'denser medium than in a rarer medium.",If both A and B are true but the B is the correct explanation of A,If both A and B are true but the B is not the correct explanation of A,If A is true but B is false,"If both the A and B are false
-E. If B is true but A is false",Physics,Optics,If both A and B are true but the B is the correct explanation of A,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Assertion
-Sound shadows are generally not so well defined as those of light.
-Reason
-The wavelength of sound waves are very large in comparison to that of light
-<<<<<<< HEAD
-waves.",Statement 1 is True and Statement 2 is True and is correct explanation of statement 1,Statement 1 is True and Statement 2 is True but not correct explanation for Statement,Statement 1 is True and Statement 2 is False.,Statement 1 is False and Statement 2 is True,Physics,Optics,Statement 1 is True and Statement 2 is True and is correct explanation of statement 1,1
-The reflection taking place from the walls of a building is called:,regular reflection,diffused reflection,multiple reflection,internal reflection,Physics,Optics,regular reflection,1
-Light shows:,Curvilinear propagation,Rectilinear propagation,Random propagation,None of the above,Physics,Optics,Curvilinear propagation,1
-"A Point source generates 10 J of light energy in 2 s. The luminous flux of
-source is:",5 lumen,10 lumen,50 lumen,none of these,Physics,Optics,5 lumen,1
-"The condition for destructive
-interference is phase difference should
-be equal to",odd integral multiple of \( \pi \),Integral multiple of \( \pi \),odd integral multiple of half \( \pi \),Integral multiple of half \( \pi \),Physics,Optics,odd integral multiple of \( \pi \),1
-=======
-waves.",Statement 1 is True and Statement 2 is True and is correct explanation of statement 1,Statement 1 is True and Statement 2 is True but not correct explanation for Statement,Statement 1 is True and Statement 2 is False.,Statement 1 is False and Statement 2 is True,Physics,Optics,Statement 1 is True and Statement 2 is True and is correct explanation of statement 1,1
-The reflection taking place from the walls of a building is called:,regular reflection,diffused reflection,multiple reflection,internal reflection,Physics,Optics,regular reflection,1
-Light shows:,Curvilinear propagation,Rectilinear propagation,Random propagation,None of the above,Physics,Optics,Curvilinear propagation,1
-"A Point source generates 10 J of light energy in 2 s. The luminous flux of
-source is:",5 lumen,10 lumen,50 lumen,none of these,Physics,Optics,5 lumen,1
-"The condition for destructive
-interference is phase difference should
-be equal to",odd integral multiple of \( \pi \),Integral multiple of \( \pi \),odd integral multiple of half \( \pi \),Integral multiple of half \( \pi \),Physics,Optics,odd integral multiple of \( \pi \),1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"toppr
-Q Type your question
-that we receive from the sun is
-transferred to us by a process which,
-unlike conduction or convection, does
-not require the help of a medium in the intervening space which is almost free of particles. Radiant energy travels in space as electromagnetic spectrum.
-Thermal radiations travel through
-vacuum with the speed of light. Thermal
-radiations obey the same laws of
-reflection and refraction as light does.
-They exhibit the phenomena of interference, diffraction and
-polarization as light does.
-The emission of radiation from a hot
-body is expressed in terms of that emitted from a reference body (called
-the black body at the same
-temperature. A black body absorbs and
-hence emits radiations of all
-wavelengths. The total energy E emitted
-by a unit area of a black body per
-second is given by \( \boldsymbol{E}=\boldsymbol{\sigma} \boldsymbol{T}^{4} \) where \( \boldsymbol{T} \) is
-the absolute temperature of the body
-and \( \sigma \) is a constant known as Stefan's
-constant. If the body is not a perfect
-black body, then \( E=\varepsilon \sigma T^{4} \) where \( \varepsilon \) is
-the emissivity of the body.
+Reason: This smaller diameter of the
+core ensures that the fibre should have incident angle more than the critical angle required for total internal reflection.",Both assertion and reason are true but the reason is the correct explanation of assertion,Both assertion and reason are true but the reason is not the correct explanation of assertion,Assertion is true but reason is false,"Both the assertion and reason are false
+E. Reason is true but assertion is false",,Physics,Optics,Both assertion and reason are true but the reason is the correct explanation of assertion,1
+"A point object is placed at a distance \( 10 c m \) and its real image is formed at a
+distance of \( 20 \mathrm{cm} \) from concave mirror
+If the object is moved by \( 0.1 \mathrm{cm} \) towards the mirror, the image will shift by about",\( 0.4 \mathrm{cm} \) away from the mirror,\( 0.4 \mathrm{cm} \) towards the mirror,\( 0.8 c m \) away from the mirror,\( 0.8 \mathrm{cm} \) towards the mirror,,Physics,Optics,\( 0.4 \mathrm{cm} \) away from the mirror,1
+Which of the following does not lie in the plane of reflection?,Reflecting surface,Incident ray,Normal at the point of incidence,Reflected ray,,Physics,Optics,Reflecting surface,1
+Optical fibre works on the principle of,Scattering,Refraction,Total internal reflection,Interference,,Physics,Optics,Scattering,1
+How is lightening beneficial to plants?,"It brings rain,","It increases the amount of nitrates in the soil,","It increases the minerals in the soil,","It provides the chemical energy required by plants,",,Physics,Optics,"It brings rain,",1
+"Assertion: Different colours travel with
+different speed in vacuum.
 
-The rate at which energy is radiated by
-a body depends upon:
-<<<<<<< HEAD
-This question has multiple correct options",the surface area of the body,the temperature of the body,the nature of the surface of the body,the emissivity of the surface of the body,Physics,Optics,the surface area of the body,1
-"A boy rotates his arm in clockwise
-direction in front of mirror. His mirror
-image rotates its arm in:",anticlockwise direction,clockwise direction,oscillatory motion,insufficient info,Physics,Optics,clockwise direction,2
-"The perpendicular drawn to the surface of the mirror at the point of incidence
-is known as:",reflected ray,refracted ray,incident ray,normal ray,Physics,Optics,normal ray,4
-=======
-This question has multiple correct options",the surface area of the body,the temperature of the body,the nature of the surface of the body,the emissivity of the surface of the body,Physics,Optics,the surface area of the body,1
-"A boy rotates his arm in clockwise
-direction in front of mirror. His mirror
-image rotates its arm in:",anticlockwise direction,clockwise direction,oscillatory motion,insufficient info,Physics,Optics,clockwise direction,2
-"The perpendicular drawn to the surface of the mirror at the point of incidence
-is known as:",reflected ray,refracted ray,incident ray,normal ray,Physics,Optics,normal ray,4
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Assertion
-Diode lasers are used as optical sources in optical communication.
-Reason
-
-<<<<<<< HEAD
-Diode lasers consume less energy.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Optics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-An example in which light emitting diodes are used is :,calculator,hard drive,optical drive,analog watch,Physics,Optics,calculator,1
-"The centre of curvature of a
-mirror is behind it.",convex,concave,convex or concave,plane,Physics,Optics,convex,1
-Speed of light is maximum in:,glass,vaccumm,water,nylon,Physics,Optics,glass,1
-"Spherical wavefronts, emanating from a
-point source, Strike a plane reflecting surface. What will happen to these wave fronts, immediately after reflection?","They will remain spherical with the same curvature, both in magnitude and sign",They will become plane wave fronts,"They will remain spherical, with the same curvature, but sign of curvature reversed","They will remain spherical, but with different curvature, both in magnitude and sign",Physics,Optics,"They will remain spherical with the same curvature, both in magnitude and sign",1
-"A dentist uses a mirror to view
-the inner parts of a patient's mouth.",Concave,Convex,Plain mirror,All of the above,Physics,Optics,Concave,1
-"Why there are two parallel plane mirrors
-in a barber shop?",Two parallel plane mirrors form infinite images.,The customer can see the image of back of his head with the help of this setup.,The setup focusses light and helps the barber to cut the hair better.,None of the above.,Physics,Optics,Two parallel plane mirrors form infinite images.,1
-=======
-Diode lasers consume less energy.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Optics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-An example in which light emitting diodes are used is :,calculator,hard drive,optical drive,analog watch,Physics,Optics,calculator,1
-"The centre of curvature of a
-mirror is behind it.",convex,concave,convex or concave,plane,Physics,Optics,convex,1
-Speed of light is maximum in:,glass,vaccumm,water,nylon,Physics,Optics,glass,1
-"Spherical wavefronts, emanating from a
-point source, Strike a plane reflecting surface. What will happen to these wave fronts, immediately after reflection?","They will remain spherical with the same curvature, both in magnitude and sign",They will become plane wave fronts,"They will remain spherical, with the same curvature, but sign of curvature reversed","They will remain spherical, but with different curvature, both in magnitude and sign",Physics,Optics,"They will remain spherical with the same curvature, both in magnitude and sign",1
-"A dentist uses a mirror to view
-the inner parts of a patient's mouth.",Concave,Convex,Plain mirror,All of the above,Physics,Optics,Concave,1
-"Why there are two parallel plane mirrors
-in a barber shop?",Two parallel plane mirrors form infinite images.,The customer can see the image of back of his head with the help of this setup.,The setup focusses light and helps the barber to cut the hair better.,None of the above.,Physics,Optics,Two parallel plane mirrors form infinite images.,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"You are given four sources of light each
-one providing a light of a single colour
-red, blue, green and yellow. Suppose the
-angle of refraction for a beam of yellow light corresponding to a particular
-angle of incidence at the interface of
-two media is \( 90 . \) Which of the following
-statements is correct, if the source of
-yellow light is replaced with that of
-other lights without changing the angle
-<<<<<<< HEAD
-of incidence?",The beam of red light would undergo total internal reflection.,The beam of red light would bend towards normal while it gets refracted through the second medium.,The beam of blue light would undergo total internal reflection.,The beam of green light would bend away from the normal as it gets refracted through the second medium.,Physics,Optics,The beam of red light would undergo total internal reflection.,1
-=======
-of incidence?",The beam of red light would undergo total internal reflection.,The beam of red light would bend towards normal while it gets refracted through the second medium.,The beam of blue light would undergo total internal reflection.,The beam of green light would bend away from the normal as it gets refracted through the second medium.,Physics,Optics,The beam of red light would undergo total internal reflection.,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Assertion
-Two point coherent sources of light \( \boldsymbol{S}_{1} \)
-and \( S_{2} \) are placed on a line as shown in
-figure. \( P \) and \( Q \) are two points on that
-line. If at point \( \boldsymbol{P} \) maximum intensity is observed, then maximum intensity should also be observed at \( Q \)
-Reason
-In the figure, the distance \( \left|\boldsymbol{S}_{1} \boldsymbol{P}-\boldsymbol{S}_{2} \boldsymbol{P}\right| \)
-is equal to distance \( \left|\boldsymbol{S}_{1} \boldsymbol{Q}-\boldsymbol{S}_{2} \boldsymbol{Q}\right| \)
-\[
-\vec{Q} \quad \overrightarrow{s_{1}} \quad \dot{S_{2}} \quad \dot{P}
-<<<<<<< HEAD
-\]",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Optics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-"Suppose you have focused on a screen the image of candle flame placed at the farthest end of the laboratory table using a convex lens. If your teacher suggests you to focus the parallel rays of the sun, reaching your laboratory table, on the same screen, what you are expected to do is to move the:",Lens slightly towards the screen,Lens slightly away from the screen,Lens slightly towards the sun,Lens and screen both towards the sun,Physics,Optics,Lens slightly towards the screen,1
-Which of the following does not lie in the plane of reflection?,Reflecting surface,Incident ray,Normal at the point of incidence,Reflected ray,Physics,Optics,Reflecting surface,1
-Polarisation of light establishes,corpuscular theory of light,quantum nature of light,transverse nature of light,all of the above,Physics,Optics,quantum nature of light,2
-How will you use two identical prisms so that a narrow beam of white light incident on one prism emerges out of the second prism as white light?,Just put them side by side.,one placed on top of the other,one placed inverted with respect to the other.,none of these.,Physics,Optics,none of these.,4
-=======
-\]",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Optics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-"Suppose you have focused on a screen the image of candle flame placed at the farthest end of the laboratory table using a convex lens. If your teacher suggests you to focus the parallel rays of the sun, reaching your laboratory table, on the same screen, what you are expected to do is to move the:",Lens slightly towards the screen,Lens slightly away from the screen,Lens slightly towards the sun,Lens and screen both towards the sun,Physics,Optics,Lens slightly towards the screen,1
-Which of the following does not lie in the plane of reflection?,Reflecting surface,Incident ray,Normal at the point of incidence,Reflected ray,Physics,Optics,Reflecting surface,1
-Polarisation of light establishes,corpuscular theory of light,quantum nature of light,transverse nature of light,all of the above,Physics,Optics,quantum nature of light,2
-How will you use two identical prisms so that a narrow beam of white light incident on one prism emerges out of the second prism as white light?,Just put them side by side.,one placed on top of the other,one placed inverted with respect to the other.,none of these.,Physics,Optics,none of these.,4
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"In the Young's double slit experiment two light beams of wavelengths \( \lambda= \)
-\( 6000 A^{\circ} \) and \( \lambda=4800 A^{\circ} \) are used. The
-distance between two slits is \( 2.5 m m \)
-The distance between slits and the
-screen is \( 1.5 m . \) The distance between
-the central maxima obtained with two
-beams will be
-A . zero","The
-distance between two slits is \( 2.5 m m \)
-The distance between slits and the
-screen is \( 1.5 m . \) The distance between
-the central maxima obtained with two
-beams will be
-A . zero",\( 1.872 m m \),\( 2.872 m m \),\( 2.652 m m \),Physics,Optics,"The
-distance between two slits is \( 2.5 m m \)
-The distance between slits and the
-screen is \( 1.5 m . \) The distance between
-the central maxima obtained with two
-beams will be
-<<<<<<< HEAD
-A . zero",1
-"A ray of light, after refraction through a
-convex lens emerges parallel to the
-principal axis. The incident ray when produced appear to come from a point on principal axis. Name the point :",first focus,first centre,last focus,last centre,Physics,Optics,first focus,1
-"A convex lens of focal length \( 15 \mathrm{cm} \) is placed in front of a plane mirror at a distance \( 25 \mathrm{cm} \) from the mirror. Where
-on the optical axis and from the centre of the lens should be small object be placed such that the final image coincides with the object?",\( 15 \mathrm{cm} \) and on the opposite side of the mirror,\( 15 \mathrm{cm} \) and between the mirror and the lens,\( 7.5 \mathrm{cm} \) and on the opposite side of the mirror,\( 7.5 \mathrm{cm} \) and between the mirror and the lens,Physics,Optics,\( 15 \mathrm{cm} \) and on the opposite side of the mirror,1
-"If the focal length of a magnifying glass is \( 2.5 \mathrm{cm}, \) it can magnify an object:",15 times,11 times,2.5 times,None of these,Physics,Optics,15 times,1
-=======
-A . zero",1
-"A ray of light, after refraction through a
-convex lens emerges parallel to the
-principal axis. The incident ray when produced appear to come from a point on principal axis. Name the point :",first focus,first centre,last focus,last centre,Physics,Optics,first focus,1
-"A convex lens of focal length \( 15 \mathrm{cm} \) is placed in front of a plane mirror at a distance \( 25 \mathrm{cm} \) from the mirror. Where
-on the optical axis and from the centre of the lens should be small object be placed such that the final image coincides with the object?",\( 15 \mathrm{cm} \) and on the opposite side of the mirror,\( 15 \mathrm{cm} \) and between the mirror and the lens,\( 7.5 \mathrm{cm} \) and on the opposite side of the mirror,\( 7.5 \mathrm{cm} \) and between the mirror and the lens,Physics,Optics,\( 15 \mathrm{cm} \) and on the opposite side of the mirror,1
-"If the focal length of a magnifying glass is \( 2.5 \mathrm{cm}, \) it can magnify an object:",15 times,11 times,2.5 times,None of these,Physics,Optics,15 times,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Playing with a lens one morning, Rita discovers that if she holds the lens 0.120
-\( \mathrm{m} \) away from a wall opposite to a window, she can see a sharp but
-upside-down picture of the outside
-world on the wall. That evening, she covers a lighted lamp with a piece of card on which she has pierced a small hole, \( 0.005 \mathrm{m} \) in diameter. By placing
-the lens between the illuminated card
-and the wall, she manages to produce a sharp image of diameter \( 0.020 \mathrm{m} \) on the wall. What is the distance between the
-<<<<<<< HEAD
-card and the wall?",\( 0.450 \mathrm{m} \),0.750 \( \mathrm{m} \),\( 0.600 \mathrm{m} \),\( 0.300 \mathrm{m} \),Physics,Optics,\( 0.450 \mathrm{m} \),1
-"The focal length of the eye lens
-increases when eye muscles:",are relaxed and lens becomes thinner.,contract and lens becomes thicker.,are relaxed and lens becomes thicker.,contract and lens becomes thinner.,Physics,Optics,are relaxed and lens becomes thinner.,1
-"Which of the following occurs when light is reflected from a smooth flat
-glass surface, as shown above?",The light is somewhat intensified,The light is somewhat polarized,The light is focused,"The velocity of the light is reduced
-E. The color of the light is shifted toward the blue end of the spectrum.",Physics,Optics,The light is somewhat intensified,1
-"Both light and sound waves produce
-diffraction. It is more difficult to observe
-the diffraction with light waves
-because:",light wave do not require medium,wavelength of light waves is far smaller,light waves are transverse,speed of light is far greater,Physics,Optics,light wave do not require medium,1
-In which of the following pairs the angle of dispersion will we maximum?,Yellow and green,Red and blue,Green and red,Blue and orange,Physics,Optics,Yellow and green,1
-The image formed by convex lens in a simple microscope is ...... erect and,"Virtual, magnified","Real, magnified","Virtual, diminished","Real, diminished",Physics,Optics,"Virtual, magnified",1
-Any heavenly body having light of its own is called a,nebulae,star,comet,meteorite,Physics,Optics,nebulae,1
-"Prism angle of a glass prism is \( 10^{\circ} . \) It's refractive index of red and violet color is
-1.51 and 1.52 respectively. Then its dispersive power will be",0.015,0.02,0.011,0.019,Physics,Optics,0.015,1
-"Reflection from a smooth surface is
-called reflection.",Regular,Irregular,Multiple,Total internal,Physics,Optics,Regular,1
+Reason: Wavelength of light depends on refractive index of medium.",Both assertion and reason are true but the reason is the correct explanation of assertion,Both assertion and reason are true but the reason is not the correct explanation of assertion,Assertion is true but reason is false,"Both the assertion and reason are false
+E. Reason is true but assertion is false",,Physics,Optics,Both assertion and reason are true but the reason is the correct explanation of assertion,1
+"Bouncing of light into the same medium, from which the light ray is incident, is termed as",Refraction,Diffraction,Reflection,Scattering,,Physics,Optics,Refraction,1
+"A convex lens is immersed in water
+Compared to its power in air, its power in water will.",Increase,Remain the same,Diminish for red light and increase for blue light,Diminish,,Physics,Optics,Increase,1
+"A convex lens forms a real image of a point object placed on its principal axis. If the upper half of the lens is painted black
+(i) The image will be shifted downward
+\( (i i) \) The image will be shifted upward
+\( (i i i) \) The image will not be shifted
+\( (i v) \) The intensity of the image will decrease",(i) and ( \( (i) \) ),(ii) and (iii),\( (i i i) \) and \( (i v) \),only \( (i v) \),,Physics,Optics,(i) and ( \( (i) \) ),1
+Which property of light is known as rectilinear propagation of light?,Light does not need a material medium to trave,Light does not change the property of media through which it travels,Light always travels in a straight line,All of the above,,Physics,Optics,Light does not need a material medium to trave,1
+When an object is placed between optical centre and focus of lens:,"Inverted, real and enlarged image is formed","Virtual, erect and enlarged image is formed","Inverted, erect, diminished image is formed","Virtual, real, diminished image is formed",,Physics,Optics,"Inverted, real and enlarged image is formed",1
+Which of the following are examples of multiple reflections of sound?,Stethoscope,Sound board,Megaphone,All of the above,,Physics,Optics,Stethoscope,1
+"In Youngs double slit experiment, the
+slits are \( 2 m m \) apart and are
+¡IIluminated with a mixture of two
+wavelengths \( \lambda=12000 A^{\circ} \) and \( \lambda= \)
+\( 10000 A^{\circ} . \) At what minimum distance
+from the common central bright fringe
+on a screen \( 2 m \) from the slits will a
+bright fringe from one interference
+coincide with a bright fringe from the other?",\( 3.2 \mathrm{mm} \),\( 6.0 \mathrm{mm} \),\( 7.2 \mathrm{mm} \),\( 9.2 \mathrm{mm} \),,Physics,Optics,\( 3.2 \mathrm{mm} \),1
 "Fill in the blank:
-When the angle of incidence increases, glancing angle of reflection",increases,remains same,decreases,becomes infinite,Physics,Optics,increases,1
-=======
-card and the wall?",\( 0.450 \mathrm{m} \),0.750 \( \mathrm{m} \),\( 0.600 \mathrm{m} \),\( 0.300 \mathrm{m} \),Physics,Optics,\( 0.450 \mathrm{m} \),1
-"The focal length of the eye lens
-increases when eye muscles:",are relaxed and lens becomes thinner.,contract and lens becomes thicker.,are relaxed and lens becomes thicker.,contract and lens becomes thinner.,Physics,Optics,are relaxed and lens becomes thinner.,1
-"Which of the following occurs when light is reflected from a smooth flat
-glass surface, as shown above?",The light is somewhat intensified,The light is somewhat polarized,The light is focused,"The velocity of the light is reduced
-E. The color of the light is shifted toward the blue end of the spectrum.",Physics,Optics,The light is somewhat intensified,1
-"Both light and sound waves produce
-diffraction. It is more difficult to observe
-the diffraction with light waves
-because:",light wave do not require medium,wavelength of light waves is far smaller,light waves are transverse,speed of light is far greater,Physics,Optics,light wave do not require medium,1
-In which of the following pairs the angle of dispersion will we maximum?,Yellow and green,Red and blue,Green and red,Blue and orange,Physics,Optics,Yellow and green,1
-The image formed by convex lens in a simple microscope is ...... erect and,"Virtual, magnified","Real, magnified","Virtual, diminished","Real, diminished",Physics,Optics,"Virtual, magnified",1
-Any heavenly body having light of its own is called a,nebulae,star,comet,meteorite,Physics,Optics,nebulae,1
-"Prism angle of a glass prism is \( 10^{\circ} . \) It's refractive index of red and violet color is
-1.51 and 1.52 respectively. Then its dispersive power will be",0.015,0.02,0.011,0.019,Physics,Optics,0.015,1
-"Reflection from a smooth surface is
-called reflection.",Regular,Irregular,Multiple,Total internal,Physics,Optics,Regular,1
-"Fill in the blank:
-When the angle of incidence increases, glancing angle of reflection",increases,remains same,decreases,becomes infinite,Physics,Optics,increases,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
+A boy blinks his right eye. Mirror image of the boy blinks its \( _{-}-_{-}-_{-}- \) eye",both,right,none,left,,Physics,Optics,both,1
+The ratio of the speed of light in a vacuum to the speed of light in a particular material is called what?,the coefficient of diffraction of the material.,the index of refraction of the material,the coefficient of refraction to the material,"the index of diffraction of the material.
+E. the modulus of diffraction of the material.",,Physics,Optics,the coefficient of diffraction of the material.,1
+"In the white light of sun, maximum
+scattering by the air molecules present in the earth's atmosphere is for:",red colour,yellow colour,green colour,blue colour,,Physics,Optics,red colour,1
 "An object \( A B \) is placed parallel and
 close to the optical axis between focus
 \( F \) and center of curvature \( C \) of a
 converging mirror of focal length \( \boldsymbol{f} \) as
 shown in figure. Then
 This question has multiple correct options","Image of \( A \) will be closer than that of \( B \) from the
-mirror",Image of \( A B \) will be parallel to the optical axis,Image of \( A B \) will be a straight line inclined to the optical axis,Image of \( A B \) will not be a straight line,Physics,Optics,"Image of \( A \) will be closer than that of \( B \) from the
-<<<<<<< HEAD
+mirror",Image of \( A B \) will be parallel to the optical axis,Image of \( A B \) will be a straight line inclined to the optical axis,Image of \( A B \) will not be a straight line,,Physics,Optics,"Image of \( A \) will be closer than that of \( B \) from the
 mirror",1
-=======
-mirror",1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
+"A child is standing in tront ot a straight plane mirror. His father is standing
+behind him, as shown in the fig. The
+height of the father is double the height
+of the child. What is the minimum
+length of the mirror required so that the
+child can completely see his own image
+and his fathers image in the mirror?
+Given that the height of father is \( 2 H \)
+\( \mathbf{A} \cdot H / 2 \)","What is the minimum
+length of the mirror required so that the
+child can completely see his own image
+and his fathers image in the mirror?
+Given that the height of father is \( 2 H \)
+\( \mathbf{A} \cdot H / 2 \)",\( 5 H / 6 \),\( 3 H / 2 \),None of these,,Physics,Optics,"What is the minimum
+length of the mirror required so that the
+child can completely see his own image
+and his fathers image in the mirror?
+Given that the height of father is \( 2 H \)
+\( \mathbf{A} \cdot H / 2 \)",1
+"A plane wave front falls on a convex lens
+The emergent wave front:",converges to a point,diverges from a point,does not suffer any refraction,may or may not converge at point,,Physics,Optics,converges to a point,1
+An image formed by a plane mirror is:,erect and smaller than the object,erect and of same size as the object,inverted and larger than the object,inverted and smaller than the object,,Physics,Optics,erect and smaller than the object,1
+Light year is the unit of the,distance,time,speed,intensity of light,,Physics,Optics,distance,1
+"A light moves from denser to rarer medium, which of the following is
+correct?",Energy increases,Frequency increases,Phase changes by \( 90^{\circ} \),Velocity increases,,Physics,Optics,Energy increases,1
+"What is not an essential condition for
+an observable interference pattern to
+occur between the waves two sources?",The frequencies of the two sources must be equal,The sources must be coherent,The sources must emit waves of equal amplitide,The waves from the two sources must overlap,,Physics,Optics,The frequencies of the two sources must be equal,1
+"If the point object is moved away from
+mirror normal to screen then",fringe width will increase,fringe width will decrease,fringe width will first increase then decrease,Remain unchanged,,Physics,Optics,fringe width will increase,1
+"The image of a real object in a plane
+mirror is always:",Virtual,Erect,Laterally inverted with respect to the object,All of these,,Physics,Optics,Virtual,1
+"Red and blue beams of light is incident
+on a prism as shown in the figure.
+Which of the following statements is
+true?",The blue light bends more than the red light as the blue light has a longer wavelength.,The red light bends more than the blue light as the red light has a longer wavelength.,The blue light bends more than the red light as the blue light has a shorter wavelength.,"The red light bends more than the blue light as the red light has a shorter wavelength.
+E. The red and blue lights bend by the same amount as all colors of light refract equally.",,Physics,Optics,The blue light bends more than the red light as the blue light has a longer wavelength.,1
+"When the angle between incident ray
+and mirror is increased. What will be
+the effect on angle of reflection?
+A . It will decrease","What will be
+the effect on angle of reflection?
+A . It will decrease",It will increase,It will remain constant,Can't be predicted,,Physics,Optics,"What will be
+the effect on angle of reflection?
+A . It will decrease",1
+The change in focal length of an eye lens in human eye is caused by the action of the:,Pupil,Retina,Ciliary muscles,Iriss,,Physics,Optics,Pupil,1
+"The power of a lens is negative. State
+whether it is convex or concave?",Concave,Convex,Both \( A \& B \),can't say,,Physics,Optics,Concave,1
+"A light ray travels from optically denser medium to optically rarer medium, if the angle of incidence and refraction at
+point of incidence are \( \angle i \) and \( \angle \boldsymbol{r} \)
+respectively, then find the angle of deviation in terms of \( \angle i \) and \( \angle r \)",\( \angle i+\angle r \),\( \frac{L}{L r} \),\( \angle i-\angle r \),\( \angle r-\angle i \),,Physics,Optics,\( \angle i+\angle r \),1
+"Which of the following occurs when light is reflected from a smooth flat
+glass surface, as shown above?",The light is somewhat intensified,The light is somewhat polarized,The light is focused,"The velocity of the light is reduced
+E. The color of the light is shifted toward the blue end of the spectrum.",,Physics,Optics,The light is somewhat intensified,1
+"Assertion
+Power of the lens is larger if its focal length is smaller.
+Reason
+Power of the lens measures the ability to converge or diverge the refracted
+rays.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,,Physics,Optics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"In a Young's double slit experiment, constructive interference is produced at
+a certain point \( P . \) The intensities of
+light at \( \boldsymbol{P} \) due to the individual sources
+are 4 and 9 units. The resultant
+intensity at point \( \boldsymbol{P} \) will be-",13 units,25 units,\( \sqrt{97} \) units,5 units,,Physics,Optics,13 units,1
+"Assertion
+The refractive index of a prism depends only on the kind of glass of which it is made of and the colour of light.
+Reason
+The refractive index of a prism depends on the refracting angle of the prism and the angle of minimum deviation.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,,Physics,Optics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"A convex lens of focal length \( 15 \mathrm{cm} \) is placed infront of a plane mirror at a distance \( 25 \mathrm{cm} \) from the mirror. Where
+on the optical axis and from the centre of the lens should a small object
+be placed such that the final image coincides with the object?",\( 15 \mathrm{cm} \) and on the opposite side of the mirror,\( 15 \mathrm{cm} \) and between the mirror and the lens,\( 7.5 \mathrm{cm} \) and on the opposite side of the mirror,\( 7.5 \mathrm{cm} \) and between the mirror and the lens,,Physics,Optics,\( 15 \mathrm{cm} \) and on the opposite side of the mirror,1
+The laws of reflection hold true for:,plane mirrors only,concave mirrors only,convex mirrors only,all reflecting surfaces,,Physics,Optics,plane mirrors only,1
+Which phenomena of light makes a pool of water appears to be less deep than it actually is?,Reflecion,Refraction,Diffraction,Lateral inversion,,Physics,Optics,Reflecion,1
+"A biprism is placed at a distance of 50 \( \mathrm{mm} \) in front of a narrow slit illuminated by light of wavelength \( 600 \mathrm{nm} \). The virtual images formed by the biprism are \( 0.5 \mathrm{mm} \) apart. Find the width of the
+fringes formed on a screen placed 0.75 \( \mathrm{m} \) apart in front of the biprism.",\( 0.96 \mathrm{cm} \),\( 0.096 \mathrm{cm} \),\( 0.0096 \mathrm{cm} \),9.6 \( \mathrm{cm} \),,Physics,Optics,\( 0.96 \mathrm{cm} \),1
+"A concave spherical surface of radius of
+curvature \( 10 \mathrm{cm} \) separates two
+medium \( \boldsymbol{x} \) \& \( \boldsymbol{y} \) of refractive index \( 4 / 3 \& \)
+\( 3 / 2 \) respectively. If the object is placed
+along principal axis in medium \( X \) then:",image is always real,image is real if the object distance is greater than 90 \( \mathrm{cm} \),image is always virtual,image is virtual if the object distance is less than 90 \( \mathrm{cm} \),,Physics,Optics,image is always real,1
+"The centre of curvature of a ..... mirror is
+behind it.",convex,Concave,convex or concave,None of these,,Physics,Optics,convex,1
+The bright streaks of light seen occasionally in the sky are,planets,satellites,meteors,constellations,,Physics,Optics,planets,1
+White light is passed through a dilute solution of potassium permagnate. The spectrum produced by the emergent light is,Band emission spectrum,Line emission spectrum,Band absorption spectrum,Line absorption spectrum,,Physics,Optics,Band emission spectrum,1
+"A man can see distinctly from a distance of \( 0.5 m . \) If he wants to read a
+book placed at a distance of \( 25 \mathrm{cm} \), then
+what kind of lens should he use??",Convex lens with focal length of \( -50 \mathrm{cm} \),Concave lens with focal length of \( -50 c m \),convex lens with focal length of \( 50 \mathrm{cm} \),Concave lens with focal length of \( 50 \mathrm{cm} \),,Physics,Optics,Convex lens with focal length of \( -50 \mathrm{cm} \),1
+"Light of wavelength \( 6328 A \) is incident normally on a slit having a width of
+\( 0.2 m m . \) The angular width of the central maximum measured from
+minimum to minimum of diffraction
+pattern on a screen 9.0 meters away will
+be about",0.36 degree,0.18 degree,0.72 degree,0.09 degree,,Physics,Optics,0.36 degree,1
+"Assertion
+Mass of moving photon varies inversely as the wavelength.
+Reason
+Energy of the particle \( = \) Mass \( \times \) (speed
+of light) \( ^{2} \)",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,If Assertion is incorrect but Reason is correct,,Physics,Optics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"Magnification produced by plane mirror
+is \( +1 . \) It means:",Image formed by plane mirror is greater than size of the object,Image formed by plane mirror is erect and of same size as the object,Image formed by plane mirror is smaller than size of object and is virtual,,,Physics,Optics,Image formed by plane mirror is greater than size of the object,1
 "Assertion
 Ratio of maximum intensity and minimum intensity in interference is 25
 1. Hence amplitude ratio of two waves should be 3: 2
 Reason
-<<<<<<< HEAD
-\( \frac{\boldsymbol{I}_{m a x}}{\boldsymbol{I}_{m i n}}=\left(\frac{\boldsymbol{A}_{1}+\boldsymbol{A}_{2}}{\boldsymbol{A}_{1}-\boldsymbol{A}_{2}}\right)^{2} \)",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Optics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-Who first proposed that light was wavelike in character?,Huygens,Newton,Young,Maxwell,Physics,Optics,Young,3
-=======
-\( \frac{\boldsymbol{I}_{m a x}}{\boldsymbol{I}_{m i n}}=\left(\frac{\boldsymbol{A}_{1}+\boldsymbol{A}_{2}}{\boldsymbol{A}_{1}-\boldsymbol{A}_{2}}\right)^{2} \)",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Optics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-Who first proposed that light was wavelike in character?,Huygens,Newton,Young,Maxwell,Physics,Optics,Young,3
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"The thinnest bubble film in air that can
-possibly strongly reflect red light
-because of constructive interference
-makes up a certain bubble. How could we create the thinnest
-bubble film that will strongly reflect
-purple light?","Use a thicker film than the film used for the ""red"" bubble","Use a film with a higher index of refraction than the film used for the ""red"" bubble","Make a bubble larger than the ""red"" bubble","Make a bubble smaller than the ""red"" bubble
-<<<<<<< HEAD
-E. Use a thinner film than the film used for the ""red"" bubble",Physics,Optics,"Use a thicker film than the film used for the ""red"" bubble",1
-"A sharp image of a distant object is obtained on a screen by using a convex lens. In order to determine the focal
-length of the lens. you need to measure the distance between the",lens and the object,lens and the screen,object and the screen,lens and the screen and also object and the screen,Physics,Optics,object and the screen,3
-Sunlight can undergo internal reflection if it enters from:,glass to air,air to glass,air to water,water to glass,Physics,Optics,glass to air,1
-"Magnification for erect and inverted
-image is",Positive and negative respectively,Negative and positive respectively,Positive,Negative,Physics,Optics,Positive and negative respectively,1
-"The amount of light reflected depends
-upon",the nature of material of the object,the nature of the surface,the smoothness of the surface,all the above,Physics,Optics,the nature of material of the object,1
-=======
-E. Use a thinner film than the film used for the ""red"" bubble",Physics,Optics,"Use a thicker film than the film used for the ""red"" bubble",1
-"A sharp image of a distant object is obtained on a screen by using a convex lens. In order to determine the focal
-length of the lens. you need to measure the distance between the",lens and the object,lens and the screen,object and the screen,lens and the screen and also object and the screen,Physics,Optics,object and the screen,3
-Sunlight can undergo internal reflection if it enters from:,glass to air,air to glass,air to water,water to glass,Physics,Optics,glass to air,1
-"Magnification for erect and inverted
-image is",Positive and negative respectively,Negative and positive respectively,Positive,Negative,Physics,Optics,Positive and negative respectively,1
-"The amount of light reflected depends
-upon",the nature of material of the object,the nature of the surface,the smoothness of the surface,all the above,Physics,Optics,the nature of material of the object,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"A uniform thin rod of length \( l \) is
-standing on a smooth horizontal
-surface. A slight disturbance causes
-the lower end to slip to the smooth
-surface and the rod starts falling. Based
-on this information mark the correct
-<<<<<<< HEAD
-option.",The center of mass will move along a straight line.,The path followed by the end of the rod which is in contact with the ground is circular,the path followed by the end of the rod (which is not in contact with the ground) is circular,The angular velocity of the rod when it is about to hit about to hit the ground is \( \sqrt{\frac{3 g}{2 l}} \),Physics,Optics,The center of mass will move along a straight line.,1
-"A ray of light is reflected by a plane
-mirror.
-Which row shows the angle of incidence
-and the angle of reflection?","Angle of incidence - \( P \), Angle of reflection - \( Q \)","Angle of incidence - \( P \), Angle of reflection - \( S \)","Angle of incidence - \( Q \), Angle of reflection - \( R \)","Angle of incidence - \( R \), Angle of reflection - \( S \)",Physics,Optics,"Angle of incidence - \( P \), Angle of reflection - \( Q \)",1
-"When white light enters a prism, it gets split into its constituent colours. This is
-due to:",High density of prism material,Value of \( \mu \) is different for different \( \lambda \),Diffraction of light,velocity changes for different frequencies,Physics,Optics,High density of prism material,1
-"We want a mirror that will make an
-object look larger. What combination of image and object distances (from the
-mirror) will accomplish this?","Image Distance \( 3.0 \mathrm{cm} \), Object Distance \( 3.0 \mathrm{cm} \)","Image Distance \( 2.0 \mathrm{cm} \), Object Distance \( 3.0 \mathrm{cm} \)","Image Distance \( 3.0 \mathrm{cm} \), Object Distance \( 5.0 \mathrm{cm} \)","Image Distance \( 3.0 \mathrm{cm} \), Object Distance \( 2.0 \mathrm{cm} \)
-E. Image Distance \( 3.0 \mathrm{cm}, \) Object Distance \( 10.0 \mathrm{cm} \)",Physics,Optics,"Image Distance \( 3.0 \mathrm{cm} \), Object Distance \( 3.0 \mathrm{cm} \)",1
-The mirror used in periscope is:,convex mirror,concave mirror,plane mirror,any of the above can be used,Physics,Optics,convex mirror,1
-"If you raise your right hand in front of a plane mirror, what will you see in it?",You have raised your right hand,You have raised your left hand,You have lowered your right hand,You have lowered your left hand,Physics,Optics,You have raised your right hand,1
-=======
-option.",The center of mass will move along a straight line.,The path followed by the end of the rod which is in contact with the ground is circular,the path followed by the end of the rod (which is not in contact with the ground) is circular,The angular velocity of the rod when it is about to hit about to hit the ground is \( \sqrt{\frac{3 g}{2 l}} \),Physics,Optics,The center of mass will move along a straight line.,1
-"A ray of light is reflected by a plane
-mirror.
-Which row shows the angle of incidence
-and the angle of reflection?","Angle of incidence - \( P \), Angle of reflection - \( Q \)","Angle of incidence - \( P \), Angle of reflection - \( S \)","Angle of incidence - \( Q \), Angle of reflection - \( R \)","Angle of incidence - \( R \), Angle of reflection - \( S \)",Physics,Optics,"Angle of incidence - \( P \), Angle of reflection - \( Q \)",1
-"When white light enters a prism, it gets split into its constituent colours. This is
-due to:",High density of prism material,Value of \( \mu \) is different for different \( \lambda \),Diffraction of light,velocity changes for different frequencies,Physics,Optics,High density of prism material,1
-"We want a mirror that will make an
-object look larger. What combination of image and object distances (from the
-mirror) will accomplish this?","Image Distance \( 3.0 \mathrm{cm} \), Object Distance \( 3.0 \mathrm{cm} \)","Image Distance \( 2.0 \mathrm{cm} \), Object Distance \( 3.0 \mathrm{cm} \)","Image Distance \( 3.0 \mathrm{cm} \), Object Distance \( 5.0 \mathrm{cm} \)","Image Distance \( 3.0 \mathrm{cm} \), Object Distance \( 2.0 \mathrm{cm} \)
-E. Image Distance \( 3.0 \mathrm{cm}, \) Object Distance \( 10.0 \mathrm{cm} \)",Physics,Optics,"Image Distance \( 3.0 \mathrm{cm} \), Object Distance \( 3.0 \mathrm{cm} \)",1
-The mirror used in periscope is:,convex mirror,concave mirror,plane mirror,any of the above can be used,Physics,Optics,convex mirror,1
-"If you raise your right hand in front of a plane mirror, what will you see in it?",You have raised your right hand,You have raised your left hand,You have lowered your right hand,You have lowered your left hand,Physics,Optics,You have raised your right hand,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
+\( \frac{\boldsymbol{I}_{m a x}}{\boldsymbol{I}_{m i n}}=\left(\frac{\boldsymbol{A}_{1}+\boldsymbol{A}_{2}}{\boldsymbol{A}_{1}-\boldsymbol{A}_{2}}\right)^{2} \)",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,,Physics,Optics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"A: Coloured spectrum is seen when we look through a cloth
+R: Diffraction of light takes place when light is travelling through the pores of cloth","Both A and R are true, and R is not correct explanation of A","Both A and R are true, and R is correct explanation of A",A is true but R is false,A is false but R is true,,Physics,Optics,"Both A and R are true, and R is not correct explanation of A",1
+"When a beam of light from an object
+appears to meet at a point after reflection from a mirror then the image formed is known as:",Real image,Virtual image,Incident image,All,,Physics,Optics,All,4
+Where should the object be placed to get the virtual image in case of convex lens?,object should be placed between \( F \) and 2 F,object should be placed between F and 0,object should be placed beyond 2F,object should be placed at 0,,Physics,Optics,object should be placed between \( F \) and 2 F,1
+The reflection taking place from the walls of a building is called:,regular reflection,diffused reflection,multiple reflection,internal reflection,,Physics,Optics,regular reflection,1
+The focal length is the distance from the optical center of the lens and its principal,focus,axis,center of curvature,Iens,,Physics,Optics,focus,1
+"Q Type your question
+a convex lens.
+Arrange the steps in the proper
+sequence.
+(a) Place the lens on a V-shaped stand.
+(b) Place the object at \( 2 F_{1} \)
+(c) Place the object between \( 2 F_{1} \) and \( F_{1} \)
+(d) Determine the focal length of the lens by focusing the lens to a distant object like a tree.
+(e) Adjust the position of the screen behind the lens to obtain a clear image and study the nature of the image.
+(f) Mark the positions of \( F_{1}, 2 F_{1}, F_{2} \)
+and \( 2 F_{2} \)
+(g) Focus the lens to a distant object like a tree.
+(h) Place the object just behind \( 2 F_{1} \)
+(i) Place the object at \( \boldsymbol{F}_{1} \)
+(j) Place the object between \( F_{1} \) and optic centre of the lens and observe that the image formed is virtual.
+\( A \cdot \) a f \( d h \) e \( g \) e b e ce ej","Place the lens on a V-shaped stand.
+(b) Place the object at \( 2 F_{1} \)
+(c) Place the object between \( 2 F_{1} \) and \( F_{1} \)
+(d) Determine the focal length of the lens by focusing the lens to a distant object like a tree.
+(e) Adjust the position of the screen behind the lens to obtain a clear image and study the nature of the image.
+(f) Mark the positions of \( F_{1}, 2 F_{1}, F_{2} \)
+and \( 2 F_{2} \)
+(g) Focus the lens to a distant object like a tree.
+(h) Place the object just behind \( 2 F_{1} \)
+(i) Place the object at \( \boldsymbol{F}_{1} \)
+(j) Place the object between \( F_{1} \) and optic centre of the lens and observe that the image formed is virtual.
+\( A \cdot \) a f \( d h \) e \( g \) e b e ce ej",b a fhe gec,a dfge he bece iej,a df ge he cebeje,,Physics,Optics,"Place the lens on a V-shaped stand.
+(b) Place the object at \( 2 F_{1} \)
+(c) Place the object between \( 2 F_{1} \) and \( F_{1} \)
+(d) Determine the focal length of the lens by focusing the lens to a distant object like a tree.
+(e) Adjust the position of the screen behind the lens to obtain a clear image and study the nature of the image.
+(f) Mark the positions of \( F_{1}, 2 F_{1}, F_{2} \)
+and \( 2 F_{2} \)
+(g) Focus the lens to a distant object like a tree.
+(h) Place the object just behind \( 2 F_{1} \)
+(i) Place the object at \( \boldsymbol{F}_{1} \)
+(j) Place the object between \( F_{1} \) and optic centre of the lens and observe that the image formed is virtual.
+\( A \cdot \) a f \( d h \) e \( g \) e b e ce ej",1
+"Select the instrument that works on the
+principle of multiple reflection of sound.",A. Watthour meter,Sonar,stethoscope,Decibel meter,,Physics,Optics,A. Watthour meter,1
+Which of the following properties of light can be observed in the working of a periscope? This question has multiple correct options,Light does not travel in a straight line,Light reflects from a mirror,Light travels in a straight line,Light refracts through a mirror,,Physics,Optics,Light does not travel in a straight line,1
+"A beam of a parallel rays is brought to a focus by a convex lens. If a thin concave lens of equal focal length is joined to the convex lens, the focus will be",Shifted to infinity,Shifted to a small distance,Remained undisturbed,Shifted to the back side,,Physics,Optics,Shifted to infinity,1
+"Assertion
+Thinner lenses have smaller power.
+Reason
+
+Power is directly proportional to the
+focal length","Both Assertion and Reason are correct and Reason is
+the correct explanation for Assertion","Both Assertion and Reason are correct but Reason is
+not the correct explanation for Assertion",Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,,Physics,Optics,"Both Assertion and Reason are correct and Reason is
+the correct explanation for Assertion",1
+"In Young's double slit experiment with monochromatic source of light of
+wavelength \( 6000 A^{\circ} \), if the path
+difference is \( 1.5 \times 10^{-6} m, \) the point
+becomes:",bright band,dark band,sometimes bright and sometimes dark,data insufficient,,Physics,Optics,bright band,1
+"A light spring balance hangs from the hook of the other light spring balance and a block of mass \( M \) kg hangs from the former one. Then the true statement
+about scale reading is",both the scales read \( M \) kg each,the scale of the lower one reads \( M \) kg and of upper on zero,the reading of the two scales can be anything but summ of the reading will be \( M \) kg,both the scales read \( M / 2 \mathrm{kg} \),,Physics,Optics,both the scales read \( M \) kg each,1
+"A ray \( O P \) monochromatic light is
+incident on the face \( A B \) of prism
+\( A B C D \) near vertex \( B \) at an incident
+angle of \( 60^{\circ} \) (see figure). If the refractive index of the material of the prism is \( \sqrt{3} \) which of the following is (are) correct?
+rhis question has multiple correct options",The ray gets totally internally reflected at face \( c D \),The ray comes out through face AD,The angle between the incident ray and the emergent ray is \( 90^{\circ} \),"The angle between the incident ray and the emergent
+ray is \( 120^{\circ} \)",,Physics,Optics,The ray gets totally internally reflected at face \( c D \),1
+Interference event is observed,only in transverse waves,only in longitudinal waves,in both types of waves,none,,Physics,Optics,only in transverse waves,1
+"Irregular reflection laws of
+reflection.",obeys,violates,obeys sometimes,violates sometimes,,Physics,Optics,obeys,1
+"Two mirrors are placed at right angles to each other as shown in the figure.
+Total number of images of an object 0 placed between them, that are seen are:",Two,Three,Four,Six,,Physics,Optics,Two,1
+Speed of light is maximum in:,glass,vaccumm,water,nylon,,Physics,Optics,glass,1
+"When light passing through rotating nicol is observed, no change in intensity
+is seen. What inference can be drawn?",The incident light is unpolarized.,The incident light is circularly polarized.,The incident light is unpolarized or circularly polarized.,The incident light is unpolarized or circularly polarizedd or combination of both,,Physics,Optics,The incident light is unpolarized.,1
+"If a mirror forms a virtual image of a
+real object then",it must be a convex mirror.,it must be concave mirror.,it must be a plane mirror.,it may be any of the mirrors mentioned above,,Physics,Optics,it must be a convex mirror.,1
+"A plane mirror forms image \( I \) of an object 0 kept \( 10 \mathrm{cm} \) from the mirror. It is
+found that when a Plano concave thin
+lens is placed in front of and in contact with the mirror (plane surface of lens in contact with mirror), the position of
+image formed by plane mirror does not change. Then the refractive index of lens and radius of curvature of its curved
+surface are respectively:","\( 1.5,10 \mathrm{cm} \)","\( 2.5,10 \mathrm{cm} \)","\( \sqrt{2}, 10 \mathrm{cm} \)",All of these are possible,,Physics,Optics,"\( 1.5,10 \mathrm{cm} \)",1
+"Three lenses in contact have a
+combined focal length of \( 12 \mathrm{cm} \). When the third lens is removed the combined
+focal length becomes \( 60 \mathrm{cm} \). The third
+lens is :",a converging lens of focal length 30 cm,a converging lens of focal length 60 cm,a diverging lens of focal length 30 cm,a diverging lens of focal length 60 cm,,Physics,Optics,a converging lens of focal length 30 cm,1
+A rubber string is tied to a nail on the wall. The rubber string is pulled gently to stretch slightly. Which of the following phenomena may occur after the release of the string?,Sound is produced,Rubber string moves up and down,The quality of sound changes with the tension of the string,All the above happen,,Physics,Optics,Sound is produced,1
+"From below what are the properties of
+concave mirrors?",Converging mirrors and form real and inverted image in front of the mirror,Diverging mirrors and form virtual and upright image behind the mirror.,Converging mirrors and form virtual and inverted image in front of the mirror.,Diverging mirrors and form real and inverted image in front of the mirror.,,Physics,Optics,Converging mirrors and form real and inverted image in front of the mirror,1
+"A ray \( O P \) of monochromatic light is
+incident on the face \( A B \) of prism
+\( A B C D \) near vertex \( B \) at an incident
+angle of \( 60^{\circ} \) (see figure). If the refractive
+index of the material of the prism is \( \sqrt{3} \) which of the following is (are) correct?
+This question has multiple correct options",The ray gets totally internally reflected at face \( C D \),The ray comes out through face \( A D \),"The angle between the incident ray and the emergent
+ray is 90",The angle between the incident ray and the emergent ray is \( 120^{\circ} \),,Physics,Optics,The ray gets totally internally reflected at face \( C D \),1
+"The human eye can focus objects at different distances by adjusting the focal length of the eye lens. This is due
+to",presbyopia,accomodation,near-sightedness,far-sightedness,,Physics,Optics,presbyopia,1

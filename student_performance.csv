@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 student_id,topic,score,time_taken,attempts,recommended_next_topic,name,timestamp
 S001,Thermodynamics,10,1192,1,Mixed Questions,,
 S001,Mixed Questions,15,1026,2,Mixed Questions,,
@@ -1001,7 +1000,7 @@ S050,Thermodynamics,5,1010,18,Thermodynamics,,
 S050,Kinematics,29,1007,19,Mixed Questions,,
 S050,Modern Physics,16,539,20,Thermodynamics,,
 S052,Electricity,26,86,1,Mixed Questions,,2025-09-02T18:46:03.134608+00:00
-=======
+=======,,,,,,,
 student_id,topic,score,time_taken,attempts,recommended_next_topic,name,timestamp
 S001,Thermodynamics,10,1192,1,Mixed Questions,,
 S001,Mixed Questions,15,1026,2,Mixed Questions,,
@@ -2004,4 +2003,7 @@ S050,Thermodynamics,5,1010,18,Thermodynamics,,
 S050,Kinematics,29,1007,19,Mixed Questions,,
 S050,Modern Physics,16,539,20,Thermodynamics,,
 S052,Electricity,26,86,1,Mixed Questions,,2025-09-02T18:46:03.134608+00:00
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
+>>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4,,,,,,,
+S053,Optics,15,65,1,Mixed Questions,urmila,2025-09-10T17:00:11.899413+00:00
+S054,Optics,22,60,1,Mixed Questions,Ajay,2025-09-10T17:07:14.934606+00:00
+S001,Optics,1,12,19,Mixed Questions,,2025-09-15T17:02:00.630045+00:00

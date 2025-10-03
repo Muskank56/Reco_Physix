@@ -1,0 +1,1001 @@
+student_id,topic,score,time_taken,attempts,recommended_next_topic
+S001,Thermodynamics,18,1177,1,Mixed Questions
+S001,Mixed Questions,15,594,2,Mixed Questions
+S001,Mixed Questions,23,1096,3,Mixed Questions
+S001,Mechanics,2,438,4,Mechanics
+S001,Electricity,9,1043,5,Electricity
+S001,Mixed Questions,6,832,6,Mixed Questions
+S001,Thermodynamics,21,425,7,Mixed Questions
+S001,Electricity,5,479,8,Electricity
+S001,Thermodynamics,13,1007,9,Mixed Questions
+S001,Mechanics,6,388,10,Mechanics
+S001,Mechanics,27,1016,11,Mixed Questions
+S001,Mixed Questions,7,724,12,Mixed Questions
+S001,Electricity,19,820,13,Optics
+S001,Mixed Questions,21,497,14,Mixed Questions
+S001,Mechanics,5,869,15,Mechanics
+S001,Mechanics,17,861,16,Electricity
+S001,Kinematics,15,1094,17,Mechanics
+S001,Optics,1,1030,18,Optics
+S001,Electricity,8,1163,19,Electricity
+S001,Optics,8,994,20,Optics
+S002,Mechanics,7,863,1,Mechanics
+S002,Optics,26,337,2,Mixed Questions
+S002,Electricity,12,930,3,Optics
+S002,Modern Physics,1,1052,4,Modern Physics
+S002,Thermodynamics,14,765,5,Mixed Questions
+S002,Mechanics,19,746,6,Electricity
+S002,Kinematics,6,1179,7,Kinematics
+S002,Mechanics,0,841,8,Mechanics
+S002,Thermodynamics,23,353,9,Mixed Questions
+S002,Optics,13,848,10,Modern Physics
+S002,Mechanics,11,939,11,Electricity
+S002,Thermodynamics,21,1155,12,Mixed Questions
+S002,Mechanics,2,1112,13,Mechanics
+S002,Modern Physics,28,1199,14,Mixed Questions
+S002,Mixed Questions,28,865,15,Mixed Questions
+S002,Kinematics,3,1161,16,Kinematics
+S002,Mechanics,28,1057,17,Mixed Questions
+S002,Mechanics,17,994,18,Electricity
+S002,Mixed Questions,26,561,19,Mixed Questions
+S002,Mixed Questions,3,470,20,Mixed Questions
+S003,Thermodynamics,20,1180,1,Mixed Questions
+S003,Electricity,6,413,2,Electricity
+S003,Mechanics,19,990,3,Electricity
+S003,Modern Physics,15,417,4,Thermodynamics
+S003,Thermodynamics,4,653,5,Thermodynamics
+S003,Mechanics,26,1036,6,Mixed Questions
+S003,Kinematics,9,687,7,Kinematics
+S003,Kinematics,2,656,8,Kinematics
+S003,Kinematics,0,758,9,Kinematics
+S003,Mechanics,5,1174,10,Mechanics
+S003,Electricity,6,375,11,Electricity
+S003,Electricity,8,411,12,Electricity
+S003,Kinematics,9,698,13,Kinematics
+S003,Modern Physics,6,351,14,Modern Physics
+S003,Modern Physics,10,649,15,Thermodynamics
+S003,Electricity,17,451,16,Optics
+S003,Kinematics,19,1169,17,Mechanics
+S003,Modern Physics,19,386,18,Thermodynamics
+S003,Mechanics,4,349,19,Mechanics
+S003,Electricity,9,810,20,Electricity
+S004,Electricity,19,606,1,Optics
+S004,Mechanics,28,531,2,Mixed Questions
+S004,Modern Physics,15,1149,3,Thermodynamics
+S004,Mechanics,7,854,4,Mechanics
+S004,Thermodynamics,19,1137,5,Mixed Questions
+S004,Modern Physics,2,540,6,Modern Physics
+S004,Mechanics,5,762,7,Mechanics
+S004,Electricity,26,511,8,Mixed Questions
+S004,Kinematics,2,725,9,Kinematics
+S004,Electricity,1,317,10,Electricity
+S004,Modern Physics,20,668,11,Thermodynamics
+S004,Electricity,15,1002,12,Optics
+S004,Mixed Questions,29,538,13,Mixed Questions
+S004,Mixed Questions,9,520,14,Mixed Questions
+S004,Kinematics,7,532,15,Kinematics
+S004,Thermodynamics,7,878,16,Thermodynamics
+S004,Electricity,17,1179,17,Optics
+S004,Modern Physics,19,699,18,Thermodynamics
+S004,Kinematics,2,673,19,Kinematics
+S004,Thermodynamics,12,557,20,Mixed Questions
+S005,Optics,9,1104,1,Optics
+S005,Kinematics,17,965,2,Mechanics
+S005,Modern Physics,5,1040,3,Modern Physics
+S005,Electricity,24,349,4,Mixed Questions
+S005,Thermodynamics,13,549,5,Mixed Questions
+S005,Mixed Questions,0,633,6,Mixed Questions
+S005,Optics,30,544,7,Mixed Questions
+S005,Mixed Questions,6,1098,8,Mixed Questions
+S005,Modern Physics,3,384,9,Modern Physics
+S005,Mechanics,3,1153,10,Mechanics
+S005,Mixed Questions,0,630,11,Mixed Questions
+S005,Mixed Questions,27,879,12,Mixed Questions
+S005,Modern Physics,5,441,13,Modern Physics
+S005,Mechanics,29,1143,14,Mixed Questions
+S005,Mixed Questions,13,1026,15,Mixed Questions
+S005,Mixed Questions,19,821,16,Mixed Questions
+S005,Electricity,4,405,17,Electricity
+S005,Electricity,1,1124,18,Electricity
+S005,Mixed Questions,30,385,19,Mixed Questions
+S005,Mixed Questions,27,773,20,Mixed Questions
+S006,Mixed Questions,12,546,1,Mixed Questions
+S006,Electricity,6,914,2,Electricity
+S006,Optics,21,343,3,Mixed Questions
+S006,Kinematics,16,335,4,Mechanics
+S006,Mixed Questions,15,380,5,Mixed Questions
+S006,Mixed Questions,24,491,6,Mixed Questions
+S006,Mechanics,12,521,7,Electricity
+S006,Mechanics,22,1086,8,Mixed Questions
+S006,Optics,15,418,9,Modern Physics
+S006,Kinematics,0,528,10,Kinematics
+S006,Modern Physics,16,537,11,Thermodynamics
+S006,Electricity,18,994,12,Optics
+S006,Thermodynamics,22,319,13,Mixed Questions
+S006,Electricity,22,871,14,Mixed Questions
+S006,Thermodynamics,8,509,15,Thermodynamics
+S006,Mixed Questions,30,1073,16,Mixed Questions
+S006,Mechanics,27,553,17,Mixed Questions
+S006,Thermodynamics,10,803,18,Mixed Questions
+S006,Optics,25,327,19,Mixed Questions
+S006,Kinematics,19,611,20,Mechanics
+S007,Mixed Questions,12,784,1,Mixed Questions
+S007,Kinematics,26,763,2,Mixed Questions
+S007,Modern Physics,8,748,3,Modern Physics
+S007,Mechanics,24,302,4,Mixed Questions
+S007,Mixed Questions,13,878,5,Mixed Questions
+S007,Optics,30,417,6,Mixed Questions
+S007,Optics,17,777,7,Modern Physics
+S007,Optics,10,1095,8,Modern Physics
+S007,Electricity,0,1158,9,Electricity
+S007,Mechanics,22,814,10,Mixed Questions
+S007,Mechanics,19,792,11,Electricity
+S007,Kinematics,11,854,12,Mechanics
+S007,Mechanics,8,1077,13,Mechanics
+S007,Electricity,23,357,14,Mixed Questions
+S007,Electricity,4,811,15,Electricity
+S007,Electricity,23,1107,16,Mixed Questions
+S007,Optics,25,1021,17,Mixed Questions
+S007,Modern Physics,28,940,18,Mixed Questions
+S007,Electricity,13,700,19,Optics
+S007,Mixed Questions,30,580,20,Mixed Questions
+S008,Optics,8,705,1,Optics
+S008,Mixed Questions,6,359,2,Mixed Questions
+S008,Optics,1,1182,3,Optics
+S008,Kinematics,17,762,4,Mechanics
+S008,Thermodynamics,29,1016,5,Mixed Questions
+S008,Mechanics,2,380,6,Mechanics
+S008,Mixed Questions,27,450,7,Mixed Questions
+S008,Thermodynamics,25,341,8,Mixed Questions
+S008,Thermodynamics,4,940,9,Thermodynamics
+S008,Mixed Questions,30,573,10,Mixed Questions
+S008,Mechanics,23,529,11,Mixed Questions
+S008,Optics,28,686,12,Mixed Questions
+S008,Thermodynamics,15,767,13,Mixed Questions
+S008,Thermodynamics,12,1075,14,Mixed Questions
+S008,Mechanics,15,1037,15,Electricity
+S008,Kinematics,10,653,16,Mechanics
+S008,Thermodynamics,7,1146,17,Thermodynamics
+S008,Electricity,28,724,18,Mixed Questions
+S008,Mechanics,8,358,19,Mechanics
+S008,Modern Physics,3,420,20,Modern Physics
+S009,Thermodynamics,14,700,1,Mixed Questions
+S009,Kinematics,16,768,2,Mechanics
+S009,Electricity,10,985,3,Optics
+S009,Mechanics,25,353,4,Mixed Questions
+S009,Mixed Questions,12,564,5,Mixed Questions
+S009,Optics,6,606,6,Optics
+S009,Mixed Questions,30,1194,7,Mixed Questions
+S009,Electricity,20,817,8,Optics
+S009,Kinematics,18,325,9,Mechanics
+S009,Mechanics,20,909,10,Electricity
+S009,Mechanics,4,709,11,Mechanics
+S009,Modern Physics,17,585,12,Thermodynamics
+S009,Thermodynamics,21,331,13,Mixed Questions
+S009,Thermodynamics,13,333,14,Mixed Questions
+S009,Mixed Questions,27,1000,15,Mixed Questions
+S009,Mixed Questions,13,1045,16,Mixed Questions
+S009,Modern Physics,23,416,17,Mixed Questions
+S009,Optics,29,1026,18,Mixed Questions
+S009,Optics,7,705,19,Optics
+S009,Mixed Questions,6,706,20,Mixed Questions
+S010,Modern Physics,25,820,1,Mixed Questions
+S010,Electricity,26,493,2,Mixed Questions
+S010,Optics,19,902,3,Modern Physics
+S010,Kinematics,2,349,4,Kinematics
+S010,Optics,8,901,5,Optics
+S010,Kinematics,5,1095,6,Kinematics
+S010,Optics,30,949,7,Mixed Questions
+S010,Modern Physics,3,949,8,Modern Physics
+S010,Electricity,5,556,9,Electricity
+S010,Optics,12,522,10,Modern Physics
+S010,Kinematics,15,1102,11,Mechanics
+S010,Optics,7,802,12,Optics
+S010,Optics,30,362,13,Mixed Questions
+S010,Electricity,23,889,14,Mixed Questions
+S010,Mechanics,28,329,15,Mixed Questions
+S010,Mechanics,29,692,16,Mixed Questions
+S010,Electricity,7,428,17,Electricity
+S010,Mixed Questions,14,1032,18,Mixed Questions
+S010,Kinematics,16,876,19,Mechanics
+S010,Optics,9,835,20,Optics
+S011,Optics,16,1139,1,Modern Physics
+S011,Mixed Questions,13,848,2,Mixed Questions
+S011,Optics,21,728,3,Mixed Questions
+S011,Mechanics,10,961,4,Electricity
+S011,Mechanics,23,330,5,Mixed Questions
+S011,Thermodynamics,26,1101,6,Mixed Questions
+S011,Electricity,17,749,7,Optics
+S011,Kinematics,16,308,8,Mechanics
+S011,Mixed Questions,20,408,9,Mixed Questions
+S011,Modern Physics,9,853,10,Modern Physics
+S011,Mechanics,26,311,11,Mixed Questions
+S011,Kinematics,17,864,12,Mechanics
+S011,Mechanics,5,595,13,Mechanics
+S011,Electricity,23,624,14,Mixed Questions
+S011,Optics,1,311,15,Optics
+S011,Thermodynamics,4,302,16,Thermodynamics
+S011,Thermodynamics,28,694,17,Mixed Questions
+S011,Optics,11,1076,18,Modern Physics
+S011,Thermodynamics,25,676,19,Mixed Questions
+S011,Thermodynamics,13,448,20,Mixed Questions
+S012,Mixed Questions,26,505,1,Mixed Questions
+S012,Electricity,10,543,2,Optics
+S012,Thermodynamics,0,398,3,Thermodynamics
+S012,Mixed Questions,23,519,4,Mixed Questions
+S012,Optics,6,523,5,Optics
+S012,Electricity,28,1134,6,Mixed Questions
+S012,Thermodynamics,14,616,7,Mixed Questions
+S012,Thermodynamics,14,1194,8,Mixed Questions
+S012,Mixed Questions,17,1144,9,Mixed Questions
+S012,Electricity,27,675,10,Mixed Questions
+S012,Electricity,14,527,11,Optics
+S012,Modern Physics,8,309,12,Modern Physics
+S012,Kinematics,2,495,13,Kinematics
+S012,Electricity,26,1135,14,Mixed Questions
+S012,Optics,17,385,15,Modern Physics
+S012,Modern Physics,4,321,16,Modern Physics
+S012,Kinematics,26,1008,17,Mixed Questions
+S012,Mixed Questions,10,355,18,Mixed Questions
+S012,Electricity,10,394,19,Optics
+S012,Modern Physics,0,1047,20,Modern Physics
+S013,Mixed Questions,17,378,1,Mixed Questions
+S013,Electricity,30,452,2,Mixed Questions
+S013,Optics,30,1100,3,Mixed Questions
+S013,Optics,21,1013,4,Mixed Questions
+S013,Kinematics,15,369,5,Mechanics
+S013,Modern Physics,1,451,6,Modern Physics
+S013,Optics,11,644,7,Modern Physics
+S013,Optics,17,573,8,Modern Physics
+S013,Modern Physics,8,765,9,Modern Physics
+S013,Modern Physics,22,628,10,Mixed Questions
+S013,Modern Physics,7,1199,11,Modern Physics
+S013,Modern Physics,25,1068,12,Mixed Questions
+S013,Mechanics,22,1033,13,Mixed Questions
+S013,Kinematics,14,684,14,Mechanics
+S013,Mixed Questions,22,1034,15,Mixed Questions
+S013,Mixed Questions,28,1067,16,Mixed Questions
+S013,Kinematics,16,893,17,Mechanics
+S013,Thermodynamics,27,896,18,Mixed Questions
+S013,Optics,25,810,19,Mixed Questions
+S013,Optics,25,774,20,Mixed Questions
+S014,Mechanics,23,1037,1,Mixed Questions
+S014,Thermodynamics,2,720,2,Thermodynamics
+S014,Modern Physics,10,618,3,Thermodynamics
+S014,Modern Physics,0,1073,4,Modern Physics
+S014,Electricity,30,466,5,Mixed Questions
+S014,Electricity,4,514,6,Electricity
+S014,Modern Physics,28,731,7,Mixed Questions
+S014,Optics,22,878,8,Mixed Questions
+S014,Thermodynamics,22,397,9,Mixed Questions
+S014,Optics,12,1163,10,Modern Physics
+S014,Mechanics,18,845,11,Electricity
+S014,Modern Physics,12,699,12,Thermodynamics
+S014,Electricity,13,410,13,Optics
+S014,Mechanics,26,1070,14,Mixed Questions
+S014,Thermodynamics,22,1043,15,Mixed Questions
+S014,Thermodynamics,1,393,16,Thermodynamics
+S014,Kinematics,3,794,17,Kinematics
+S014,Electricity,27,912,18,Mixed Questions
+S014,Kinematics,23,497,19,Mixed Questions
+S014,Modern Physics,14,473,20,Thermodynamics
+S015,Modern Physics,9,1122,1,Modern Physics
+S015,Thermodynamics,11,635,2,Mixed Questions
+S015,Optics,14,494,3,Modern Physics
+S015,Kinematics,19,470,4,Mechanics
+S015,Optics,0,532,5,Optics
+S015,Optics,23,323,6,Mixed Questions
+S015,Electricity,7,311,7,Electricity
+S015,Thermodynamics,4,1175,8,Thermodynamics
+S015,Mixed Questions,29,801,9,Mixed Questions
+S015,Modern Physics,10,680,10,Thermodynamics
+S015,Mixed Questions,4,1171,11,Mixed Questions
+S015,Mechanics,22,598,12,Mixed Questions
+S015,Modern Physics,2,391,13,Modern Physics
+S015,Electricity,22,1060,14,Mixed Questions
+S015,Thermodynamics,5,349,15,Thermodynamics
+S015,Kinematics,23,391,16,Mixed Questions
+S015,Optics,7,618,17,Optics
+S015,Kinematics,11,313,18,Mechanics
+S015,Modern Physics,22,1130,19,Mixed Questions
+S015,Mechanics,25,860,20,Mixed Questions
+S016,Kinematics,4,653,1,Kinematics
+S016,Mixed Questions,30,1042,2,Mixed Questions
+S016,Modern Physics,24,735,3,Mixed Questions
+S016,Modern Physics,20,321,4,Thermodynamics
+S016,Mixed Questions,5,861,5,Mixed Questions
+S016,Thermodynamics,7,1080,6,Thermodynamics
+S016,Kinematics,25,904,7,Mixed Questions
+S016,Mechanics,13,875,8,Electricity
+S016,Mechanics,8,662,9,Mechanics
+S016,Electricity,11,963,10,Optics
+S016,Modern Physics,13,898,11,Thermodynamics
+S016,Electricity,28,732,12,Mixed Questions
+S016,Thermodynamics,29,309,13,Mixed Questions
+S016,Electricity,0,836,14,Electricity
+S016,Optics,7,800,15,Optics
+S016,Kinematics,11,581,16,Mechanics
+S016,Mixed Questions,1,686,17,Mixed Questions
+S016,Kinematics,11,876,18,Mechanics
+S016,Optics,2,1040,19,Optics
+S016,Thermodynamics,15,863,20,Mixed Questions
+S017,Mixed Questions,2,945,1,Mixed Questions
+S017,Optics,8,676,2,Optics
+S017,Electricity,23,867,3,Mixed Questions
+S017,Kinematics,23,1147,4,Mixed Questions
+S017,Mechanics,0,770,5,Mechanics
+S017,Mixed Questions,7,995,6,Mixed Questions
+S017,Thermodynamics,4,730,7,Thermodynamics
+S017,Mechanics,12,578,8,Electricity
+S017,Thermodynamics,0,875,9,Thermodynamics
+S017,Modern Physics,6,974,10,Modern Physics
+S017,Mechanics,25,897,11,Mixed Questions
+S017,Modern Physics,23,559,12,Mixed Questions
+S017,Kinematics,16,878,13,Mechanics
+S017,Modern Physics,0,315,14,Modern Physics
+S017,Thermodynamics,6,1099,15,Thermodynamics
+S017,Electricity,4,1053,16,Electricity
+S017,Mechanics,16,557,17,Electricity
+S017,Kinematics,2,896,18,Kinematics
+S017,Mechanics,2,920,19,Mechanics
+S017,Mechanics,19,1084,20,Electricity
+S018,Kinematics,25,552,1,Mixed Questions
+S018,Kinematics,10,978,2,Mechanics
+S018,Kinematics,26,1110,3,Mixed Questions
+S018,Mechanics,26,417,4,Mixed Questions
+S018,Thermodynamics,20,364,5,Mixed Questions
+S018,Optics,0,938,6,Optics
+S018,Optics,10,838,7,Modern Physics
+S018,Modern Physics,19,870,8,Thermodynamics
+S018,Kinematics,2,591,9,Kinematics
+S018,Mechanics,12,397,10,Electricity
+S018,Optics,8,872,11,Optics
+S018,Modern Physics,9,833,12,Modern Physics
+S018,Optics,23,800,13,Mixed Questions
+S018,Mechanics,3,849,14,Mechanics
+S018,Mixed Questions,1,944,15,Mixed Questions
+S018,Optics,8,1023,16,Optics
+S018,Mechanics,27,794,17,Mixed Questions
+S018,Mixed Questions,12,1025,18,Mixed Questions
+S018,Optics,15,548,19,Modern Physics
+S018,Thermodynamics,0,747,20,Thermodynamics
+S019,Kinematics,7,633,1,Kinematics
+S019,Kinematics,3,892,2,Kinematics
+S019,Optics,6,1135,3,Optics
+S019,Modern Physics,0,667,4,Modern Physics
+S019,Optics,12,621,5,Modern Physics
+S019,Modern Physics,9,456,6,Modern Physics
+S019,Thermodynamics,28,379,7,Mixed Questions
+S019,Electricity,9,369,8,Electricity
+S019,Mechanics,11,1184,9,Electricity
+S019,Mechanics,11,1186,10,Electricity
+S019,Mixed Questions,22,866,11,Mixed Questions
+S019,Modern Physics,4,885,12,Modern Physics
+S019,Mixed Questions,28,879,13,Mixed Questions
+S019,Mixed Questions,3,501,14,Mixed Questions
+S019,Mechanics,1,499,15,Mechanics
+S019,Optics,21,374,16,Mixed Questions
+S019,Mechanics,21,459,17,Mixed Questions
+S019,Thermodynamics,5,666,18,Thermodynamics
+S019,Mechanics,27,823,19,Mixed Questions
+S019,Kinematics,23,722,20,Mixed Questions
+S020,Optics,27,764,1,Mixed Questions
+S020,Thermodynamics,5,312,2,Thermodynamics
+S020,Mechanics,25,402,3,Mixed Questions
+S020,Thermodynamics,3,521,4,Thermodynamics
+S020,Mixed Questions,19,753,5,Mixed Questions
+S020,Mixed Questions,24,930,6,Mixed Questions
+S020,Optics,15,1144,7,Modern Physics
+S020,Electricity,15,1024,8,Optics
+S020,Mechanics,2,656,9,Mechanics
+S020,Thermodynamics,26,432,10,Mixed Questions
+S020,Kinematics,2,530,11,Kinematics
+S020,Kinematics,15,856,12,Mechanics
+S020,Kinematics,19,689,13,Mechanics
+S020,Modern Physics,6,706,14,Modern Physics
+S020,Optics,13,393,15,Modern Physics
+S020,Mixed Questions,11,492,16,Mixed Questions
+S020,Optics,3,880,17,Optics
+S020,Optics,7,1010,18,Optics
+S020,Kinematics,11,510,19,Mechanics
+S020,Modern Physics,14,1110,20,Thermodynamics
+S021,Optics,16,403,1,Modern Physics
+S021,Kinematics,3,1194,2,Kinematics
+S021,Electricity,9,997,3,Electricity
+S021,Modern Physics,29,1071,4,Mixed Questions
+S021,Mechanics,26,414,5,Mixed Questions
+S021,Modern Physics,9,941,6,Modern Physics
+S021,Optics,12,791,7,Modern Physics
+S021,Thermodynamics,29,660,8,Mixed Questions
+S021,Kinematics,12,493,9,Mechanics
+S021,Mixed Questions,19,301,10,Mixed Questions
+S021,Electricity,24,350,11,Mixed Questions
+S021,Kinematics,12,371,12,Mechanics
+S021,Mechanics,6,335,13,Mechanics
+S021,Kinematics,26,897,14,Mixed Questions
+S021,Electricity,19,915,15,Optics
+S021,Modern Physics,10,892,16,Thermodynamics
+S021,Electricity,23,384,17,Mixed Questions
+S021,Optics,28,392,18,Mixed Questions
+S021,Thermodynamics,7,1000,19,Thermodynamics
+S021,Thermodynamics,0,372,20,Thermodynamics
+S022,Optics,27,313,1,Mixed Questions
+S022,Kinematics,24,925,2,Mixed Questions
+S022,Electricity,6,626,3,Electricity
+S022,Mixed Questions,14,848,4,Mixed Questions
+S022,Modern Physics,8,429,5,Modern Physics
+S022,Mixed Questions,21,406,6,Mixed Questions
+S022,Mechanics,30,659,7,Mixed Questions
+S022,Kinematics,21,798,8,Mixed Questions
+S022,Mixed Questions,22,809,9,Mixed Questions
+S022,Mechanics,28,427,10,Mixed Questions
+S022,Thermodynamics,9,969,11,Thermodynamics
+S022,Optics,13,700,12,Modern Physics
+S022,Thermodynamics,11,1166,13,Mixed Questions
+S022,Thermodynamics,1,601,14,Thermodynamics
+S022,Thermodynamics,6,654,15,Thermodynamics
+S022,Electricity,20,428,16,Optics
+S022,Electricity,7,1167,17,Electricity
+S022,Optics,26,912,18,Mixed Questions
+S022,Kinematics,13,533,19,Mechanics
+S022,Mixed Questions,6,345,20,Mixed Questions
+S023,Electricity,15,1064,1,Optics
+S023,Mixed Questions,20,1131,2,Mixed Questions
+S023,Modern Physics,28,310,3,Mixed Questions
+S023,Mixed Questions,3,1101,4,Mixed Questions
+S023,Electricity,4,604,5,Electricity
+S023,Optics,26,1043,6,Mixed Questions
+S023,Kinematics,8,582,7,Kinematics
+S023,Electricity,14,304,8,Optics
+S023,Kinematics,11,724,9,Mechanics
+S023,Mechanics,17,674,10,Electricity
+S023,Electricity,14,480,11,Optics
+S023,Mixed Questions,12,701,12,Mixed Questions
+S023,Modern Physics,30,906,13,Mixed Questions
+S023,Mechanics,23,828,14,Mixed Questions
+S023,Mixed Questions,29,650,15,Mixed Questions
+S023,Mechanics,4,860,16,Mechanics
+S023,Modern Physics,4,661,17,Modern Physics
+S023,Mechanics,19,789,18,Electricity
+S023,Kinematics,13,399,19,Mechanics
+S023,Modern Physics,17,1096,20,Thermodynamics
+S024,Kinematics,8,394,1,Kinematics
+S024,Mixed Questions,15,903,2,Mixed Questions
+S024,Modern Physics,12,473,3,Thermodynamics
+S024,Mechanics,16,932,4,Electricity
+S024,Mixed Questions,28,1028,5,Mixed Questions
+S024,Mechanics,2,460,6,Mechanics
+S024,Thermodynamics,1,1179,7,Thermodynamics
+S024,Mixed Questions,18,698,8,Mixed Questions
+S024,Electricity,17,791,9,Optics
+S024,Mechanics,10,620,10,Electricity
+S024,Mechanics,18,1014,11,Electricity
+S024,Mechanics,13,818,12,Electricity
+S024,Kinematics,9,423,13,Kinematics
+S024,Optics,18,319,14,Modern Physics
+S024,Kinematics,30,1059,15,Mixed Questions
+S024,Mechanics,13,879,16,Electricity
+S024,Mechanics,3,587,17,Mechanics
+S024,Thermodynamics,2,1040,18,Thermodynamics
+S024,Modern Physics,2,499,19,Modern Physics
+S024,Modern Physics,6,629,20,Modern Physics
+S025,Mechanics,6,634,1,Mechanics
+S025,Modern Physics,25,593,2,Mixed Questions
+S025,Mixed Questions,17,334,3,Mixed Questions
+S025,Kinematics,2,482,4,Kinematics
+S025,Electricity,25,1013,5,Mixed Questions
+S025,Modern Physics,3,648,6,Modern Physics
+S025,Optics,1,938,7,Optics
+S025,Optics,13,969,8,Modern Physics
+S025,Optics,6,409,9,Optics
+S025,Mixed Questions,10,615,10,Mixed Questions
+S025,Thermodynamics,10,523,11,Mixed Questions
+S025,Modern Physics,4,424,12,Modern Physics
+S025,Modern Physics,4,812,13,Modern Physics
+S025,Mechanics,29,596,14,Mixed Questions
+S025,Modern Physics,6,383,15,Modern Physics
+S025,Optics,15,881,16,Modern Physics
+S025,Optics,16,474,17,Modern Physics
+S025,Kinematics,30,414,18,Mixed Questions
+S025,Optics,8,1088,19,Optics
+S025,Modern Physics,16,467,20,Thermodynamics
+S026,Modern Physics,18,416,1,Thermodynamics
+S026,Thermodynamics,1,868,2,Thermodynamics
+S026,Electricity,7,863,3,Electricity
+S026,Mechanics,7,882,4,Mechanics
+S026,Modern Physics,22,1083,5,Mixed Questions
+S026,Electricity,0,367,6,Electricity
+S026,Electricity,8,329,7,Electricity
+S026,Mechanics,5,737,8,Mechanics
+S026,Optics,7,432,9,Optics
+S026,Modern Physics,17,625,10,Thermodynamics
+S026,Thermodynamics,6,648,11,Thermodynamics
+S026,Electricity,2,484,12,Electricity
+S026,Mechanics,15,745,13,Electricity
+S026,Mechanics,5,568,14,Mechanics
+S026,Kinematics,30,448,15,Mixed Questions
+S026,Thermodynamics,8,592,16,Thermodynamics
+S026,Modern Physics,4,310,17,Modern Physics
+S026,Thermodynamics,29,547,18,Mixed Questions
+S026,Kinematics,14,1179,19,Mechanics
+S026,Mechanics,12,542,20,Electricity
+S027,Modern Physics,19,1170,1,Thermodynamics
+S027,Mechanics,26,461,2,Mixed Questions
+S027,Electricity,12,374,3,Optics
+S027,Optics,9,399,4,Optics
+S027,Kinematics,2,548,5,Kinematics
+S027,Optics,8,302,6,Optics
+S027,Thermodynamics,30,740,7,Mixed Questions
+S027,Optics,17,638,8,Modern Physics
+S027,Modern Physics,29,923,9,Mixed Questions
+S027,Mixed Questions,30,730,10,Mixed Questions
+S027,Electricity,21,768,11,Mixed Questions
+S027,Optics,14,570,12,Modern Physics
+S027,Kinematics,15,613,13,Mechanics
+S027,Thermodynamics,12,597,14,Mixed Questions
+S027,Optics,15,988,15,Modern Physics
+S027,Modern Physics,17,888,16,Thermodynamics
+S027,Electricity,10,958,17,Optics
+S027,Thermodynamics,2,580,18,Thermodynamics
+S027,Optics,16,705,19,Modern Physics
+S027,Thermodynamics,8,1158,20,Thermodynamics
+S028,Kinematics,9,352,1,Kinematics
+S028,Electricity,27,1053,2,Mixed Questions
+S028,Kinematics,13,1190,3,Mechanics
+S028,Mixed Questions,27,764,4,Mixed Questions
+S028,Mixed Questions,24,613,5,Mixed Questions
+S028,Mixed Questions,0,1046,6,Mixed Questions
+S028,Modern Physics,23,618,7,Mixed Questions
+S028,Optics,5,467,8,Optics
+S028,Mechanics,25,597,9,Mixed Questions
+S028,Mechanics,16,1045,10,Electricity
+S028,Modern Physics,25,591,11,Mixed Questions
+S028,Optics,9,632,12,Optics
+S028,Mechanics,4,476,13,Mechanics
+S028,Kinematics,1,485,14,Kinematics
+S028,Modern Physics,16,687,15,Thermodynamics
+S028,Optics,12,509,16,Modern Physics
+S028,Mechanics,9,527,17,Mechanics
+S028,Mixed Questions,17,683,18,Mixed Questions
+S028,Electricity,9,518,19,Electricity
+S028,Mechanics,21,837,20,Mixed Questions
+S029,Kinematics,21,637,1,Mixed Questions
+S029,Kinematics,6,642,2,Kinematics
+S029,Thermodynamics,11,405,3,Mixed Questions
+S029,Kinematics,9,478,4,Kinematics
+S029,Kinematics,1,421,5,Kinematics
+S029,Mixed Questions,9,453,6,Mixed Questions
+S029,Mixed Questions,19,780,7,Mixed Questions
+S029,Electricity,16,356,8,Optics
+S029,Electricity,10,512,9,Optics
+S029,Optics,14,733,10,Modern Physics
+S029,Modern Physics,5,739,11,Modern Physics
+S029,Mechanics,25,733,12,Mixed Questions
+S029,Mixed Questions,9,469,13,Mixed Questions
+S029,Optics,29,782,14,Mixed Questions
+S029,Thermodynamics,23,790,15,Mixed Questions
+S029,Kinematics,8,635,16,Kinematics
+S029,Optics,20,466,17,Modern Physics
+S029,Mixed Questions,29,314,18,Mixed Questions
+S029,Optics,22,553,19,Mixed Questions
+S029,Thermodynamics,25,878,20,Mixed Questions
+S030,Kinematics,9,522,1,Kinematics
+S030,Mechanics,29,665,2,Mixed Questions
+S030,Kinematics,4,573,3,Kinematics
+S030,Thermodynamics,14,754,4,Mixed Questions
+S030,Mixed Questions,27,1126,5,Mixed Questions
+S030,Mechanics,17,1147,6,Electricity
+S030,Modern Physics,20,714,7,Thermodynamics
+S030,Electricity,6,409,8,Electricity
+S030,Thermodynamics,15,1114,9,Mixed Questions
+S030,Mixed Questions,7,844,10,Mixed Questions
+S030,Electricity,8,991,11,Electricity
+S030,Thermodynamics,12,929,12,Mixed Questions
+S030,Kinematics,20,1134,13,Mechanics
+S030,Modern Physics,16,1134,14,Thermodynamics
+S030,Optics,2,510,15,Optics
+S030,Optics,23,503,16,Mixed Questions
+S030,Kinematics,27,1104,17,Mixed Questions
+S030,Modern Physics,5,773,18,Modern Physics
+S030,Optics,5,763,19,Optics
+S030,Electricity,28,1141,20,Mixed Questions
+S031,Optics,10,404,1,Modern Physics
+S031,Kinematics,13,567,2,Mechanics
+S031,Optics,16,1003,3,Modern Physics
+S031,Thermodynamics,28,551,4,Mixed Questions
+S031,Modern Physics,23,1129,5,Mixed Questions
+S031,Kinematics,3,585,6,Kinematics
+S031,Kinematics,20,322,7,Mechanics
+S031,Optics,4,390,8,Optics
+S031,Mechanics,15,379,9,Electricity
+S031,Modern Physics,13,753,10,Thermodynamics
+S031,Mechanics,17,1109,11,Electricity
+S031,Thermodynamics,9,1077,12,Thermodynamics
+S031,Electricity,0,548,13,Electricity
+S031,Mixed Questions,8,1008,14,Mixed Questions
+S031,Optics,21,1109,15,Mixed Questions
+S031,Optics,11,944,16,Modern Physics
+S031,Electricity,23,638,17,Mixed Questions
+S031,Optics,11,983,18,Modern Physics
+S031,Kinematics,28,451,19,Mixed Questions
+S031,Mixed Questions,14,640,20,Mixed Questions
+S032,Modern Physics,10,844,1,Thermodynamics
+S032,Mechanics,18,689,2,Electricity
+S032,Mechanics,12,658,3,Electricity
+S032,Electricity,3,1009,4,Electricity
+S032,Optics,13,518,5,Modern Physics
+S032,Modern Physics,24,476,6,Mixed Questions
+S032,Electricity,30,789,7,Mixed Questions
+S032,Mechanics,21,365,8,Mixed Questions
+S032,Thermodynamics,22,573,9,Mixed Questions
+S032,Thermodynamics,25,532,10,Mixed Questions
+S032,Mixed Questions,25,1118,11,Mixed Questions
+S032,Optics,28,533,12,Mixed Questions
+S032,Optics,23,1029,13,Mixed Questions
+S032,Kinematics,25,578,14,Mixed Questions
+S032,Modern Physics,10,596,15,Thermodynamics
+S032,Mixed Questions,24,1136,16,Mixed Questions
+S032,Electricity,3,391,17,Electricity
+S032,Mixed Questions,5,567,18,Mixed Questions
+S032,Mechanics,29,567,19,Mixed Questions
+S032,Mechanics,14,568,20,Electricity
+S033,Modern Physics,25,472,1,Mixed Questions
+S033,Thermodynamics,26,1176,2,Mixed Questions
+S033,Optics,17,384,3,Modern Physics
+S033,Optics,14,876,4,Modern Physics
+S033,Electricity,1,669,5,Electricity
+S033,Modern Physics,6,316,6,Modern Physics
+S033,Optics,26,341,7,Mixed Questions
+S033,Kinematics,16,666,8,Mechanics
+S033,Thermodynamics,24,746,9,Mixed Questions
+S033,Optics,19,802,10,Modern Physics
+S033,Kinematics,18,575,11,Mechanics
+S033,Modern Physics,9,870,12,Modern Physics
+S033,Kinematics,21,436,13,Mixed Questions
+S033,Optics,9,379,14,Optics
+S033,Kinematics,19,1097,15,Mechanics
+S033,Mechanics,22,881,16,Mixed Questions
+S033,Mechanics,29,1081,17,Mixed Questions
+S033,Optics,27,1041,18,Mixed Questions
+S033,Optics,23,583,19,Mixed Questions
+S033,Mechanics,18,309,20,Electricity
+S034,Thermodynamics,28,355,1,Mixed Questions
+S034,Mechanics,0,708,2,Mechanics
+S034,Kinematics,15,649,3,Mechanics
+S034,Mechanics,28,954,4,Mixed Questions
+S034,Mechanics,21,336,5,Mixed Questions
+S034,Mixed Questions,17,493,6,Mixed Questions
+S034,Electricity,3,664,7,Electricity
+S034,Modern Physics,24,540,8,Mixed Questions
+S034,Optics,17,417,9,Modern Physics
+S034,Kinematics,20,358,10,Mechanics
+S034,Mixed Questions,4,1039,11,Mixed Questions
+S034,Thermodynamics,17,1047,12,Mixed Questions
+S034,Kinematics,20,754,13,Mechanics
+S034,Electricity,5,876,14,Electricity
+S034,Mechanics,25,649,15,Mixed Questions
+S034,Thermodynamics,1,853,16,Thermodynamics
+S034,Thermodynamics,8,833,17,Thermodynamics
+S034,Mixed Questions,19,772,18,Mixed Questions
+S034,Thermodynamics,11,1088,19,Mixed Questions
+S034,Mechanics,30,688,20,Mixed Questions
+S035,Optics,1,604,1,Optics
+S035,Kinematics,20,1145,2,Mechanics
+S035,Mechanics,2,442,3,Mechanics
+S035,Optics,30,867,4,Mixed Questions
+S035,Kinematics,26,316,5,Mixed Questions
+S035,Thermodynamics,23,678,6,Mixed Questions
+S035,Mechanics,8,811,7,Mechanics
+S035,Modern Physics,23,340,8,Mixed Questions
+S035,Kinematics,1,699,9,Kinematics
+S035,Kinematics,6,705,10,Kinematics
+S035,Kinematics,7,855,11,Kinematics
+S035,Modern Physics,16,519,12,Thermodynamics
+S035,Mixed Questions,22,532,13,Mixed Questions
+S035,Kinematics,29,662,14,Mixed Questions
+S035,Mixed Questions,23,1144,15,Mixed Questions
+S035,Electricity,14,882,16,Optics
+S035,Thermodynamics,4,706,17,Thermodynamics
+S035,Optics,4,1082,18,Optics
+S035,Mechanics,22,1111,19,Mixed Questions
+S035,Kinematics,8,869,20,Kinematics
+S036,Mechanics,5,1200,1,Mechanics
+S036,Optics,14,885,2,Modern Physics
+S036,Modern Physics,22,329,3,Mixed Questions
+S036,Optics,19,652,4,Modern Physics
+S036,Kinematics,14,429,5,Mechanics
+S036,Modern Physics,15,706,6,Thermodynamics
+S036,Mechanics,9,575,7,Mechanics
+S036,Thermodynamics,11,625,8,Mixed Questions
+S036,Modern Physics,18,1019,9,Thermodynamics
+S036,Kinematics,26,689,10,Mixed Questions
+S036,Optics,28,402,11,Mixed Questions
+S036,Electricity,8,481,12,Electricity
+S036,Modern Physics,14,379,13,Thermodynamics
+S036,Thermodynamics,27,837,14,Mixed Questions
+S036,Electricity,26,1059,15,Mixed Questions
+S036,Mechanics,3,521,16,Mechanics
+S036,Mixed Questions,9,824,17,Mixed Questions
+S036,Mechanics,18,1010,18,Electricity
+S036,Mechanics,22,1041,19,Mixed Questions
+S036,Mixed Questions,1,872,20,Mixed Questions
+S037,Mechanics,9,582,1,Mechanics
+S037,Modern Physics,2,893,2,Modern Physics
+S037,Optics,21,672,3,Mixed Questions
+S037,Kinematics,29,1152,4,Mixed Questions
+S037,Optics,0,869,5,Optics
+S037,Thermodynamics,28,716,6,Mixed Questions
+S037,Mixed Questions,28,1050,7,Mixed Questions
+S037,Kinematics,29,1143,8,Mixed Questions
+S037,Thermodynamics,15,380,9,Mixed Questions
+S037,Optics,20,353,10,Modern Physics
+S037,Thermodynamics,16,617,11,Mixed Questions
+S037,Modern Physics,2,870,12,Modern Physics
+S037,Mixed Questions,19,392,13,Mixed Questions
+S037,Modern Physics,11,607,14,Thermodynamics
+S037,Mechanics,15,706,15,Electricity
+S037,Optics,7,796,16,Optics
+S037,Mixed Questions,23,776,17,Mixed Questions
+S037,Optics,10,1004,18,Modern Physics
+S037,Mixed Questions,7,622,19,Mixed Questions
+S037,Optics,26,838,20,Mixed Questions
+S038,Electricity,20,691,1,Optics
+S038,Kinematics,4,510,2,Kinematics
+S038,Mechanics,16,844,3,Electricity
+S038,Optics,14,616,4,Modern Physics
+S038,Mechanics,10,626,5,Electricity
+S038,Optics,20,459,6,Modern Physics
+S038,Modern Physics,30,1155,7,Mixed Questions
+S038,Modern Physics,19,1054,8,Thermodynamics
+S038,Electricity,28,795,9,Mixed Questions
+S038,Mechanics,3,1024,10,Mechanics
+S038,Modern Physics,16,1029,11,Thermodynamics
+S038,Optics,29,426,12,Mixed Questions
+S038,Kinematics,7,753,13,Kinematics
+S038,Thermodynamics,10,550,14,Mixed Questions
+S038,Thermodynamics,23,495,15,Mixed Questions
+S038,Thermodynamics,12,375,16,Mixed Questions
+S038,Kinematics,15,983,17,Mechanics
+S038,Modern Physics,21,320,18,Mixed Questions
+S038,Thermodynamics,9,1131,19,Thermodynamics
+S038,Modern Physics,0,1160,20,Modern Physics
+S039,Electricity,21,494,1,Mixed Questions
+S039,Mixed Questions,11,445,2,Mixed Questions
+S039,Mixed Questions,29,1039,3,Mixed Questions
+S039,Electricity,17,581,4,Optics
+S039,Kinematics,6,493,5,Kinematics
+S039,Kinematics,7,314,6,Kinematics
+S039,Optics,22,725,7,Mixed Questions
+S039,Electricity,30,462,8,Mixed Questions
+S039,Optics,23,483,9,Mixed Questions
+S039,Electricity,30,636,10,Mixed Questions
+S039,Mechanics,8,601,11,Mechanics
+S039,Mixed Questions,6,643,12,Mixed Questions
+S039,Mixed Questions,6,695,13,Mixed Questions
+S039,Optics,12,1186,14,Modern Physics
+S039,Mechanics,7,976,15,Mechanics
+S039,Electricity,10,615,16,Optics
+S039,Modern Physics,10,1061,17,Thermodynamics
+S039,Mixed Questions,30,782,18,Mixed Questions
+S039,Mixed Questions,29,937,19,Mixed Questions
+S039,Modern Physics,25,770,20,Mixed Questions
+S040,Kinematics,26,638,1,Mixed Questions
+S040,Thermodynamics,6,809,2,Thermodynamics
+S040,Kinematics,24,971,3,Mixed Questions
+S040,Electricity,1,368,4,Electricity
+S040,Electricity,28,301,5,Mixed Questions
+S040,Mixed Questions,30,430,6,Mixed Questions
+S040,Modern Physics,17,502,7,Thermodynamics
+S040,Optics,29,476,8,Mixed Questions
+S040,Modern Physics,24,663,9,Mixed Questions
+S040,Mixed Questions,4,383,10,Mixed Questions
+S040,Kinematics,22,939,11,Mixed Questions
+S040,Optics,1,506,12,Optics
+S040,Mechanics,20,534,13,Electricity
+S040,Electricity,8,507,14,Electricity
+S040,Modern Physics,12,751,15,Thermodynamics
+S040,Kinematics,22,589,16,Mixed Questions
+S040,Electricity,3,421,17,Electricity
+S040,Optics,17,613,18,Modern Physics
+S040,Thermodynamics,20,1122,19,Mixed Questions
+S040,Mixed Questions,18,551,20,Mixed Questions
+S041,Mechanics,7,605,1,Mechanics
+S041,Mixed Questions,10,541,2,Mixed Questions
+S041,Mixed Questions,12,608,3,Mixed Questions
+S041,Kinematics,4,391,4,Kinematics
+S041,Electricity,29,1068,5,Mixed Questions
+S041,Mechanics,15,469,6,Electricity
+S041,Optics,20,992,7,Modern Physics
+S041,Electricity,29,1031,8,Mixed Questions
+S041,Electricity,23,853,9,Mixed Questions
+S041,Thermodynamics,10,764,10,Mixed Questions
+S041,Mechanics,6,828,11,Mechanics
+S041,Thermodynamics,23,614,12,Mixed Questions
+S041,Electricity,27,780,13,Mixed Questions
+S041,Electricity,22,758,14,Mixed Questions
+S041,Modern Physics,21,917,15,Mixed Questions
+S041,Mixed Questions,18,977,16,Mixed Questions
+S041,Modern Physics,21,587,17,Mixed Questions
+S041,Modern Physics,25,1061,18,Mixed Questions
+S041,Modern Physics,6,654,19,Modern Physics
+S041,Mechanics,7,735,20,Mechanics
+S042,Mixed Questions,3,1034,1,Mixed Questions
+S042,Optics,28,999,2,Mixed Questions
+S042,Modern Physics,13,569,3,Thermodynamics
+S042,Kinematics,24,315,4,Mixed Questions
+S042,Electricity,4,713,5,Electricity
+S042,Modern Physics,2,301,6,Modern Physics
+S042,Optics,20,326,7,Modern Physics
+S042,Kinematics,13,784,8,Mechanics
+S042,Kinematics,25,616,9,Mixed Questions
+S042,Mixed Questions,29,541,10,Mixed Questions
+S042,Optics,15,609,11,Modern Physics
+S042,Thermodynamics,2,732,12,Thermodynamics
+S042,Mixed Questions,27,795,13,Mixed Questions
+S042,Electricity,26,1117,14,Mixed Questions
+S042,Mixed Questions,28,777,15,Mixed Questions
+S042,Mixed Questions,14,646,16,Mixed Questions
+S042,Mixed Questions,29,917,17,Mixed Questions
+S042,Kinematics,24,316,18,Mixed Questions
+S042,Mixed Questions,0,659,19,Mixed Questions
+S042,Thermodynamics,24,341,20,Mixed Questions
+S043,Kinematics,11,805,1,Mechanics
+S043,Thermodynamics,25,357,2,Mixed Questions
+S043,Kinematics,8,943,3,Kinematics
+S043,Electricity,0,968,4,Electricity
+S043,Modern Physics,1,988,5,Modern Physics
+S043,Kinematics,15,693,6,Mechanics
+S043,Mixed Questions,19,437,7,Mixed Questions
+S043,Kinematics,25,873,8,Mixed Questions
+S043,Modern Physics,19,544,9,Thermodynamics
+S043,Mechanics,3,379,10,Mechanics
+S043,Optics,7,1146,11,Optics
+S043,Electricity,3,424,12,Electricity
+S043,Kinematics,24,475,13,Mixed Questions
+S043,Electricity,6,765,14,Electricity
+S043,Mechanics,22,1097,15,Mixed Questions
+S043,Mixed Questions,30,792,16,Mixed Questions
+S043,Modern Physics,10,1151,17,Thermodynamics
+S043,Thermodynamics,25,635,18,Mixed Questions
+S043,Modern Physics,29,850,19,Mixed Questions
+S043,Modern Physics,26,424,20,Mixed Questions
+S044,Modern Physics,24,1044,1,Mixed Questions
+S044,Mechanics,15,1187,2,Electricity
+S044,Kinematics,2,894,3,Kinematics
+S044,Mixed Questions,23,831,4,Mixed Questions
+S044,Optics,27,985,5,Mixed Questions
+S044,Mechanics,24,966,6,Mixed Questions
+S044,Electricity,28,433,7,Mixed Questions
+S044,Kinematics,27,623,8,Mixed Questions
+S044,Mechanics,11,584,9,Electricity
+S044,Modern Physics,27,905,10,Mixed Questions
+S044,Mechanics,11,850,11,Electricity
+S044,Optics,28,1090,12,Mixed Questions
+S044,Modern Physics,29,478,13,Mixed Questions
+S044,Electricity,30,1014,14,Mixed Questions
+S044,Mechanics,8,344,15,Mechanics
+S044,Thermodynamics,11,324,16,Mixed Questions
+S044,Electricity,23,556,17,Mixed Questions
+S044,Modern Physics,27,982,18,Mixed Questions
+S044,Mixed Questions,3,418,19,Mixed Questions
+S044,Modern Physics,9,989,20,Modern Physics
+S045,Modern Physics,10,546,1,Thermodynamics
+S045,Mechanics,20,645,2,Electricity
+S045,Modern Physics,2,747,3,Modern Physics
+S045,Electricity,14,1063,4,Optics
+S045,Modern Physics,5,876,5,Modern Physics
+S045,Electricity,0,1067,6,Electricity
+S045,Modern Physics,3,872,7,Modern Physics
+S045,Kinematics,28,1168,8,Mixed Questions
+S045,Mechanics,23,727,9,Mixed Questions
+S045,Mechanics,28,705,10,Mixed Questions
+S045,Modern Physics,24,844,11,Mixed Questions
+S045,Electricity,27,492,12,Mixed Questions
+S045,Thermodynamics,28,437,13,Mixed Questions
+S045,Thermodynamics,2,681,14,Thermodynamics
+S045,Mechanics,1,710,15,Mechanics
+S045,Modern Physics,26,373,16,Mixed Questions
+S045,Mixed Questions,6,927,17,Mixed Questions
+S045,Electricity,29,469,18,Mixed Questions
+S045,Kinematics,8,481,19,Kinematics
+S045,Electricity,29,348,20,Mixed Questions
+S046,Thermodynamics,11,364,1,Mixed Questions
+S046,Thermodynamics,16,534,2,Mixed Questions
+S046,Electricity,18,688,3,Optics
+S046,Electricity,26,575,4,Mixed Questions
+S046,Kinematics,20,700,5,Mechanics
+S046,Optics,27,341,6,Mixed Questions
+S046,Electricity,4,1008,7,Electricity
+S046,Kinematics,29,1168,8,Mixed Questions
+S046,Kinematics,16,564,9,Mechanics
+S046,Thermodynamics,5,1034,10,Thermodynamics
+S046,Thermodynamics,20,824,11,Mixed Questions
+S046,Kinematics,3,619,12,Kinematics
+S046,Optics,2,567,13,Optics
+S046,Thermodynamics,7,482,14,Thermodynamics
+S046,Electricity,23,674,15,Mixed Questions
+S046,Mechanics,14,830,16,Electricity
+S046,Thermodynamics,29,689,17,Mixed Questions
+S046,Electricity,12,1056,18,Optics
+S046,Thermodynamics,23,378,19,Mixed Questions
+S046,Modern Physics,19,1071,20,Thermodynamics
+S047,Electricity,22,811,1,Mixed Questions
+S047,Optics,0,384,2,Optics
+S047,Modern Physics,20,632,3,Thermodynamics
+S047,Kinematics,19,1198,4,Mechanics
+S047,Modern Physics,14,537,5,Thermodynamics
+S047,Mechanics,8,542,6,Mechanics
+S047,Electricity,24,392,7,Mixed Questions
+S047,Modern Physics,20,907,8,Thermodynamics
+S047,Mechanics,3,654,9,Mechanics
+S047,Thermodynamics,13,824,10,Mixed Questions
+S047,Mixed Questions,2,982,11,Mixed Questions
+S047,Kinematics,11,383,12,Mechanics
+S047,Mixed Questions,5,928,13,Mixed Questions
+S047,Kinematics,5,880,14,Kinematics
+S047,Mixed Questions,7,552,15,Mixed Questions
+S047,Modern Physics,1,371,16,Modern Physics
+S047,Electricity,4,543,17,Electricity
+S047,Thermodynamics,18,794,18,Mixed Questions
+S047,Mixed Questions,25,1162,19,Mixed Questions
+S047,Electricity,3,639,20,Electricity
+S048,Thermodynamics,17,504,1,Mixed Questions
+S048,Kinematics,6,455,2,Kinematics
+S048,Thermodynamics,12,306,3,Mixed Questions
+S048,Kinematics,17,881,4,Mechanics
+S048,Mechanics,21,716,5,Mixed Questions
+S048,Kinematics,11,748,6,Mechanics
+S048,Mechanics,18,960,7,Electricity
+S048,Electricity,13,804,8,Optics
+S048,Mixed Questions,6,1068,9,Mixed Questions
+S048,Optics,12,558,10,Modern Physics
+S048,Optics,11,753,11,Modern Physics
+S048,Kinematics,22,716,12,Mixed Questions
+S048,Electricity,5,880,13,Electricity
+S048,Mechanics,30,625,14,Mixed Questions
+S048,Electricity,24,1155,15,Mixed Questions
+S048,Thermodynamics,29,920,16,Mixed Questions
+S048,Optics,28,673,17,Mixed Questions
+S048,Mechanics,19,1005,18,Electricity
+S048,Thermodynamics,29,1083,19,Mixed Questions
+S048,Electricity,17,960,20,Optics
+S049,Electricity,28,770,1,Mixed Questions
+S049,Mixed Questions,11,460,2,Mixed Questions
+S049,Mechanics,27,954,3,Mixed Questions
+S049,Mixed Questions,6,779,4,Mixed Questions
+S049,Kinematics,5,1187,5,Kinematics
+S049,Thermodynamics,27,758,6,Mixed Questions
+S049,Mixed Questions,30,834,7,Mixed Questions
+S049,Optics,18,886,8,Modern Physics
+S049,Optics,0,911,9,Optics
+S049,Optics,5,1134,10,Optics
+S049,Kinematics,5,600,11,Kinematics
+S049,Optics,15,1147,12,Modern Physics
+S049,Thermodynamics,20,695,13,Mixed Questions
+S049,Modern Physics,15,750,14,Thermodynamics
+S049,Modern Physics,11,938,15,Thermodynamics
+S049,Modern Physics,28,1170,16,Mixed Questions
+S049,Electricity,12,647,17,Optics
+S049,Modern Physics,2,721,18,Modern Physics
+S049,Kinematics,6,904,19,Kinematics
+S049,Kinematics,14,1146,20,Mechanics
+S050,Thermodynamics,20,946,1,Mixed Questions
+S050,Mechanics,11,352,2,Electricity
+S050,Modern Physics,2,517,3,Modern Physics
+S050,Optics,29,1198,4,Mixed Questions
+S050,Thermodynamics,16,543,5,Mixed Questions
+S050,Mixed Questions,19,1093,6,Mixed Questions
+S050,Electricity,23,953,7,Mixed Questions
+S050,Modern Physics,10,994,8,Thermodynamics
+S050,Modern Physics,18,1103,9,Thermodynamics
+S050,Kinematics,6,794,10,Kinematics
+S050,Thermodynamics,9,477,11,Thermodynamics
+S050,Thermodynamics,2,883,12,Thermodynamics
+S050,Modern Physics,7,857,13,Modern Physics
+S050,Mechanics,2,605,14,Mechanics
+S050,Thermodynamics,11,443,15,Mixed Questions
+S050,Thermodynamics,23,1182,16,Mixed Questions
+S050,Thermodynamics,27,1003,17,Mixed Questions
+S050,Optics,4,584,18,Optics
+S050,Modern Physics,5,1007,19,Modern Physics
+S050,Mixed Questions,6,987,20,Mixed Questions

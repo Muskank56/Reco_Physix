@@ -84,7 +84,7 @@ def load_or_train_model():
 
     # Else, try to train from history
     if os.path.exists(HISTORY_FILE):
-        df = pd.read_csv(HISTORY_FILE)
+        df = pd.read_csv(HISTORY_FILE,on_bad_lines="skip", engine="python")
         needed = {"topic", "score", "time_taken", "attempts", "recommended_next_topic"}
         if len(df) >= 100 and needed.issubset(set(df.columns)):
             # Prepare features
@@ -277,7 +277,7 @@ if st.session_state["page"] == "home":
         
         quiz_file = os.path.join(QUIZ_DIR, f"{topic}_quiz.csv")
         num_q = 30
-        quiz_df = pd.read_csv(quiz_file)
+        quiz_df = pd.read_csv(quiz_file, on_bad_lines="skip",engine="python")
         quiz_df = quiz_df.sample(n=num_q, random_state=None).reset_index(drop=True)
 
         if st.button("Start Quiz"):

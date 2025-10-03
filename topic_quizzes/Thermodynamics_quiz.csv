@@ -1,21 +1,145 @@
-<<<<<<< HEAD
-question,option_1,option_2,option_3,option_4,Subject,topic,correct_answer,Correct_Option_Number
-"While measuring the thermal conductivity of liquids, the upper part is kept hot and lower one cool so that:",convectional flow is stopped,radiation is stopped,conduction is easier,it is easier to perform the experiment,Physics,Thermodynamics,convectional flow is stopped,1
-=======
-question,option_1,option_2,option_3,option_4,Subject,topic,correct_answer,Correct_Option_Number
-"While measuring the thermal conductivity of liquids, the upper part is kept hot and lower one cool so that:",convectional flow is stopped,radiation is stopped,conduction is easier,it is easier to perform the experiment,Physics,Thermodynamics,convectional flow is stopped,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
+question,option_1,option_2,option_3,option_4,correct_option,Subject,topic,correct_answer,Correct_Option_Number
+"When a liquid is heated retaining its liquid state, then its molecules gain",Kinetic energy,potential energy,heat energy,both kinetic and potential energy,,Physics,Thermodynamics,Kinetic energy,1
+The concept of temperature is related to,zeroeth law of thermodynamics,first law of thermodynamics,second law of thermodynamics,third law of thermodynamics,,Physics,Thermodynamics,zeroeth law of thermodynamics,1
+"To measure high temperatures \( > \)
+\( 2500^{\circ} \mathrm{C}, \) we use",constant volume gas thermometer,thermocouple,resistance thermometer,pyrometer,,Physics,Thermodynamics,constant volume gas thermometer,1
+"The figure shows a cross-section of a
+double glass unit of a window on a
+vertical wall. A graph of the temperatures at different points within
+the unit is shown next to it. The
+temperature difference across the unit
+is 13 K. It has a cross-sectional are of 1.3
+and the rate of heat flow through it is 65
+W. Then the correct statement is (Glass
+has a thermal conductivity of
+\( \mathbf{1} W \boldsymbol{m}^{-1} \boldsymbol{K}^{-1} \boldsymbol{)} \)",The unit is in steady state and in thermal equilibrium.,The unit is in steady state but not in thermal equilibrium,The unit is not in steady state but is in thermal equilibrium.,The unit neither in steady state not in thermal equilibrium.,,Physics,Thermodynamics,The unit is in steady state and in thermal equilibrium.,1
+"When in thermal contact, the quantity of heat lost by the hotter body is the amount of heat gained by the colder body.",Equal to,Greater than,Less than,cannot say,,Physics,Thermodynamics,Equal to,1
+What is the process in which heat energy of both hot and cold body equalizes?,Calorimetry,Fermentation,Latent heat,Hidden heat,,Physics,Thermodynamics,Calorimetry,1
+"In a winter season, a heat pump is used to warm the room. A heat pump works \( 60 \mathrm{J} \) on the pump while it absorbs \( 90 \mathrm{J} \)
+of heat. How much heat is delivered to
+the house?","5,400 J",150 J,30 J,"1.5 J
+E . 0.67 J",,Physics,Thermodynamics,"5,400 J",1
+"Iron glows in red colour when it is
+heated to very high temperature. The reason for this is :",Heat we supply consumes red colour at high temperature,Mechanical energy is being converted into heat energy,All metals glow in red colour when heated,Heat energy is being converted into light energy,,Physics,Thermodynamics,Heat we supply consumes red colour at high temperature,1
+"is a process of transfer of
+heat by the actual movement of the medium particles.",Conduction,Convection,Radiation,All,,Physics,Thermodynamics,Conduction,1
+"Curie temperature is the temperature
+above which:",paramagnetic material becomes ferromagnetic material,ferromagnetic material becomes diamagnetic material,ferromagnetic material becomes paramagnetic material,paramagnetic material becomes diamagnetic material,,Physics,Thermodynamics,paramagnetic material becomes ferromagnetic material,1
+Molar heat capacity of water in equilibrium with the ice at constant pressure is,zero,Infinity,\( 40.45 k^{-1} \mathrm{mol}^{-1} \),,,Physics,Thermodynamics,zero,1
+"According to the Boltzmann's law of equipartition of energy, the energy per degree of freedom and at a temperature
+T K is :",(3/2) KT,(2/3) KT,кт,1/2 KT,,Physics,Thermodynamics,(3/2) KT,1
+"Fusion reaction takes place at high
+temperature because",\( \mathrm{KE} \) is high enough to overcome repulsion between nuclei,Nuclei are most stable at this temperature,Nuclei are unstable at this temperature,None of the above,,Physics,Thermodynamics,\( \mathrm{KE} \) is high enough to overcome repulsion between nuclei,1
+"For the construction of a thermometer
+one of the essential requirements is a thermometric substance which",remains liauid over the entire range of temperatures to be measured,has a property that varies linearly with temperature,has a property that varies with temperature,obey Boyle's law,,Physics,Thermodynamics,remains liauid over the entire range of temperatures to be measured,1
 "Assertion
-In an adiabatic process change in internal energy of a gas in equal to work done on or by the gas in the process.
+The density of water remains constant as it is cooled from room temperature
+until its temperature reaches \( 4^{\circ} C \)
 Reason
-Temperature of gas remains constant in
-<<<<<<< HEAD
-an adiabatic process.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Thermodynamics,Assertion is correct but Reason is incorrect,3
-Which of the following states of matter have two specific heats?,solid,gass,liquid,vapour,Physics,Thermodynamics,solid,1
-=======
-an adiabatic process.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Thermodynamics,Assertion is correct but Reason is incorrect,3
-Which of the following states of matter have two specific heats?,solid,gass,liquid,vapour,Physics,Thermodynamics,solid,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
+
+Below \( 4^{\circ} C \),the density increases.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"A hot liquid is kept in a big room. The logarithm of the numerical value of the temperature difference between the
+liquid and the room is plotted against time. The plot will be very nearly",a straight line,a circular arc,a parabola,an ellipse.,,Physics,Thermodynamics,a straight line,1
+"A P-V diagram is obtained by changing
+the temperature of the gas as shown.
+During this process the gas is :",heated continuously,cooled continuously,heated in the beginning but cooled towards the end,cooled in the beginning but heated towards the end,,Physics,Thermodynamics,heated continuously,1
+Which one of the following substances has highest specific heat capacity at room temperature and atmospheric pressure?,water,Ice,Aluminium,Mercury,,Physics,Thermodynamics,water,1
+"Two thermometers are used to record
+the temperature of a room. If the bulb of
+one is wrapped in wet hanky:",The temperature recorded by both will be same.,The temperature recorded by the wet-bulb thermometer will be greater than that recorded by the other,The temperature recorded by dry-bulb thermometer will be greater than that recorded by the other,None of the above,,Physics,Thermodynamics,The temperature recorded by both will be same.,1
+"The excess temperature of a body falls
+from \( 12^{\circ} \mathrm{C} \) to \( 6^{\circ} \mathrm{C} \) in 5 minutes, then the
+time to fall the excess temperature
+from \( 6^{\circ} \mathrm{C} \) to \( 3^{\circ} \mathrm{C} \) is (assume the
+Newton's cooling is valid)
+A . 10 minutes",A . 10 minutes,7.5 minutes,5 minutes,2.5 minutes,,Physics,Thermodynamics,A . 10 minutes,1
+The temperature of a gas is due to,P.E. of its molecules,K.E. of its molecules,Attractive forces between molecules,Repulsive forces between molecules,,Physics,Thermodynamics,P.E. of its molecules,1
+"In isothermal expansion the pressure is
+determined by :",temperature only,compressibility only,both temperature and compressibility,latent heat,,Physics,Thermodynamics,temperature only,1
+"When the temperature of water rises, the rate of evaporation",increases,decreases,remain the same,first decrease then increases,,Physics,Thermodynamics,decreases,2
+Which among the following substances has the greatest specific heat?,Iron,Water,copper,Mercury,,Physics,Thermodynamics,Iron,1
+"When coal is mixed with a hot solvent
+and heated with hydrogen, it forms:",Ammonia,Liquid hydrocarbon,synthetic rubber,Plastic,,Physics,Thermodynamics,Ammonia,1
+Which of the following is NOT a Absolute Temperature Scale?,Celsius Scale,Rankine Scale,Kelvin Scale,None of these,,Physics,Thermodynamics,Celsius Scale,1
+"\( 150 \mathrm{g} \) of ice is mixed with \( 100 \mathrm{g} \) of water at temperature \( 80^{\circ} \mathrm{C} \). The latent heat of ice is 80 ca/g and the specific heat of water is \( 1 \mathrm{cal} / \mathrm{g}-^{\circ} \mathrm{C} \). Assuming no
+heat loss to the environment, the amount of ice which does not melt is",\( 100 \mathrm{g} \),8,\( 150 \mathrm{g} \),50g,,Physics,Thermodynamics,8,2
+"A thin tube of uniform cross-section is
+sealed at both ends. It lies horizontally.
+The middle \( 5 c m \) contains \( \mathrm{Hg} \) and two equal ends contain air at the same
+pressure \( P_{0} . \) When the tube is held at an
+angle of \( 60^{\circ} \) with the vertical, the length of the air column above and below the
+Hg are \( 46 \mathrm{cm} \) and \( 44.5 \mathrm{cm} \). Calculate
+pressure \( P_{0} \) in cm of Hg. Assume
+temperature of the system to be
+constant.",\( 55 \mathrm{cm} \) of \( \mathrm{Hg} \),\( 65 \mathrm{cm} \) of \( \mathrm{Hg} \),\( 70.4 \mathrm{cm} \) of \( \mathrm{Hg} \),\( 75.4 \mathrm{cm} \) of \( \mathrm{Hg} \),,Physics,Thermodynamics,\( 55 \mathrm{cm} \) of \( \mathrm{Hg} \),1
+"We have \( 20 \mathrm{Kg} \) of a block of a substance at its melting point. The substance has a latent heat of fusion of 1500 Joules per
+kilogram and a specific heat at of 2500 Joules per kilogram degree Celcius. How much heat is needed to change the block entirely into a liquid?",30000,750 J,1250,"3000 J
+E. 8000",,Physics,Thermodynamics,30000,1
+Which of the following is a restatement of first law of thermodynamics:,Guy-Lassac's Law,The principle of entropy,The principle of enthalpy,"conservation of energy
+E. Avogadro's hypothesis",,Physics,Thermodynamics,Guy-Lassac's Law,1
+"At temperature \( 0 K, \) the germanium behaves as a/an",conductor,insulator,super-conductor,ferromagnetic,,Physics,Thermodynamics,conductor,1
+The amount of heat required to change 1 kg of ice to water without a change in temperature is known as:,Specific latent heat of vaporisation,Specific latent heat of fusion,latent heat of vaporisation,latent heat of fusion,,Physics,Thermodynamics,Specific latent heat of vaporisation,1
+"Spot the statement which is true for
+temperature of gas and every kinetic
+model of gas:",Temperature \( \propto \) Average kinetic energy of the gas molecule,temperature \( \propto \frac{1}{K . E_{\text {of gas molecule}}} \),Temperature has no effect on kinetic energy of gas not,All true according to condition,,Physics,Thermodynamics,Temperature \( \propto \) Average kinetic energy of the gas molecule,1
+The temperature of transition from ferromagnetic property to paramagnetic property is called as:,Transition temperature,Critical temperature,Curie temperature,Triplet temperature,,Physics,Thermodynamics,Transition temperature,1
+The heat transfer in air is poor because,it take place mainly due to convection,it take place mainly due to conduction,it take place mainly due to radiation,all of the above,,Physics,Thermodynamics,it take place mainly due to convection,1
+"In experiment of convection heat transfer water inside the pipe, completely gets heated (with the application of heat source) can be explained best by which of the following statements,","Differences in densities produced between the bottom and the top of water, in turn produce the driving buoyant force which continuously circulates the water,",A continuous conductive channel is produced between the different layers of water in the pipe which circulates the heat,both the above explains correctly,all of the above,,Physics,Thermodynamics,"Differences in densities produced between the bottom and the top of water, in turn produce the driving buoyant force which continuously circulates the water,",1
+"\( N_{2} \) gas is assumed to behave ideally \( A \)
+given volume of \( N_{2} \) originally at \( 373 \mathrm{k} \)
+and 0.1013 M pa pressure is adiabatically compressed due to which
+its temperature rises to \( \mathbf{6 7 3} \boldsymbol{K}\left(\boldsymbol{C v}=\frac{\mathbf{5}}{\mathbf{2}} \boldsymbol{R}\right) \)
+Which of the following statement(s) is/are correct?
+This question has multiple correct options",The change in internal energy is 6235.5 J mole \( ^{-1} \),In this case the final internal pressure is equal to the external pressure,The final pressure of \( N_{2} \) is approximately 0.38 MPa,The final pressure of \( N_{2} \) is approximately 0.02 Mpa,,Physics,Thermodynamics,The change in internal energy is 6235.5 J mole \( ^{-1} \),1
+"Five blocks \( \boldsymbol{A}, \boldsymbol{B}, \boldsymbol{C}, \boldsymbol{D} \) \& \( \boldsymbol{E} \) of equal
+masses but made of different
+substances as shown in above figure,
+are heated to \( 100^{\circ} \mathrm{C} \) and placed on
+separate \( 10 k g \) blocks of ice that are at a
+temperature of \( 0^{\circ} \mathrm{C} \). Identify which substance melts the greatest amount
+of ice?",The substance with the lowest specific heat,The substance with the highest specific heat,The substance with the greatest surface area,"The substance with the smallest surface area
+E. The substance that started with the highest temperature",,Physics,Thermodynamics,The substance with the lowest specific heat,1
+"The temperature at which the domain
+structure gets destroyed and ferromagnetic substance is converted into paramagnetic substance is called
+as",Domain,Curie Temperature,Rowland,Magnetic Field Intensity,,Physics,Thermodynamics,Domain,1
+"In specific heat of a substance is infinite, it means",Heat is given out,Heat is taken out,No change in temperature takes place whether heat is taken in or given out,All of the above,,Physics,Thermodynamics,Heat is given out,1
+Heat causes-,change in temperature,chemical change,biological change,all of these,,Physics,Thermodynamics,change in temperature,1
+The quantity \( \frac{2 U}{f k T} \) represents (where \( U= \) internal energy of gas,mass of the gas,kinetic energy of the gas,number of moles of the gas,number of molecules in the gas,,Physics,Thermodynamics,mass of the gas,1
+"A liquid A has specific heat capacity higher than the liquid B. Which liquid can be used a heat reservoir to keep juice bottles without freezing?
+\( A \cdot A \)","Which liquid can be used a heat reservoir to keep juice bottles without freezing?
+\( A \cdot A \)",B,Both can be used,Data insufficient,,Physics,Thermodynamics,B,2
+"A hot body, obeying Newton's law of cooling is cooling down from its peak
+value \( 80^{\circ} C \) to \( 40^{\circ} C . \) How much time
+will it take to cool down from \( 62^{\circ} \mathrm{C} \) to
+\( \mathbf{3} \mathbf{2}^{o} \mathbf{C} ?(\operatorname{given} \ln \mathbf{2}=\mathbf{0 . 6 9 3}, \ln \mathbf{5}=\mathbf{1 . 6 0 9} \)",8.6 minutes,6.5 minutes,9.6 minutes,3.75 minutes,,Physics,Thermodynamics,8.6 minutes,1
+"A gas thermometer measure the temperature from, the variation of
+pressure of a sample of gas. If the pressure measured at the melting point of lead is 2.20 times the pressure
+measured at the triple point of water find the melting point of lead.
+\( A \cdot 601 K \)",\( A \cdot 601 K \),420 K,790 к,510 K,,Physics,Thermodynamics,\( A \cdot 601 K \),1
+"10 g of ice at \( -20^{\circ} C \) is dropped into a calorimeter containing 10 g of water at \( 10^{\circ} \mathrm{C} ; \) the specific heat of water is twice that of ice. When equilibrium is reached, the calorimeter will contain:",\( 20 \mathrm{g} \) of water,20 g of ice,\( 10 \mathrm{g} \) ice and \( 10 \mathrm{g} \) water,5 g ice and 15 g water,,Physics,Thermodynamics,\( 20 \mathrm{g} \) of water,1
+"Assertion:At constant pressure when a
+gas is heated from 40 to \( 41^{0} \mathrm{C} \), the increase in volume is \( \frac{1}{273} \) of its initial volume at \( 273 \mathrm{K} \)
+Reason:Volume coefficient of gas is \( \frac{1}{273}^{0} C \)","Both assertion (A) and reason
+(R) are correct and gives the correct explanation","Both assertion (A) and reason
+(R) are correct but R doesnt give the correct explanation",A is true but R is false,A is false but R is true,,Physics,Thermodynamics,"Both assertion (A) and reason
+(R) are correct and gives the correct explanation",1
+"A reversible engine takes heat from a
+reservoir at \( 527^{\circ} \mathrm{C} \) and gives out heat to
+\( a \sin k \) at \( 127^{\circ} \) C. How many Joules/s must it take from the
+reservoir to perform useful mechanical
+work at the rate of \( 750 W ? \)
+A . 257.14","How many Joules/s must it take from the
+reservoir to perform useful mechanical
+work at the rate of \( 750 W ? \)
+A . 257.14",1500,457.14,557.14,,Physics,Thermodynamics,1500,2
+"Two copper rods of the same length, but
+of different diameters of cross section
+are given the same amount of heat.
+Assuming no heat losses:",Thick rod expands more linearly,Thin rod expands more linearly,Both rods expand equally linearly,For large quantities of heat thick rod expands more and thin rod expands more for small quantities of heat.,,Physics,Thermodynamics,Thick rod expands more linearly,1
+has the highest specific latent heat of vaporisation.,steam,constant,can't say,none of the above,,Physics,Thermodynamics,steam,1
+"If we keep pop corn in a pressure cooker
+on a flame, heat is transferred from
+flame to corn by :",Conduction,Radiation,convection,,,Physics,Thermodynamics,Conduction,1
 "A slab of stone of area \( 0.36 m^{2} \) and
 thickness 0.1 is exposed on the lower surface to steam at \( 100 C \). A block
 of ice at \( 0 C \) rests on the upper surface
@@ -24,561 +148,136 @@ conductivity of slab is- (Given latent heat of fusion of ice \( =3.36 \times 10^
 :","In one hour \( 4.8 \mathrm{kg} \) of ice is melted. The thermal
 conductivity of slab is- (Given latent heat of fusion of ice \( =3.36 \times 10^{5} J k g^{-1} \)
 :","\( 1.29 \mathrm{J} / \mathrm{m} / \mathrm{s} / \mathrm{C} \)
-в. 2.05 \( J / m / s / C \)",\( 1.02 \mathrm{J} / \mathrm{m} / \mathrm{s} / \mathrm{C} \),\( 1.24 \mathrm{J} / \mathrm{m} / \mathrm{s} / \mathrm{C} \),Physics,Thermodynamics,"In one hour \( 4.8 \mathrm{kg} \) of ice is melted. The thermal
+в. 2.05 \( J / m / s / C \)",\( 1.02 \mathrm{J} / \mathrm{m} / \mathrm{s} / \mathrm{C} \),\( 1.24 \mathrm{J} / \mathrm{m} / \mathrm{s} / \mathrm{C} \),,Physics,Thermodynamics,"In one hour \( 4.8 \mathrm{kg} \) of ice is melted. The thermal
 conductivity of slab is- (Given latent heat of fusion of ice \( =3.36 \times 10^{5} J k g^{-1} \)
-<<<<<<< HEAD
 :",1
-=======
-:",1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"A liquid A has specific heat capacity higher than the liquid B. Which liquid can be used as a coolant in car
-radiators?
-\( A \cdot A \)","Which liquid can be used as a coolant in car
-radiators?
-<<<<<<< HEAD
-\( A \cdot A \)",B,Both can be used,Data insufficient,Physics,Thermodynamics,B,2
-=======
-\( A \cdot A \)",B,Both can be used,Data insufficient,Physics,Thermodynamics,B,2
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"A volume 'V' and temperature 'T' was
-obtained, as shown in the diagram, when
-a given mass of gas was heated. During
-the heating process, the pressure is
-A . increased","During
-the heating process, the pressure is
-A . increased",decreased,remains constant,changed erratically,Physics,Thermodynamics,"During
-the heating process, the pressure is
-<<<<<<< HEAD
-A . increased",1
-"By the process of convection, the transfer of heat is always",Vertically downwards,Vertically upwards,Both,,Physics,Thermodynamics,Vertically downwards,1
+"Combustion of a fuel produces heat
+because:",of breaking of bonds of hydrocarbons,"of formation of bonds of byproducts \( \left(C O_{2}, H_{2} O\right) \)",of formation of bonds of hydrocarbons.,of nuclear fission in hydrocarbons.,,Physics,Thermodynamics,of breaking of bonds of hydrocarbons,1
+"Thermometer construction is based on
+the principle of",zeroth Law of Thermodynamics,First Law of Thermodynamics,Second Law of Thermodynamics,Third Law of Thermodynamics,,Physics,Thermodynamics,zeroth Law of Thermodynamics,1
+"Compressed air in the tube of a wheel of a cycle at normal temperature suddenly starts coming out from a puncture.The
+air inside:",starts becoming hotter,remains at the same temperature,starts becoming cooler,may become hotter or cooler depending upon the amount of water vapour present,,Physics,Thermodynamics,starts becoming hotter,1
 "Assertion
-The flow of heat energy from one body to the other depends upon the amount of heat energy in them
+A brass tumbler feels much colder than
+a wooden tray on a chilly day.
 Reason
-Heat flows from lower temperature of the body to higher temperature of the body",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-=======
-A . increased",1
-"By the process of convection, the transfer of heat is always",Vertically downwards,Vertically upwards,Both,,Physics,Thermodynamics,Vertically downwards,1
+The thermal conductivity of brass is more than the thermal conductivity of
+wood.",A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,,Physics,Thermodynamics,A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"When two same conducting rod are
+kept at different temperature,",theirs resistivity will be different,their resistivity will be same,resistivity doesn't' depend on temperature,none of the above,,Physics,Thermodynamics,theirs resistivity will be different,1
+Pressure of an ideal gas is increased by keeping temperature constant. What is effect on kinetic energy of molecules?,Increase,Decrease,No change,Cannot be determined,,Physics,Thermodynamics,Increase,1
+"When an ideal gas expands isothermally, its internal energy will",increases,decreases,remains constant,becomes zero,,Physics,Thermodynamics,increases,1
+"In vacuum, heat is transferred by",conduction,convection,radiation,all the above three,,Physics,Thermodynamics,conduction,1
+Heat is,kinetic energy of molecules,potential and kinetic energy of molecules,Energy in transit,work done on the system,,Physics,Thermodynamics,kinetic energy of molecules,1
+"Mercury boils at \( 356^{\circ} \mathrm{C} \). However mercury thermometers are made such
+that they can measure temperatures up to \( 500^{\circ} \mathrm{C} \). This is done by :",maintaining vacuum above the mercury column in the steam of the thermometer,filling nitrogen gas at high pressure above the mercury column,filling nitrogen gas at low pressure above the mercury column,filling oxygen gas at high pressure above the mercury column,,Physics,Thermodynamics,maintaining vacuum above the mercury column in the steam of the thermometer,1
+"When you heat a bowl of water, we can observe that water starts circulating. This demonstrates:",conduction,convection,radiation,none,,Physics,Thermodynamics,conduction,1
+How should a thermometer be dipped inside beaker containing water,Vertically,Tilted,Any of the above way,None of the above way,,Physics,Thermodynamics,Vertically,1
+Which of the following is a restatement of first law of thermodynamics:,Guy-Lassac's Law,The principle of entropy,The principle of enthalpy,"conservation of energy
+E. Avogadro's hypothesis",,Physics,Thermodynamics,Guy-Lassac's Law,1
+Molar heat capacity of a gas does not depend on,Its temperature,Its molecular weight,Its atomicity,The conditions under which heat is supplied,,Physics,Thermodynamics,Its temperature,1
+"Assertion: P-V graph (at constant
+temperature) for ideal gas is rectangular
+parabola
+Reason: Ideal gas obeys Charle's law",Both assertion (A) and reason (R) are correct and R gives the correct explanation,Both assertion (A) and reason (R) are correct but R doesnt give the correct explanation,A is true but R is false,A is false but R is true,,Physics,Thermodynamics,Both assertion (A) and reason (R) are correct and R gives the correct explanation,1
+"An instrument used to measure high
+temperature is",Pyrheliometer,Pyrometer,Technometer,Pyknometer,,Physics,Thermodynamics,Pyrheliometer,1
+At low temperatures \( _{\text {thpe }} \) of thermometer is used.,A. mercury thermometer,water thermometer,alcohol thermometer,thermometers cannot be used,,Physics,Thermodynamics,A. mercury thermometer,1
+"A reversible process changes the state
+of a system in such a way that the net change in the combined entropy of the system and its surroundings is :",zero,Unity,Notequal,More than zero,,Physics,Thermodynamics,zero,1
+"When the reactor shuts down why does
+it require cooling?",To cool the reactor from chain reaction,To cool the reactor from fission reaction,Both (1) and (2),None of these,,Physics,Thermodynamics,To cool the reactor from chain reaction,1
+"A body initially at \( 60^{\circ} \mathrm{C} \) cools to \( 50^{\circ} \mathrm{C} \) in
+10 min. What will be it's temperature at the end of the next 10 min. if the roc
+temperature is \( 20^{\circ} \) C.Assume newton's
+law of cooling.
+A \( \cdot 42.50^{\circ} \mathrm{C} \)","Assume newton's
+law of cooling.
+A \( \cdot 42.50^{\circ} \mathrm{C} \)",\( 45^{\circ} \mathrm{C} \),\( 40.46^{\circ} \mathrm{C} \),\( 44.23^{\circ} \mathrm{C} \),,Physics,Thermodynamics,"Assume newton's
+law of cooling.
+A \( \cdot 42.50^{\circ} \mathrm{C} \)",1
 "Assertion
-The flow of heat energy from one body to the other depends upon the amount of heat energy in them
+In the warmer liquid, the greater
+number of molecules are energetic
+enough to escape the surface during
+evaporation.
 Reason
-Heat flows from lower temperature of the body to higher temperature of the body",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Which of the following properties must be known in order to calculate the
-amount of heat needed to melt \( 1.0 \mathrm{kg} \) of
-ice at \( 0^{\circ} C ? \)
-I. The specific heat of water
-I. The latent heat of fusion for water
-III. The density of water.",I only,I and II only,"।, II, and III","II only
-<<<<<<< HEAD
-E. I and III only",Physics,Thermodynamics,I only,1
-=======
-E. I and III only",Physics,Thermodynamics,I only,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Rohan wants to test whether a white
-object or a black object would heat up faster in the Sun. The given picture shows you his experiment. These thermometers were left out in the Sun
-for 30 minutes.
+Increase in temperature increases the
+rate of evaporation.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"A vessel contains a mixture consisting
+of \( m_{1}-7 g \) of nitrogen \( \left(M_{1}=28\right) \) and \( m_{2}= \)
+11 g of carbon dioxide \( \left(M_{2}=44\right) \) at
+temperature \( T-300 K \) and pressure \( P_{0}= \) atm. The density of the mixture is",\( 1.46 g \) per litre,\( 2.567 g \) per litre,\( 3.752 g \) per litre,\( 4.572 g \) per litre,,Physics,Thermodynamics,\( 1.46 g \) per litre,1
+"Assertion: The product of magnetic susceptibility and absolute temperature for a paramagnetic substance is constant.
+Reason: Susceptibility is positive but
+very small for paramagnetic substance",If both assertion and reason are true and reason is the correct explanation of assertion.,If both assertion and reason are true and reason is not the correct explanation of assertion.,If assertion is true but reason is false,If both assertion and reason are false,,Physics,Thermodynamics,If both assertion and reason are true and reason is the correct explanation of assertion.,1
+"Assertion
+The second law of thermodynamics
+states that the entropy of a closed or isolated system always increases. This means that all available energy is used
+up and there is no more potential for
+further useful work.
+Reason
+The system becomes disordered and
+also degraded",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+Define the term heat:,the condition or quality of being hot,the sensation of warmth or hotness,the degree of hotness; temperature,all of the above,,Physics,Thermodynamics,the condition or quality of being hot,1
+"Steam is passed into 22 gm of water at \( 20^{\circ} \mathrm{C} . \) The mass of water that will be
+present when the water acquires a
+temperature of \( 90^{\circ} \mathrm{C} \) (Latent heat of
+steam is 540 cal/g j is",\( 24.83 \mathrm{gm} \),24 gm,\( 36.6 \mathrm{gm} \),30 gm,,Physics,Thermodynamics,\( 24.83 \mathrm{gm} \),1
+"slowly neated tIII all the mercury spılls
+over
+\( P_{a t m}=76 \mathrm{cm} \) of Hg column
+Statement 1: The temperature of gas continuously increases.
 
-Which of the following statements is
-<<<<<<< HEAD
-true?",Thermometer 1 reads the same as thermometer,Thermometer 2 shows a higher temperature than thermometer,Thermometer 3 shows a higher temperature than thermometer,Thermometer 1 reads the same as thermometer,Physics,Thermodynamics,Thermometer 1 reads the same as thermometer,1
-=======
-true?",Thermometer 1 reads the same as thermometer,Thermometer 2 shows a higher temperature than thermometer,Thermometer 3 shows a higher temperature than thermometer,Thermometer 1 reads the same as thermometer,Physics,Thermodynamics,Thermometer 1 reads the same as thermometer,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
+Statement 2: According to first law of
+thermodynamics \( d Q=d U+d W \)
+where symbols have their usual
+meaning.","Statement1 is true, statement 2 is true and statement 2 is correct explanation for statement 1","Statement1 is true, statement 2 is true and statement 2 is NOT the correct explanation for statement",Statement 1 is true statement 2 is false,"Statement 1 is false, statement 2 is true",,Physics,Thermodynamics,"Statement1 is true, statement 2 is true and statement 2 is correct explanation for statement 1",1
 "Assertion
-If a gas container is placed in a moving
-train, the temperature of gas will increase.
+Two bodies at different temperatures, if brought in thermal contact do not necessary settle to the mean temperature.
 Reason
-<<<<<<< HEAD
-Kinetic energy of gas molecules will increase.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-=======
-Kinetic energy of gas molecules will increase.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"A slab of stone area \( 3500 \mathrm{cm}^{2} \) and
-thickness \( 10 \mathrm{cm} \) is exposed on the lower
-surface to steam at \( 100^{\circ} \mathrm{C} \). A block of
-ice at \( 0^{\circ} C \) rests on upper surface of the slab. In one hour \( 4.8 k g \) of ice of melted.
-The thermal conductivity of the stone is \( J s^{-1} m^{-1} k_{-1} \) is
-(Latent heat of ice \( =\mathbf{3 . 3 6} \times \mathbf{1 0}^{\mathbf{5}} \mathbf{J} / \mathbf{k g} \) )
-A . 12.0","In one hour \( 4.8 k g \) of ice of melted.
-The thermal conductivity of the stone is \( J s^{-1} m^{-1} k_{-1} \) is
-(Latent heat of ice \( =\mathbf{3 . 3 6} \times \mathbf{1 0}^{\mathbf{5}} \mathbf{J} / \mathbf{k g} \) )
-<<<<<<< HEAD
-A . 12.0",10.5,1.02,1.24,Physics,Thermodynamics,10.5,2
-"Iron have much lower specific heat
-than:",steel,Copper,water,none of the above,Physics,Thermodynamics,steel,1
-"In a cyclic heat engine operating between a source temperature of \( 600^{0} C \)
-and a sink temperature of \( 20^{0} C \), the least rate of heat rejection per kW net output of the engine is,",\( 0.505 \mathrm{kW} \),0.49 okw,\( 0.333 \mathrm{kw} \),none of the above,Physics,Thermodynamics,\( 0.333 \mathrm{kw} \),3
-"A sphere, a cube and a thin circular plate have the same mass and are
-made of the same material. All of them
-are heated to the same temperature. The rate of cooling is",The maximum for the sphere and minimum for the plate,"The maximum for the sphere and minimum for the cube
-(a) and (b)",Both,None of the above,Physics,Thermodynamics,The maximum for the sphere and minimum for the plate,1
-A compound of ammonia which sublimes on heating is:,ammonium sulphate,ammonium nitrate,ammonium chloride,ammonium nitrite,Physics,Thermodynamics,ammonium sulphate,1
-"In convection process rate of heat transfer is compared in the option between gas and liquid,choose
-the correct statement",gas convects more as compared to other,liquid convects more as compared to other,liquid convects more as compared to other only if certain factors assists water,none of the above,Physics,Thermodynamics,gas convects more as compared to other,1
-What is Latent Heat?,It is the heat given to a body and simultaneously the body releases it to the atmosphere,It is the heat given to a body to heat it by \( 1^{\circ} \mathrm{C} \),It is the heat given to body to change its state at constant temperature,None of the above,Physics,Thermodynamics,It is the heat given to a body and simultaneously the body releases it to the atmosphere,1
-"the thermal capacity of 40 g of aluminium \( \left(\text {specific } \quad \text {heat}=\frac{0.2 c a l}{g m \times C}\right) \)
-is",\( 40 \mathrm{cal} / C \),160cal/C,200 cal \( / C \),8cal/C,Physics,Thermodynamics,\( 40 \mathrm{cal} / C \),1
-"Assertion: Specific heat of a body is
-always more than its thermal capacity
-Reason : Thermal capacity is the heat required for raising temperature of unit mass of the body through unit degree.",Both assertion and reason are correct and reason is the correct explanation of the assertion.,"Both assertion and reason are correct, but reason is not the correct explanation of the assertion.",Assertion is correct but reason is incorrect,"Assertion is incorrect but Reason is correct
-E. Both assertion and reason is incorrect",Physics,Thermodynamics,Both assertion and reason are correct and reason is the correct explanation of the assertion.,1
-The mode of exchange of energy due to temperature difference is known as:,heat energy,electric energy,potential energy,kinetic energy,Physics,Thermodynamics,heat energy,1
-=======
-A . 12.0",10.5,1.02,1.24,Physics,Thermodynamics,10.5,2
-"Iron have much lower specific heat
-than:",steel,Copper,water,none of the above,Physics,Thermodynamics,steel,1
-"In a cyclic heat engine operating between a source temperature of \( 600^{0} C \)
-and a sink temperature of \( 20^{0} C \), the least rate of heat rejection per kW net output of the engine is,",\( 0.505 \mathrm{kW} \),0.49 okw,\( 0.333 \mathrm{kw} \),none of the above,Physics,Thermodynamics,\( 0.333 \mathrm{kw} \),3
-"A sphere, a cube and a thin circular plate have the same mass and are
-made of the same material. All of them
-are heated to the same temperature. The rate of cooling is",The maximum for the sphere and minimum for the plate,"The maximum for the sphere and minimum for the cube
-(a) and (b)",Both,None of the above,Physics,Thermodynamics,The maximum for the sphere and minimum for the plate,1
-A compound of ammonia which sublimes on heating is:,ammonium sulphate,ammonium nitrate,ammonium chloride,ammonium nitrite,Physics,Thermodynamics,ammonium sulphate,1
-"In convection process rate of heat transfer is compared in the option between gas and liquid,choose
-the correct statement",gas convects more as compared to other,liquid convects more as compared to other,liquid convects more as compared to other only if certain factors assists water,none of the above,Physics,Thermodynamics,gas convects more as compared to other,1
-What is Latent Heat?,It is the heat given to a body and simultaneously the body releases it to the atmosphere,It is the heat given to a body to heat it by \( 1^{\circ} \mathrm{C} \),It is the heat given to body to change its state at constant temperature,None of the above,Physics,Thermodynamics,It is the heat given to a body and simultaneously the body releases it to the atmosphere,1
-"the thermal capacity of 40 g of aluminium \( \left(\text {specific } \quad \text {heat}=\frac{0.2 c a l}{g m \times C}\right) \)
-is",\( 40 \mathrm{cal} / C \),160cal/C,200 cal \( / C \),8cal/C,Physics,Thermodynamics,\( 40 \mathrm{cal} / C \),1
-"Assertion: Specific heat of a body is
-always more than its thermal capacity
-Reason : Thermal capacity is the heat required for raising temperature of unit mass of the body through unit degree.",Both assertion and reason are correct and reason is the correct explanation of the assertion.,"Both assertion and reason are correct, but reason is not the correct explanation of the assertion.",Assertion is correct but reason is incorrect,"Assertion is incorrect but Reason is correct
-E. Both assertion and reason is incorrect",Physics,Thermodynamics,Both assertion and reason are correct and reason is the correct explanation of the assertion.,1
-The mode of exchange of energy due to temperature difference is known as:,heat energy,electric energy,potential energy,kinetic energy,Physics,Thermodynamics,heat energy,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Assertion:With increase in temperature
-the pressure of given gas increases
-Reason:Increase in temperature causes
-decrease in no. of collision of molecules
-with walls of container.","Both assertion (A) and reason
-(R) are correct and gives the correct explanation","Both assertion (A) and reason
-(R) are correct but \( R \) doesnt give the correct explanation",\( A \) is true but \( R \) is false,A is false but R is true,Physics,Thermodynamics,"Both assertion (A) and reason
-<<<<<<< HEAD
-(R) are correct and gives the correct explanation",1
-"The temperature, to which a gas must be cooled before it can be liquified by pressure alone, is known as its",Saturation point,Freezing point,Liquification temperature,critical temperature,Physics,Thermodynamics,Saturation point,1
-=======
-(R) are correct and gives the correct explanation",1
-"The temperature, to which a gas must be cooled before it can be liquified by pressure alone, is known as its",Saturation point,Freezing point,Liquification temperature,critical temperature,Physics,Thermodynamics,Saturation point,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
+The two bodies may have different thermal capacities.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+The gas thermometer are more sensitive than liquid thermometers because gases,expand more than liquid,are easily obtained,are much lighter,do not easily change their states,,Physics,Thermodynamics,expand more than liquid,1
+"Name the process associated with the
+following. Dry ice is kept at room temperature and at one atmospheric pressure.",Evaporation,Sublimation,condensation,Liquefaction,,Physics,Thermodynamics,Evaporation,1
+"The relation between internal energy U, pressure \( P \) and volume \( V \) of a gas in an adiabatic process is \( U=a+b P V, \) where a and b are positive constants. What is the value of \( \gamma \) ?",\( \frac{a}{b} \),\( \frac{b+1}{b} \),\( \frac{a+1}{a} \),,,Physics,Thermodynamics,\( \frac{a}{b} \),1
+"Two identical beakers with negligible thermal expansion are filled with water
+to the same level at \( 4^{\circ} \mathrm{C} \). If one say A is
+heated while the other one is cooled, then:
+This question has multiple correct options",water level in A must rise,water level in B must rise,water level in A must fall,water level in Bmust fall,,Physics,Thermodynamics,water level in A must rise,1
+"A heater coil is cut into two equal parts
+and only one part is now used in the heater. The heat generated will now be:",doubled.,four times,one-fourth,halved,,Physics,Thermodynamics,doubled.,1
+"While measuring the thermal conductivity of liquids, the upper part is kept hot and lower one cool so that:",convectional flow is stopped,radiation is stopped,conduction is easier,it is easier to perform the experiment,,Physics,Thermodynamics,convectional flow is stopped,1
+"Use of thermometer is based on which
+law of thermodynamics?",zeroth,First,second,Third,,Physics,Thermodynamics,zeroth,1
+"An electric heater converts electrical
+energy into:",chemical energy,heat energy,muscular energy,none of the above,,Physics,Thermodynamics,chemical energy,1
+"Gold has a very low specific heat
+compared to water.
+Based on this fact alone, which of the
+following do we know is true?",Gold melts at a much higher temperature than water.,"If I add heat to a chunk of gold, its temperature will go up more than a pot of water to which I add the same amount of heat.","If 1 add heat to a chunk of gold, its temperature will go up less than a pot of water to which I add the same amount of heat.","If I add heat to a chunk of gold, its temperature will go up more than a pot of the same mass of water to which I add the same amount of heat.
+E. If I add heat to a chunk of gold, its temperature will go up less than a pot of the same mass of water to which add the same amount of heat.",,Physics,Thermodynamics,Gold melts at a much higher temperature than water.,1
+"When the reactor shuts down why does
+it require cooling?",To cool the reactor from chain reaction,To cool the reactor from fission reaction,Both (1) and (2),None of these,,Physics,Thermodynamics,To cool the reactor from chain reaction,1
+"Choose the wrong statement when we
+measure the temperature of a water
+kept in a beaker:",Thermometer should be kept vertical so that the bulb does not touch sides or bottom of the beaker,Thermometer should be kept vertical so that the bulb touches the bottom of the beaker,Thermometer should not be kept tilted so that the bulb touches sides or bottom of the beaker,Thermometer should be kept tilted without touching bottom or sides of the beaker,,Physics,Thermodynamics,Thermometer should be kept vertical so that the bulb does not touch sides or bottom of the beaker,1
 "Assertion
-A sphere, a cube and thin circular plate
-of the same mass are made of the same
-material. If all of them are heated to the
-same high temperature the rate of
-cooling is maximum for the plate and minimum for the sphere.
+A spaceship while entering the earth's atmosphere is likely to catch fire.
 Reason
-<<<<<<< HEAD
-The rate of loss of heat by radiation is proportional to the surface area.",A. Assertion is False and Reason is True,Reason is False and assertion is True,Both Assertion and Reason are True and reason correctly explains assertion,Both Assertion and Reason are True but assertion does not correctly explain reason,Physics,Thermodynamics,A. Assertion is False and Reason is True,1
-"Name the process associated with the
-following. Dry ice is kept at room temperature and at one atmospheric pressure.",Evaporation,Sublimation,condensation,Liquefaction,Physics,Thermodynamics,Evaporation,1
-"When the temperature of water rises, the rate of evaporation",increases,decreases,remain the same,first decrease then increases,Physics,Thermodynamics,increases,1
-An increase in temperature produces,an increase in the minority carrier current,an decrease in the minority carrier current,an increase in the majority carrier current,no carrier current,Physics,Thermodynamics,an increase in the minority carrier current,1
-Molar heat capacity of a gas does not depend on,Its temperature,Its molecular weight,Its atomicity,The conditions under which heat is supplied,Physics,Thermodynamics,Its temperature,1
-=======
-The rate of loss of heat by radiation is proportional to the surface area.",A. Assertion is False and Reason is True,Reason is False and assertion is True,Both Assertion and Reason are True and reason correctly explains assertion,Both Assertion and Reason are True but assertion does not correctly explain reason,Physics,Thermodynamics,A. Assertion is False and Reason is True,1
-"Name the process associated with the
-following. Dry ice is kept at room temperature and at one atmospheric pressure.",Evaporation,Sublimation,condensation,Liquefaction,Physics,Thermodynamics,Evaporation,1
-"When the temperature of water rises, the rate of evaporation",increases,decreases,remain the same,first decrease then increases,Physics,Thermodynamics,increases,1
-An increase in temperature produces,an increase in the minority carrier current,an decrease in the minority carrier current,an increase in the majority carrier current,no carrier current,Physics,Thermodynamics,an increase in the minority carrier current,1
-Molar heat capacity of a gas does not depend on,Its temperature,Its molecular weight,Its atomicity,The conditions under which heat is supplied,Physics,Thermodynamics,Its temperature,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"The water equivalent of a copper
-calorimeter is 4.5 g. If specific heat of
-copper is \( 0.09 c a l / g /^{0} C, \) then \( \left(L_{f}=\right. \)
-\( 80 c a l / g m \)
-<<<<<<< HEAD
-This question has multiple correct options",Mass of the calorimeter is \( 0.5 \mathrm{kg} \),Thermal capacity of the calorimeter is \( 4.5 \mathrm{cal}^{0} / \mathrm{C} \),The heat required to raise the temperature of the calorimeter by \( 8^{0} C \) will be 36 cal.,Heat required to melt \( 15 \mathrm{gm} \) of ice at \( 0^{\circ} \mathrm{C} \) Placed in the calorimeter will be 1200 cal,Physics,Thermodynamics,Mass of the calorimeter is \( 0.5 \mathrm{kg} \),1
-"A piece of copper and a piece of germanium are cooled from room temperature to \( 80 K . \) Then, which one of the following is correct?",Resistance of each will increase,Resistance of each will decrease,Resistance of copper will decrease while that of germanium will increase,Resistance of copper will increase while that of germanium will decrease,Physics,Thermodynamics,Resistance of each will increase,1
-"According to law of conservation of
-energy, heat energy is transformed into which two types of energy?",Kinetic and potential energy,Mechanical and potential energy,Kinetic and thermal energy,Nuclear and potential energy,Physics,Thermodynamics,Kinetic and potential energy,1
-"A horizontal uniform glass tube of \( 100 \mathrm{cm} \) length is sealed at both ends contains 10 \( \mathrm{cm} \) mercury column in the middle the
-temperature and pressure of air on either side of mercury column are respectively \( 31^{0} \mathrm{C} \) and \( 76 \mathrm{cm} \) of mercury if the air
-column at one end is kept at \( 0^{0} \mathrm{C} \) and the other end at \( 273^{0} \mathrm{C} \) the pressure of
-air which is at \( 0^{0} \mathrm{C} \) is (in \( \mathrm{cm} \) of \( \mathrm{Hg} \) )",76,88.2,102.4,122,Physics,Thermodynamics,76,1
-"When the reactor shuts down why does
-it require cooling?",To cool the reactor from chain reaction,To cool the reactor from fission reaction,Both (1) and (2),None of these,Physics,Thermodynamics,To cool the reactor from chain reaction,1
-"Temperature at which liquid changes to
-gaseous state",Freezing point,Boiling point,Neutral state,,Physics,Thermodynamics,Freezing point,1
-"Sometimes, the remains of a dead
-animal escape destruction and become buried in sediment of ash or survives
-under heating, crushing or folding. The sediment or rock becomes elevated as a
-part of the land, escapes destructive erosion by water or wind and the object becomes exposed or dug out and comes to the attention of a zoologist. Such a phenomenon leads to the formation of:",A new species,A new animal,A new fossil,"No, this is not possible",Physics,Thermodynamics,A new species,1
-"The unit formerly used for measuring
-heat capacity of a body was:",Calories/('C),Joules/('C),calories,Joules,Physics,Thermodynamics,Calories/('C),1
-Pressure of an ideal gas is increased by keeping temperature constant. What is effect on kinetic energy of molecules?,Increase,Decrease,No change,Cannot be determined,Physics,Thermodynamics,Increase,1
-"In an ideal adiabatic gas expansion,
-This question has multiple correct options",entropy change in the gas itself is \( 0 . \),entropy change of the surrounding amosphere is zero.,entropy change of the surrounding amosphere \( + \) entropy change in the gas itself \( >0 \),all of the above,Physics,Thermodynamics,entropy change in the gas itself is \( 0 . \),1
-"Which one of the liquids, has the highest specific heat capacity?",water,Ether,Alcohol,None of the above,Physics,Thermodynamics,water,1
-"Name the device which is used to
-measure temperature.",Caloriemeter,Thermometer,vermier calliper,,Physics,Thermodynamics,Caloriemeter,1
-"When two vessels containing different quantity of water in it are heated to the same temperature difference, then
-which vessel will heat up fast?",The vessel with less quantity of water,The vessel with more quantity of water,Both vessels will be equally heated,Cannot be said,Physics,Thermodynamics,The vessel with less quantity of water,1
-"Which of the following option are
-related with the second law of
-thermodynamics (law of entropy)?",The heat lost by one object must be gained by another object,Heat flow naturally from a hotter body to a cooler body,Celsius degrees and Kelvin degrees are equivalent,"Heat can be transformed into work
-E. The average kinetic energy of molecules is proportional to temperature",Physics,Thermodynamics,The heat lost by one object must be gained by another object,1
-"Boiling water is changing into steam. Under this condition, the specific heat
-of water is",zero,one,infinite,less than one,Physics,Thermodynamics,zero,1
-Heat travels through vacuum by:,convection,radiation,conduction,of all these,Physics,Thermodynamics,convection,1
-=======
-This question has multiple correct options",Mass of the calorimeter is \( 0.5 \mathrm{kg} \),Thermal capacity of the calorimeter is \( 4.5 \mathrm{cal}^{0} / \mathrm{C} \),The heat required to raise the temperature of the calorimeter by \( 8^{0} C \) will be 36 cal.,Heat required to melt \( 15 \mathrm{gm} \) of ice at \( 0^{\circ} \mathrm{C} \) Placed in the calorimeter will be 1200 cal,Physics,Thermodynamics,Mass of the calorimeter is \( 0.5 \mathrm{kg} \),1
-"A piece of copper and a piece of germanium are cooled from room temperature to \( 80 K . \) Then, which one of the following is correct?",Resistance of each will increase,Resistance of each will decrease,Resistance of copper will decrease while that of germanium will increase,Resistance of copper will increase while that of germanium will decrease,Physics,Thermodynamics,Resistance of each will increase,1
-"According to law of conservation of
-energy, heat energy is transformed into which two types of energy?",Kinetic and potential energy,Mechanical and potential energy,Kinetic and thermal energy,Nuclear and potential energy,Physics,Thermodynamics,Kinetic and potential energy,1
-"A horizontal uniform glass tube of \( 100 \mathrm{cm} \) length is sealed at both ends contains 10 \( \mathrm{cm} \) mercury column in the middle the
-temperature and pressure of air on either side of mercury column are respectively \( 31^{0} \mathrm{C} \) and \( 76 \mathrm{cm} \) of mercury if the air
-column at one end is kept at \( 0^{0} \mathrm{C} \) and the other end at \( 273^{0} \mathrm{C} \) the pressure of
-air which is at \( 0^{0} \mathrm{C} \) is (in \( \mathrm{cm} \) of \( \mathrm{Hg} \) )",76,88.2,102.4,122,Physics,Thermodynamics,76,1
-"When the reactor shuts down why does
-it require cooling?",To cool the reactor from chain reaction,To cool the reactor from fission reaction,Both (1) and (2),None of these,Physics,Thermodynamics,To cool the reactor from chain reaction,1
-"Temperature at which liquid changes to
-gaseous state",Freezing point,Boiling point,Neutral state,,Physics,Thermodynamics,Freezing point,1
-"Sometimes, the remains of a dead
-animal escape destruction and become buried in sediment of ash or survives
-under heating, crushing or folding. The sediment or rock becomes elevated as a
-part of the land, escapes destructive erosion by water or wind and the object becomes exposed or dug out and comes to the attention of a zoologist. Such a phenomenon leads to the formation of:",A new species,A new animal,A new fossil,"No, this is not possible",Physics,Thermodynamics,A new species,1
-"The unit formerly used for measuring
-heat capacity of a body was:",Calories/('C),Joules/('C),calories,Joules,Physics,Thermodynamics,Calories/('C),1
-Pressure of an ideal gas is increased by keeping temperature constant. What is effect on kinetic energy of molecules?,Increase,Decrease,No change,Cannot be determined,Physics,Thermodynamics,Increase,1
-"In an ideal adiabatic gas expansion,
-This question has multiple correct options",entropy change in the gas itself is \( 0 . \),entropy change of the surrounding amosphere is zero.,entropy change of the surrounding amosphere \( + \) entropy change in the gas itself \( >0 \),all of the above,Physics,Thermodynamics,entropy change in the gas itself is \( 0 . \),1
-"Which one of the liquids, has the highest specific heat capacity?",water,Ether,Alcohol,None of the above,Physics,Thermodynamics,water,1
-"Name the device which is used to
-measure temperature.",Caloriemeter,Thermometer,vermier calliper,,Physics,Thermodynamics,Caloriemeter,1
-"When two vessels containing different quantity of water in it are heated to the same temperature difference, then
-which vessel will heat up fast?",The vessel with less quantity of water,The vessel with more quantity of water,Both vessels will be equally heated,Cannot be said,Physics,Thermodynamics,The vessel with less quantity of water,1
-"Which of the following option are
-related with the second law of
-thermodynamics (law of entropy)?",The heat lost by one object must be gained by another object,Heat flow naturally from a hotter body to a cooler body,Celsius degrees and Kelvin degrees are equivalent,"Heat can be transformed into work
-E. The average kinetic energy of molecules is proportional to temperature",Physics,Thermodynamics,The heat lost by one object must be gained by another object,1
-"Boiling water is changing into steam. Under this condition, the specific heat
-of water is",zero,one,infinite,less than one,Physics,Thermodynamics,zero,1
-Heat travels through vacuum by:,convection,radiation,conduction,of all these,Physics,Thermodynamics,convection,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"An ideal gas is heated in a container that has a fixed volume. Identify which of the following will increase as a result of this heating?
-I. The pressure against the walls of the container
-Il. The average kinetic energy of the gas
-molecules
-III. The number of moles of gas in the
-container",I only,I and II only,II and III only,"II only
-<<<<<<< HEAD
-E . III only",Physics,Thermodynamics,II and III only,3
+The temperature of upper atmosphere is very high.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
+"The material that has largest specific
+heat is :",mercury,water,iron,diamond,,Physics,Thermodynamics,mercury,1
+"The relationship between band gap
+energy and temperature can be described by",supersymmetric quantum mechanics,hyperuniformity.,phonons theory.,Varshni's empirical expression,,Physics,Thermodynamics,hyperuniformity.,2
+Two guys in a room are feeling abnormalities. One of them wearing black suit and the other one wearing white suit are feeling different temperature on their body. Which of the following statements is correct :,Black suit guy will feel more heat due to its black colo,White suit guy will feel more heat due to its white color,Both will feel same heat,Neither A nor B,,Physics,Thermodynamics,Black suit guy will feel more heat due to its black colo,1
+"Two heater coils separately take 10 min and 5 min to boil a certain amount of
+water. If both the coils are connected in
+series, the time taken will be",2.5 min,3.33 min,7.5 min,15 min,,Physics,Thermodynamics,2.5 min,1
 "The heat energy obtainable from hot
 rocks present inside the earth crust is
-termed as",Nuclear energy,Tidal energy,Geothermal energy,None of these,Physics,Thermodynamics,Nuclear energy,1
-"Curie temperature is the temperature
-above which",Paramagnetic material becomes ferromagnetic material,Ferromagnetic material becomes diamgnetic material,Ferromagnetic material becomes paramagnetic material,Paramagnetic material becomes diamagnetic material,Physics,Thermodynamics,Paramagnetic material becomes ferromagnetic material,1
-"Inside human body,which of the following is responsible for heat transfer,",conduction,forced convection,free convection,none of the above,Physics,Thermodynamics,conduction,1
-Heat is not transferred by the process of convection in:,solid,liquid,gas,none of the above,Physics,Thermodynamics,solid,1
-=======
-E . III only",Physics,Thermodynamics,II and III only,3
-"The heat energy obtainable from hot
-rocks present inside the earth crust is
-termed as",Nuclear energy,Tidal energy,Geothermal energy,None of these,Physics,Thermodynamics,Nuclear energy,1
-"Curie temperature is the temperature
-above which",Paramagnetic material becomes ferromagnetic material,Ferromagnetic material becomes diamgnetic material,Ferromagnetic material becomes paramagnetic material,Paramagnetic material becomes diamagnetic material,Physics,Thermodynamics,Paramagnetic material becomes ferromagnetic material,1
-"Inside human body,which of the following is responsible for heat transfer,",conduction,forced convection,free convection,none of the above,Physics,Thermodynamics,conduction,1
-Heat is not transferred by the process of convection in:,solid,liquid,gas,none of the above,Physics,Thermodynamics,solid,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Assertion
-Latent heat of fusion of ice is
-\( \mathbf{3 3 6 0 0 0} \boldsymbol{J} \boldsymbol{k g}^{-\mathbf{1}} \)
-Reason
-Latent heat refers to heat required to
-<<<<<<< HEAD
-change of state without any change in temperature.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-"A piece of copper is heated in oven, then dropped into a beaker of water. If a student want to calculate the specific
-heat of copper then he must know or measure the value of all of the
-quantities below EXCEPT the:",mass of the water,original temperatures of the copper and the water,final (equilibrium) temperature of the copper and the water,"time taken to achieve equilibrium after the copper is dropped into the water
-E. specific heat of the water",Physics,Thermodynamics,mass of the water,1
-"Critical temperature can be defined as
-the",Temperature at which there is no motion between the molecules,Temperature at which a gas is converted into its liquid state,Temperature at which volume of a gas becomes zero,Temperature above which a gas cannot be liquefied no matter however high the pressure may be,Physics,Thermodynamics,Temperature at which there is no motion between the molecules,1
-"Spot the statement which is true for
-temperature of gas and every kinetic
-model of gas:",Temperature \( \propto \) Average kinetic energy of the gas molecule,temperature \( \propto \frac{1}{K . E_{\text {of gas molecule}}} \),Temperature has no effect on kinetic energy of gas not,All true according to condition,Physics,Thermodynamics,Temperature \( \propto \) Average kinetic energy of the gas molecule,1
-The internal energy of an ideal gas increases during an isothermal process when the gas is,Expanded by adding more molecules to it,Expanded by adding more heat to it,Expanded against zero pressure,Compressed by doing work on it,Physics,Thermodynamics,Expanded by adding more molecules to it,1
-"What sensation do we feel due to heat
-energy?",Sensation of hotness and coldness,Sensation of touch,Sensation of darkness,sensation of light,Physics,Thermodynamics,Sensation of hotness and coldness,1
-"The quantity of heat required to raise the temperature of unit mass of a substance through one degree Celsius
-is known as",Heat Capacity of body,Specific heat capacity of a body,Latent heat of body,Specific latent heat of a body,Physics,Thermodynamics,Heat Capacity of body,1
-"Mercury boils at \( 367^{\circ} \mathrm{C} \). Mercury thermometers are made such that they
-can measure temperature up to \( 500^{\circ} \mathrm{C} \) This done by",Filling nitrogen gas at high pressure above the mercury column,Fillıng oxygen gas at low pressure above the mercury column,Filling carbondioxide gas above mercury column,None of the above,Physics,Thermodynamics,Filling nitrogen gas at high pressure above the mercury column,1
-=======
-change of state without any change in temperature.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-"A piece of copper is heated in oven, then dropped into a beaker of water. If a student want to calculate the specific
-heat of copper then he must know or measure the value of all of the
-quantities below EXCEPT the:",mass of the water,original temperatures of the copper and the water,final (equilibrium) temperature of the copper and the water,"time taken to achieve equilibrium after the copper is dropped into the water
-E. specific heat of the water",Physics,Thermodynamics,mass of the water,1
-"Critical temperature can be defined as
-the",Temperature at which there is no motion between the molecules,Temperature at which a gas is converted into its liquid state,Temperature at which volume of a gas becomes zero,Temperature above which a gas cannot be liquefied no matter however high the pressure may be,Physics,Thermodynamics,Temperature at which there is no motion between the molecules,1
-"Spot the statement which is true for
-temperature of gas and every kinetic
-model of gas:",Temperature \( \propto \) Average kinetic energy of the gas molecule,temperature \( \propto \frac{1}{K . E_{\text {of gas molecule}}} \),Temperature has no effect on kinetic energy of gas not,All true according to condition,Physics,Thermodynamics,Temperature \( \propto \) Average kinetic energy of the gas molecule,1
-The internal energy of an ideal gas increases during an isothermal process when the gas is,Expanded by adding more molecules to it,Expanded by adding more heat to it,Expanded against zero pressure,Compressed by doing work on it,Physics,Thermodynamics,Expanded by adding more molecules to it,1
-"What sensation do we feel due to heat
-energy?",Sensation of hotness and coldness,Sensation of touch,Sensation of darkness,sensation of light,Physics,Thermodynamics,Sensation of hotness and coldness,1
-"The quantity of heat required to raise the temperature of unit mass of a substance through one degree Celsius
-is known as",Heat Capacity of body,Specific heat capacity of a body,Latent heat of body,Specific latent heat of a body,Physics,Thermodynamics,Heat Capacity of body,1
-"Mercury boils at \( 367^{\circ} \mathrm{C} \). Mercury thermometers are made such that they
-can measure temperature up to \( 500^{\circ} \mathrm{C} \) This done by",Filling nitrogen gas at high pressure above the mercury column,Fillıng oxygen gas at low pressure above the mercury column,Filling carbondioxide gas above mercury column,None of the above,Physics,Thermodynamics,Filling nitrogen gas at high pressure above the mercury column,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"A copper block of mass \( 50 \mathrm{g} \) is heated to
-\( 100^{\circ} \) and placed on a block of ice at \( 0^{\circ} \mathrm{C} \)
-The specific heat of copper is \( 0.1 \mathrm{cal} \)
-\( g^{-1} \cdot C^{-1} \) and latent heat of ice is
-<<<<<<< HEAD
-\( 80 c a l g^{-1} . \) The amount of ice melted is",\( 6.15 \mathrm{g} \),\( 6.2 \mathrm{g} \),\( 6.25 \mathrm{g} \),\( 6.3 \mathrm{g} \),Physics,Thermodynamics,\( 6.15 \mathrm{g} \),1
-"Two thermometers are used to record
-the temperature of a room and the bulb
-of one is wrapped in wet hanky.",The temperature recorded by both will be same,The temperature recorded by the wet-bulb thermometer will be greater than that recorded by the other,The temperature recorded by dry-bulb thermometer will be greater than that recorded by the other,None of the above,Physics,Thermodynamics,The temperature recorded by both will be same,1
-"What function does a condenser
-perform,in heat pumps?",Condenser performs the most important function of cooling the room.,Condenser performs the most important function of heating the room.,Condenser performs the most important function of freezing outside the room,Condenser performs the most important function of heating the atmosphere,Physics,Thermodynamics,Condenser performs the most important function of cooling the room.,1
-=======
-\( 80 c a l g^{-1} . \) The amount of ice melted is",\( 6.15 \mathrm{g} \),\( 6.2 \mathrm{g} \),\( 6.25 \mathrm{g} \),\( 6.3 \mathrm{g} \),Physics,Thermodynamics,\( 6.15 \mathrm{g} \),1
-"Two thermometers are used to record
-the temperature of a room and the bulb
-of one is wrapped in wet hanky.",The temperature recorded by both will be same,The temperature recorded by the wet-bulb thermometer will be greater than that recorded by the other,The temperature recorded by dry-bulb thermometer will be greater than that recorded by the other,None of the above,Physics,Thermodynamics,The temperature recorded by both will be same,1
-"What function does a condenser
-perform,in heat pumps?",Condenser performs the most important function of cooling the room.,Condenser performs the most important function of heating the room.,Condenser performs the most important function of freezing outside the room,Condenser performs the most important function of heating the atmosphere,Physics,Thermodynamics,Condenser performs the most important function of cooling the room.,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Find the temperature at which the fundamental frequency of an organ pipe is independent of small variation in
-temperature in terms of the coefficient of linear expansion \( (\alpha) \) of the material of the tube
-A . \( 1 / 3 \alpha \)","\) of the material of the tube
-A . \( 1 / 3 \alpha \)",\( 1 / 2 \alpha \),\( 1 / 4 \alpha \),\( 1 / 5 \alpha \),Physics,Thermodynamics,"\) of the material of the tube
-<<<<<<< HEAD
-A . \( 1 / 3 \alpha \)",1
-The propagation of heat in vacuum takes place by,Conduction,Convection,Radiation,None of these,Physics,Thermodynamics,Conduction,1
-=======
-A . \( 1 / 3 \alpha \)",1
-The propagation of heat in vacuum takes place by,Conduction,Convection,Radiation,None of these,Physics,Thermodynamics,Conduction,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Assertion
-Ratio of isothermal bulk modulus and
-adiabatic bulk modulus for a
-monoatomic gas at a glven pressure is \( \frac{3}{5} \)
-<<<<<<< HEAD
-Reason This ratio is equal to \( \gamma=\frac{C_{p}}{C_{v}} \)",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-"In isothermal expansion the pressure is
-determined by :",temperature only,compressibility only,both temperature and compressibility,latent heat,Physics,Thermodynamics,temperature only,1
-"Suppose a liquid in a container is heated at the top rather than at the bottom. What is the main process by
-which the rest of the liquid becomes hot
-\( ? \)",Conduction,Evaporation,Sublimation,None of these,Physics,Thermodynamics,Conduction,1
-"As the temperature of the medium increases,",speed of sound increases,speed of sound decreases,no effect on speed of sound,may increase or decrease,Physics,Thermodynamics,speed of sound increases,1
-Which one of the following heater element is used in electric press,Copper wire,Nichrome wire,Lead wire,Iron wire,Physics,Thermodynamics,Copper wire,1
-"At the molecular level what can be said
-about Heat energy?",Heat energy is equal to total mechanical energy of all its molecules,Heat energy is equal to total potential energy of all its molecules,Heat energy is equal to total kinetic energy of all its molecules,Heat energy is equal to total heat energy of all its molecules,Physics,Thermodynamics,Heat energy is equal to total mechanical energy of all its molecules,1
-It is accurate to say that the corona contains heat?,Yes,No,"In particular conditions, say during solar eclipse, it contains heat",None of these,Physics,Thermodynamics,No,2
-"The amount of heat energy required to raise the temperature off 1 kg of water
-through \( 1^{\circ} C \) is",Calorie,Thermal capacity,specific Heat,Kilo calorie,Physics,Thermodynamics,Calorie,1
-"The statement ""lt is impossible to
-construct a heat engine which can convert heat directly to work completely"" was given by",Clausius,Carnot,Plank,Kelvin \& Plank,Physics,Thermodynamics,Clausius,1
-"When two same conducting rod are
-kept at different temperature,",theirs resistivity will be different,their resistivity will be same,resistivity doesn't' depend on temperature,none of the above,Physics,Thermodynamics,theirs resistivity will be different,1
-"Two thermometers are used to record
-the temperature of a room. If the bulb of
-one is wrapped in wet hanky:",The temperature recorded by both will be same.,The temperature recorded by the wet-bulb thermometer will be greater than that recorded by the other,The temperature recorded by dry-bulb thermometer will be greater than that recorded by the other,None of the above,Physics,Thermodynamics,The temperature recorded by both will be same.,1
-=======
-Reason This ratio is equal to \( \gamma=\frac{C_{p}}{C_{v}} \)",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-"In isothermal expansion the pressure is
-determined by :",temperature only,compressibility only,both temperature and compressibility,latent heat,Physics,Thermodynamics,temperature only,1
-"Suppose a liquid in a container is heated at the top rather than at the bottom. What is the main process by
-which the rest of the liquid becomes hot
-\( ? \)",Conduction,Evaporation,Sublimation,None of these,Physics,Thermodynamics,Conduction,1
-"As the temperature of the medium increases,",speed of sound increases,speed of sound decreases,no effect on speed of sound,may increase or decrease,Physics,Thermodynamics,speed of sound increases,1
-Which one of the following heater element is used in electric press,Copper wire,Nichrome wire,Lead wire,Iron wire,Physics,Thermodynamics,Copper wire,1
-"At the molecular level what can be said
-about Heat energy?",Heat energy is equal to total mechanical energy of all its molecules,Heat energy is equal to total potential energy of all its molecules,Heat energy is equal to total kinetic energy of all its molecules,Heat energy is equal to total heat energy of all its molecules,Physics,Thermodynamics,Heat energy is equal to total mechanical energy of all its molecules,1
-It is accurate to say that the corona contains heat?,Yes,No,"In particular conditions, say during solar eclipse, it contains heat",None of these,Physics,Thermodynamics,No,2
-"The amount of heat energy required to raise the temperature off 1 kg of water
-through \( 1^{\circ} C \) is",Calorie,Thermal capacity,specific Heat,Kilo calorie,Physics,Thermodynamics,Calorie,1
-"The statement ""lt is impossible to
-construct a heat engine which can convert heat directly to work completely"" was given by",Clausius,Carnot,Plank,Kelvin \& Plank,Physics,Thermodynamics,Clausius,1
-"When two same conducting rod are
-kept at different temperature,",theirs resistivity will be different,their resistivity will be same,resistivity doesn't' depend on temperature,none of the above,Physics,Thermodynamics,theirs resistivity will be different,1
-"Two thermometers are used to record
-the temperature of a room. If the bulb of
-one is wrapped in wet hanky:",The temperature recorded by both will be same.,The temperature recorded by the wet-bulb thermometer will be greater than that recorded by the other,The temperature recorded by dry-bulb thermometer will be greater than that recorded by the other,None of the above,Physics,Thermodynamics,The temperature recorded by both will be same.,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"The absolute temperature T of a gas is
-plotted against its pressure \( \mathrm{P} \) for two
-different constant volumes \( V_{1} \) and \( V_{2} \)
-where \( V_{1}>V_{2} . \) T is plotted along \( x \) -axis
-and \( \mathrm{P} \) along \( \mathrm{y} \) -axis.","Slope for curve corresponding to volume \( V_{1} \) is greater
-than that corresponding to volume \( V_{2} \)",Slope for curve corresponding to volume \( V_{2} \) is greater than that corresponding to volume \( V_{1} \),Slope for both curves are equal,Slope for both curves are unequal such that they intersect at \( T=0 \),Physics,Thermodynamics,"Slope for curve corresponding to volume \( V_{1} \) is greater
-<<<<<<< HEAD
-than that corresponding to volume \( V_{2} \)",1
-=======
-than that corresponding to volume \( V_{2} \)",1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"The second law of thermodynamics
-implies:","whole of heat can be converted into mechanical
-energy",no heat engine can be \( 100 \% \) efficient,every heat engine has an efficiency of \( 100 \% \),"a refrigerator can reduce the temperature to absolute
-zero",Physics,Thermodynamics,"whole of heat can be converted into mechanical
-<<<<<<< HEAD
-energy",1
-Two bodies at different temperatures are kept in contact. If the body at higher temperature gets hotter than it violates which law of thermodynamics?,zeroth law of thermodynamics,First law of thermodynamics,second law of thermodynamics,Third law of thermodynamics,Physics,Thermodynamics,zeroth law of thermodynamics,1
-=======
-energy",1
-Two bodies at different temperatures are kept in contact. If the body at higher temperature gets hotter than it violates which law of thermodynamics?,zeroth law of thermodynamics,First law of thermodynamics,second law of thermodynamics,Third law of thermodynamics,Physics,Thermodynamics,zeroth law of thermodynamics,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Assertion
-During rapid pumping of air in tyres, air inside the tyre is hotter than
-atmospheric air.
-Reason
-Adiabatic process occurs at very high
-<<<<<<< HEAD
-rate",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.,1
-"Assertion
-The flow of heat energy from one body to the other depends upon the amount of heat energy in them
-Reason
-Heat flows from lower temperature of the body to higher temperature of the body",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-"Mercury is often used in clinical thermometers.Which one of the
-following properties of mercury is not a reason for this ?",The coefficient of the thermal expansion is large,It is shiny,It is a liquid at room temperature,It has high density,Physics,Thermodynamics,The coefficient of the thermal expansion is large,1
-=======
-rate",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.,1
-"Assertion
-The flow of heat energy from one body to the other depends upon the amount of heat energy in them
-Reason
-Heat flows from lower temperature of the body to higher temperature of the body",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Assertion is incorrect but Reason is correct,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-"Mercury is often used in clinical thermometers.Which one of the
-following properties of mercury is not a reason for this ?",The coefficient of the thermal expansion is large,It is shiny,It is a liquid at room temperature,It has high density,Physics,Thermodynamics,The coefficient of the thermal expansion is large,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Assertion
-In the refrigerator, the evaporator is located in the freezer section.
-Reason
-In the heat pump, the evaporator is located outside the room which is to be
-<<<<<<< HEAD
-heated.",A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Thermodynamics,A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-Among the following what should not be done while or before using a clinical thermometer?,Ensure that before use the mercury level is below \( 35^{\circ} \mathrm{C} \),Wash the thermometer with hot water.,"Handle the thermometer with care, as you handle any glass articles.",Don't hold the thermometer by the bulb while reading it,Physics,Thermodynamics,"Handle the thermometer with care, as you handle any glass articles.",3
-"Assertion
-Specific heat of a body is always greater than its thermal capacity.
-Reason
-Thermal capacity is the heat required for raising temperature of unit mass of the body through unit degree.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-=======
-heated.",A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Thermodynamics,A. Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
-Among the following what should not be done while or before using a clinical thermometer?,Ensure that before use the mercury level is below \( 35^{\circ} \mathrm{C} \),Wash the thermometer with hot water.,"Handle the thermometer with care, as you handle any glass articles.",Don't hold the thermometer by the bulb while reading it,Physics,Thermodynamics,"Handle the thermometer with care, as you handle any glass articles.",3
-"Assertion
-Specific heat of a body is always greater than its thermal capacity.
-Reason
-Thermal capacity is the heat required for raising temperature of unit mass of the body through unit degree.",Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion,Assertion is correct but Reason is incorrect,Both Assertion and Reason are incorrect,Physics,Thermodynamics,Both Assertion and Reason are correct and Reason is the correct explanation for Assertion,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"statement
-(1): A metallic plate
-containing a circular hole is heated
-then the size of the hole increases.
-statement
-<<<<<<< HEAD
-(2): The expansion of the solid always takes place readily outwards.",statement 1 and statement 2 are correct and statement 2 is correct an explanation for statement 1,statement 1 and statement 2 are correct and statement 2 is not the correct explanation for statement,statement 1 is true and statement 2 is false,statement 1 is wrong and statement 2 is true,Physics,Thermodynamics,statement 1 and statement 2 are correct and statement 2 is correct an explanation for statement 1,1
-=======
-(2): The expansion of the solid always takes place readily outwards.",statement 1 and statement 2 are correct and statement 2 is correct an explanation for statement 1,statement 1 and statement 2 are correct and statement 2 is not the correct explanation for statement,statement 1 is true and statement 2 is false,statement 1 is wrong and statement 2 is true,Physics,Thermodynamics,statement 1 and statement 2 are correct and statement 2 is correct an explanation for statement 1,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"kept in two identical vessels, which are
-placed in a freezer that extracts heat
-from them at the same rate causing
-each liquid to transform into a solid.
-The schematic figure shows the
-temperature T vs time t plot for the two
-materials. We denote the specific heat
-in the liquid states to be \( C_{L 1} \) and \( C_{L 2} \)
-for materials 1 and 2 respectively, and
-latent heats of fusion \( U_{1} \) and \( U_{2} \)
-respectively. Choose the correct option.","The schematic figure shows the
-temperature T vs time t plot for the two
-materials. We denote the specific heat
-in the liquid states to be \( C_{L 1} \) and \( C_{L 2} \)
-for materials 1 and 2 respectively, and
-latent heats of fusion \( U_{1} \) and \( U_{2} \)
-respectively. Choose the correct option.",\( C_{L 1}>C_{L 2} \) and \( U_{1}<U_{2} \),"\( C_{L 1}>C_{L 2} \) and \( U_{1}>U_{2} \)
-\( \mathbf{c} \cdot C_{L 1}<C_{L 2} \) and \( U_{1}>U_{2} \)",\( C_{L 1}<C_{L 2} \) and \( U_{1}<U_{2} \),Physics,Thermodynamics,"The schematic figure shows the
-temperature T vs time t plot for the two
-materials. We denote the specific heat
-in the liquid states to be \( C_{L 1} \) and \( C_{L 2} \)
-for materials 1 and 2 respectively, and
-latent heats of fusion \( U_{1} \) and \( U_{2} \)
-<<<<<<< HEAD
-respectively. Choose the correct option.",1
-Which among the following substances has the greatest specific heat?,Iron,Water,copper,Mercury,Physics,Thermodynamics,Iron,1
-"The air density at Mount Everest is less than that at the sea level. It is found by mountaineers that for one trip lasting a few hours, the extra oxygen needed by them corresponds to \( 30,000 c c \) at sea level (pressure 1 atmosphere,
-temperature \( 27^{\circ} \mathrm{C} \) ). Assume that the
-temperature around Mount Everest is -
-\( 73^{\circ} \mathrm{C} \) and that the oxygen cylinder has a capacity of 5.2 litters. The pressure at which oxygen be filled (at site) in the cylinder is",3.86 atm,5.00 atm,5.77 atm,1 atm,Physics,Thermodynamics,3.86 atm,1
-=======
-respectively. Choose the correct option.",1
-Which among the following substances has the greatest specific heat?,Iron,Water,copper,Mercury,Physics,Thermodynamics,Iron,1
-"The air density at Mount Everest is less than that at the sea level. It is found by mountaineers that for one trip lasting a few hours, the extra oxygen needed by them corresponds to \( 30,000 c c \) at sea level (pressure 1 atmosphere,
-temperature \( 27^{\circ} \mathrm{C} \) ). Assume that the
-temperature around Mount Everest is -
-\( 73^{\circ} \mathrm{C} \) and that the oxygen cylinder has a capacity of 5.2 litters. The pressure at which oxygen be filled (at site) in the cylinder is",3.86 atm,5.00 atm,5.77 atm,1 atm,Physics,Thermodynamics,3.86 atm,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"Five blocks \( \boldsymbol{A}, \boldsymbol{B}, \boldsymbol{C}, \boldsymbol{D} \) \& \( \boldsymbol{E} \) of equal
-masses but made of different
-substances as shown in above figure,
-are heated to \( 100^{\circ} \mathrm{C} \) and placed on
-separate \( 10 k g \) blocks of ice that are at a
-temperature of \( 0^{\circ} \mathrm{C} \). Identify which substance melts the greatest amount
-of ice?",The substance with the lowest specific heat,The substance with the highest specific heat,The substance with the greatest surface area,"The substance with the smallest surface area
-<<<<<<< HEAD
-E. The substance that started with the highest temperature",Physics,Thermodynamics,The substance with the lowest specific heat,1
-Conversion of vapour into solid on cooling is called:,desublimation,vapour deposition,Both A and B,None of the above,Physics,Thermodynamics,desublimation,1
-The heating element in an electric iron is made up of :,nichrome,iron,constantan,tungsten,Physics,Thermodynamics,iron,2
-"In specific heat of a substance is infinite, it means",Heat is given out,Heat is taken out,No change in temperature takes place whether heat is taken in or given out,All of the above,Physics,Thermodynamics,Heat is given out,1
-Heat is transmitted from higher to lower temperature through actual motion of the molecule in,conduction,convection,radiation,all of these,Physics,Thermodynamics,conduction,1
-"Specific heat of a substance depends
-on its.",Mass,Volume,Temperature,colour,Physics,Thermodynamics,Mass,1
-"A coin is dipped in the molten wax in a glass tube. When we heat the upper part of the glass tube, the wax around the coil will not melt because:",Wax has a very high melting point,Wax is a good conductor of heat,Glass is a good conductor of heat,Wax or glass are bad conductors,Physics,Thermodynamics,Wax has a very high melting point,1
-"The adiabatic Bulk modulus of a
-diatomic gas at atmospheric pressure is",\( 0 \mathrm{Nm}^{-2} \),\( 1 \mathrm{Nm}^{-2} \),\( 1.4 \times 10^{4} N m^{-2} \),\( 1.4 \times 10^{5} \mathrm{Nm}^{-2} \),Physics,Thermodynamics,\( 0 \mathrm{Nm}^{-2} \),1
-=======
-E. The substance that started with the highest temperature",Physics,Thermodynamics,The substance with the lowest specific heat,1
-Conversion of vapour into solid on cooling is called:,desublimation,vapour deposition,Both A and B,None of the above,Physics,Thermodynamics,desublimation,1
-The heating element in an electric iron is made up of :,nichrome,iron,constantan,tungsten,Physics,Thermodynamics,iron,2
-"In specific heat of a substance is infinite, it means",Heat is given out,Heat is taken out,No change in temperature takes place whether heat is taken in or given out,All of the above,Physics,Thermodynamics,Heat is given out,1
-Heat is transmitted from higher to lower temperature through actual motion of the molecule in,conduction,convection,radiation,all of these,Physics,Thermodynamics,conduction,1
-"Specific heat of a substance depends
-on its.",Mass,Volume,Temperature,colour,Physics,Thermodynamics,Mass,1
-"A coin is dipped in the molten wax in a glass tube. When we heat the upper part of the glass tube, the wax around the coil will not melt because:",Wax has a very high melting point,Wax is a good conductor of heat,Glass is a good conductor of heat,Wax or glass are bad conductors,Physics,Thermodynamics,Wax has a very high melting point,1
-"The adiabatic Bulk modulus of a
-diatomic gas at atmospheric pressure is",\( 0 \mathrm{Nm}^{-2} \),\( 1 \mathrm{Nm}^{-2} \),\( 1.4 \times 10^{4} N m^{-2} \),\( 1.4 \times 10^{5} \mathrm{Nm}^{-2} \),Physics,Thermodynamics,\( 0 \mathrm{Nm}^{-2} \),1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"The Van der Waal's equation of state for some gases can be expressed as:
-\( \left(\boldsymbol{P}+\frac{\boldsymbol{a}}{\boldsymbol{V}^{2}}\right)(\boldsymbol{V}-\boldsymbol{b})=\boldsymbol{R} \boldsymbol{T} \)
-where \( P \) is the pressure, \( V \) is the molar volume, and \( T \) is the absolute
-temperature of the given sample of gas and \( a, b \) and \( R \) are constants.
-
-<<<<<<< HEAD
-In the above problem, the dimensional formula for \( \mathrm{RT} \) is same as that of",Energy,Force,specific heat,Latent heat,Physics,Thermodynamics,Energy,1
-"The internal energy of an isolated
-system",keeps on changing,remains constant,zero,none of these,Physics,Thermodynamics,zero,3
-"According to the Boltzmann's law of equipartition of energy, the energy per degree of freedom and at a temperature
-T K is :",(3/2) KT,(2/3) KT,кт,1/2 KT,Physics,Thermodynamics,(3/2) KT,1
-"A thermometer has a low thermal
-capacity. Why is this an advantage?",The thermometer does not absorb much thermal energy to raise its own temperature,The thermometer does not conduct much thermal energy to the surroundings,The thermometer does not melt when it gets hot,"The thermometer does not radiate much thermal
-energy to the surroundings",Physics,Thermodynamics,The thermometer does not absorb much thermal energy to raise its own temperature,1
-Heat energy transferred in bodies at thermal equilibrium is,Very high and positive,Very low and positive,zero,negative,Physics,Thermodynamics,Very high and positive,1
-=======
-In the above problem, the dimensional formula for \( \mathrm{RT} \) is same as that of",Energy,Force,specific heat,Latent heat,Physics,Thermodynamics,Energy,1
-"The internal energy of an isolated
-system",keeps on changing,remains constant,zero,none of these,Physics,Thermodynamics,zero,3
-"According to the Boltzmann's law of equipartition of energy, the energy per degree of freedom and at a temperature
-T K is :",(3/2) KT,(2/3) KT,кт,1/2 KT,Physics,Thermodynamics,(3/2) KT,1
-"A thermometer has a low thermal
-capacity. Why is this an advantage?",The thermometer does not absorb much thermal energy to raise its own temperature,The thermometer does not conduct much thermal energy to the surroundings,The thermometer does not melt when it gets hot,"The thermometer does not radiate much thermal
-energy to the surroundings",Physics,Thermodynamics,The thermometer does not absorb much thermal energy to raise its own temperature,1
-Heat energy transferred in bodies at thermal equilibrium is,Very high and positive,Very low and positive,zero,negative,Physics,Thermodynamics,Very high and positive,1
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
-"(A): the linear coefficients of expansion
-of a crystal along three perpendicular
-\( \operatorname{axes} \operatorname{are} \alpha, \frac{-\alpha}{2}, \frac{\alpha}{5} . \) its volume
-coefficient is \( \frac{7 \alpha}{10} \)
-(B): For an-isotropic solids
-\( \boldsymbol{r}=\boldsymbol{\alpha}_{\boldsymbol{x}}+\boldsymbol{\alpha}_{\boldsymbol{y}}+\boldsymbol{\alpha}_{\boldsymbol{z}} \)
-\( A \cdot A \) and \( B \) are correct and \( B \) is correct explanation for \( A \)",": the linear coefficients of expansion
-of a crystal along three perpendicular
-\( \operatorname{axes} \operatorname{are} \alpha, \frac{-\alpha}{2}, \frac{\alpha}{5} . \) its volume
-coefficient is \( \frac{7 \alpha}{10} \)
-(B): For an-isotropic solids
-\( \boldsymbol{r}=\boldsymbol{\alpha}_{\boldsymbol{x}}+\boldsymbol{\alpha}_{\boldsymbol{y}}+\boldsymbol{\alpha}_{\boldsymbol{z}} \)
-<<<<<<< HEAD
-\( A \cdot A \) and \( B \) are correct and \( B \) is correct explanation for \( A \)",A and B are correct and B is not correct explanation for \( A \),A is true and B is false,A and B both are wrong,Physics,Thermodynamics,A is true and B is false,3
-=======
-\( A \cdot A \) and \( B \) are correct and \( B \) is correct explanation for \( A \)",A and B are correct and B is not correct explanation for \( A \),A is true and B is false,A and B both are wrong,Physics,Thermodynamics,A is true and B is false,3
->>>>>>> 0a4d9deb2f7bd9649dbad5817c22a46959689ba4
+termed as",Nuclear energy,Tidal energy,Geothermal energy,None of these,,Physics,Thermodynamics,Nuclear energy,1
+The thermal conductivity of a rod depends on:,length,mass,area of cross-section,material of rod,,Physics,Thermodynamics,length,1
+"The uneven heating of land takes place
+due to",Direction of sunlight,Direction of wind,Temperature of the earth,None of the above,,Physics,Thermodynamics,Direction of sunlight,1
+"When heat energy is supplied to the substance, kinetic energy of its molecules:",Increases,Decreases,Remains Same,cannot be predicted,,Physics,Thermodynamics,Increases,1
